@@ -1,7 +1,7 @@
 # GOBI.md — GOBI88 Brand & Editorial Guardrail
 
 > **Status:** Active guardrail  
-> **Version:** 0.1  
+> **Version:** 0.2  
 > **Effective date:** 2026-08-02  
 > **Owner:** GOBI88 Brand Team
 
@@ -66,11 +66,11 @@ Core zones:
 
 ### Character system
 
-**GOBI** is the lead explorer: a stylish cyber-desert fox/fennec who is intelligent, observant, playful, and slightly sarcastic. The character must feel premium and adult, not childish.
+**GOBI** is the lead presenter: an original fictional Asian woman, clearly adult at age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Her canonical visual identity is human v3.2: chestnut-brown hair with side-swept bangs, red cheek marks, navy headset, dominant-white suit, deep-navy structure, and signal-red technical accents.
 
 **B-88** is GOBI's drone companion: camera, navigator, fact-checker, and comic counterpoint.
 
-Human presenters are called **GOBI Operators**. The audience is called **GOBI Crew**.
+Supporting human presenters are called **GOBI Operators**. The audience is called **GOBI Crew**.
 
 Provisional signature lines:
 
@@ -78,7 +78,7 @@ Provisional signature lines:
 - Closing: “Pilih misi berikutnya.”
 - Community CTA: “Masuk ke GOBIVERSE dan tinggalkan keputusanmu.”
 
-Character designs remain provisional until the visual character bible is approved.
+GOBI human v3.2 identity, expression, and pose systems are approved canonical. B-88 human scale and interaction remain pending.
 
 ## 5. Content Pillars
 
@@ -173,22 +173,28 @@ Preferred vocabulary: quest, arena, explore, mechanics, universe, crew, mission,
 
 ## 9. Visual Direction
 
-Default visual world:
+Official system:
 
-- Futuristic desert, warm sand, deep night, electric cyan/teal, restrained orange accents.
-- Premium 3D character and cinematic lighting.
-- Holographic UI, maps, portals, arena architecture, and technology.
-- Clear typography and a single message per frame.
+- Canonical GOBI human v3.2.
+- Official GOBI88 logo.
+- Deep navy, dominant pearl white, and signal red.
+- Premium cinematic character imagery plus bold editorial typography.
+- Four repeatable modes: Signal Cinema, Type Strike, Breakout Frame, and Editorial Mask.
+- Oversized type, asymmetric crops, intentional overlap, floating UI, masking panels, and controlled negative space.
+- Subtle grain, halftone, scanline, and restrained glitch.
+
+See [Graphic Style System](docs/03-graphic-style-system.md) and the [Style Board](assets/concepts/gobi88-social-graphic-style-board-v1.png).
 
 Avoid:
 
-- Direct copies of copyrighted game characters.
+- Pink, magenta, purple, cyan, turquoise, bright royal blue, orange, yellow, gold, or green campaign accents.
+- Direct copies of copyrighted characters, brands, logos, layouts, or UI.
 - Childlike mascots or toy-like presentation.
 - Visual overload and unreadable promotional text.
-- Fake balance screenshots and fabricated win effects.
-- Generic red-gold casino clichés as the entire identity.
+- Pseudo-text, fake balances, fabricated win effects, money rain, or generic casino-gold clichés.
+- More than one primary message per frame.
 
-All assets must record their source, license, prompt, model/tool, and edit status.
+All assets must record their source, license, prompt, model/tool, edit status, and approval status.
 
 ## 10. Content Workflow
 

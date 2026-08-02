@@ -94,6 +94,45 @@ Create a 3-by-2 head-and-shoulders sheet from canonical GOBI human v3.2. Preserv
 Create a 3-by-2 full-body presenter sheet from canonical GOBI human v3.2. Six head-to-toe poses: Host Welcome, Competitive Gamer, Myth vs Math, Community Poll, Knowledge Explainer, Responsible Warning. Preserve face, hair, proportions, suit, headset, navy/white/red palette, and complete shoes. Use blank navy chest plates for later official-logo compositing. Use only unlabeled probability curves and exact A/B poll cards. No numeric claims, pseudo-text, pink, casino imagery, weapons, child coding, or anatomy drift.
 ```
 
+## Organic Social Graphic Style Board v1
+
+**Date:** 2026-08-02  
+**Asset:** `gobi88-social-graphic-style-board-v1.png`  
+**Dimensions:** 1672×941  
+**Size:** 2,394,870 bytes  
+**SHA-256:** `0bd79a173b3be583f49cd223215916c126e4d08f4e6e0b4dccb1d5fb9bde759c`  
+**Status:** visual-direction candidate; owner approval pending  
+**Guide:** [docs/03-graphic-style-system.md](../../docs/03-graphic-style-system.md)
+
+### Source roles
+
+- Canonical GOBI human v3.2 defines identity and costume.
+- Official GOBI88 logo defines navy, white, and red.
+- Owner-supplied graphic references define only composition mechanics: cinematic layering, oversized typography, device breakout, negative space, editorial masks, asymmetric grid, scanline/halftone, and restrained glitch.
+- No reference brand, logo, subject, copy, color palette, trademark, or exact layout is copied.
+
+### Four modes
+
+1. Signal Cinema.
+2. Type Strike.
+3. Breakout Frame.
+4. Editorial Mask.
+
+### Prompt summary
+
+```text
+Create a landscape 16:9 visual-direction board with four GOBI88 organic-social graphic modes in a 2-by-2 grid, using canonical GOBI human v3.2 and the official logo. Mode A Signal Cinema: dark navy, red rim, UI cards, PLAY SMARTER. Mode B Type Strike: white field, huge cropped navy type, red blocks, MYTH VS MATH. Mode C Breakout Frame: GOBI steps through a navy device frame, ENTER THE GOBIVERSE. Mode D Editorial Mask: white vertical panels, dramatic face crop, quote marks, PAUSE. CHECK. PLAY. Use only navy, white, red, black-navy, and minor graphite. References provide composition mechanics only; do not copy their brands, subjects, colors, trademarks, or exact layouts.
+```
+
+### QA
+
+- Canonical GOBI face, hair, cheek marks, headset, and suit retained across four modes.
+- Official navy/white/red palette retained.
+- No pink or prohibited accent color detected.
+- Required large headlines are readable.
+- No casino imagery, win claim, currency, minors, or commercial CTA.
+- Small logo and final production typography must still be composited from controlled source files.
+
 ## Historical Revision v3.1 — Face, Makeup, Hair, and Blue Suit Lock
 
 **Date:** 2026-08-02  
