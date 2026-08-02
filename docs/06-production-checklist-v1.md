@@ -25,6 +25,7 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] P002 `Slot Myth Lab 01`: RNG, RTP, volatility, myths, responsible limits; storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] P003 `RTP vs Volatility / Myth Lab 02`: comparison storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] P004 `RNG Tidak Punya Ingatan / Myth Lab 03`: independence storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
+- [x] P005 `Near Miss Bukan Sinyal / Myth Lab 04`: perception storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] Record image-generation references, prompts, correction passes, and asset hashes.
 - [x] Keep guide tones clearly marked as temporary and unapproved final music.
 
@@ -41,7 +42,7 @@ This checklist is the operational source of truth. Completed items are productio
 
 - [ ] Render three GOBI voice WAV samples using the approved casting pack. Deferred by owner for faster rollout.
 - [ ] Compare samples A/B/C and select the final voice. Deferred.
-- [ ] Record/render final Indonesian voice-over for P001–P004. Deferred.
+- [ ] Record/render final Indonesian voice-over for P001–P005. Deferred.
 - [ ] Replace guide tone with licensed music and final sound design. Deferred.
 
 ## Next production — platform package
@@ -56,7 +57,7 @@ This checklist is the operational source of truth. Completed items are productio
 ## Next production — knowledge series
 
 - [x] P004 `RNG: Kenapa Setiap Hasil Independen?`
-- [ ] P005 `Near Miss Bukan Sinyal`.
+- [x] P005 `Near Miss Bukan Sinyal`.
 - [ ] P006 `House Edge vs RTP`.
 - [ ] P007 `Bonus Feature: Cara Kerja, Bukan Janji`.
 - [ ] P008 `Batas Waktu dan Budget Sebelum Bermain`.
