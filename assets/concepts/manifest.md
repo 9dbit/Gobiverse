@@ -1,18 +1,39 @@
 # GOBI88 Visual Concept Manifest
 
-**Batch:** Character Concepts v1  
+**Batch:** Character System v2 rollout  
 **Created:** 2026-08-02  
 **Character Bible:** [docs/02-character-bible.md](../../docs/02-character-bible.md)  
 **Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
 **Generation route:** Built-in image generation  
 **Model/version:** Not exposed by the built-in generation route  
-**Input references:** None  
+**Input references:** Owner-supplied silver-white GOBI astronaut action image and front/side model sheet  
 **Human image edits:** None  
-**Canonical status:** Approved — Hybrid canonical direction selected
+**Canonical status:** GOBI v2 active; v1 superseded; B-88 geometry retained pending color integration
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
-## Asset Registry
+
+## Active Canonical Revision v2
+
+**Direction:** Cosmic Intelligence / Space Explorer  
+**Owner direction received:** 2026-08-02
+
+| Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
+|---|---|---:|---:|---|---|
+| GOBI-IDENTITY-V2 | `gobi-canonical-identity-lock-v2.png` | 1672×941 | 2,476,579 bytes | `c7f46eabf4936209ec18090c36723c0fdafb338079bb8aa8af3b8c9a908acce9` | Active canonical identity |
+
+GOBI v2 replaces the sand-furred dark-techwear identity with a realistic silver-white fox in a white/silver astronaut suit, restrained graphite panels, red core, exact red LED “GOBI” chest marking, and exact red LED “88” arm marking.
+
+The supplied reference images define the face, fur, suit, tail, backpack, identifiers, red holographic technology, and space-explorer mood.
+
+### Downstream impact
+
+- GOBI v1 identity, expression, pose, scale, Academy, environment-character, storyboard, and thumbnail renders are historical only.
+- B-88 dual-loop geometry and 35 cm scale remain provisionally valid.
+- P001 must be regenerated before publishing.
+- No v1 and v2 GOBI assets may appear in the same campaign.
+
+## Historical v1 Asset Registry
 
 | Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
 |---|---|---:|---:|---|---|
@@ -24,13 +45,13 @@ The PNG binaries are delivered as project assets with the filenames and hashes b
 
 | Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
 |---|---|---:|---:|---|---|
-| GOBI-IDENTITY-V1 | `gobi-canonical-identity-lock-v1.png` | 1627×967 | 2,216,335 bytes | `79c351e33c0b524acd344eb4bcc95f32849e1b09c7e0a774eb21c76502ddad3d` | Approved |
-| GOBI-EXPRESSIONS-V1 | `gobi-canonical-expression-sheet-v1.png` | 1536×1024 | 2,485,979 bytes | `e4a4f6f7c970184840fa5975e19c42819dc5c202bd76a0d3123c52bbe8863540` | Approved |
-| GOBI-POSES-V1 | `gobi-canonical-pose-sheet-v1.png` | 1536×1024 | 2,037,834 bytes | `463fa743f7d9ee70804fad0585890b94fe88ca11b2d4a4de0f6f799dc82dc652` | Approved |
+| GOBI-IDENTITY-V1 | `gobi-canonical-identity-lock-v1.png` | 1627×967 | 2,216,335 bytes | `79c351e33c0b524acd344eb4bcc95f32849e1b09c7e0a774eb21c76502ddad3d` | Superseded by v2 |
+| GOBI-EXPRESSIONS-V1 | `gobi-canonical-expression-sheet-v1.png` | 1536×1024 | 2,485,979 bytes | `e4a4f6f7c970184840fa5975e19c42819dc5c202bd76a0d3123c52bbe8863540` | Superseded; regenerate v2 |
+| GOBI-POSES-V1 | `gobi-canonical-pose-sheet-v1.png` | 1536×1024 | 2,037,834 bytes | `463fa743f7d9ee70804fad0585890b94fe88ca11b2d4a4de0f6f799dc82dc652` | Superseded; regenerate v2 |
 | GOBI-B88-SCALE-V1 | `gobi-b88-canonical-scale-chart-v1.png` | 1536×1024 | 1,963,460 bytes | `885c4440c1c1a0fb91e2549ab09ca6514d564f906f809aaf6f379d3b048b0e4a` | Superseded by v2 |
-| GOBI-B88-OPERATOR-SCALE-V2 | `gobi-b88-human-operator-scale-chart-v2.png` | 1536×1024 | 1,925,447 bytes | `1f394eac67a2d8289e8b87e16a840ea874ccc8aba69168a9b3275224296492b7` | Approved |
-| GOBIVERSE-KEYFRAME-01-V1 | `gobiverse-environment-keyframe-01-v1.png` | 1625×968 | 1,965,112 bytes | `5bfdbee2e112e53cb3c90970225fc5e70c4fada24d1bdb20379ac05a2fc939b3` | Approved |
-| GOBI-ACADEMY-KEYFRAME-01-V1 | `gobi-academy-keyframe-01-v1.png` | 1627×967 | 1,960,561 bytes | `d16b4fd38c3bcabdc9ab50b83bd78e177b71194aeae7b63731bc7e749ff50dea` | Approved |
+| GOBI-B88-OPERATOR-SCALE-V2 | `gobi-b88-human-operator-scale-chart-v2.png` | 1536×1024 | 1,925,447 bytes | `1f394eac67a2d8289e8b87e16a840ea874ccc8aba69168a9b3275224296492b7` | Superseded; regenerate v3 |
+| GOBIVERSE-KEYFRAME-01-V1 | `gobiverse-environment-keyframe-01-v1.png` | 1625×968 | 1,965,112 bytes | `5bfdbee2e112e53cb3c90970225fc5e70c4fada24d1bdb20379ac05a2fc939b3` | Environment usable; GOBI pass superseded |
+| GOBI-ACADEMY-KEYFRAME-01-V1 | `gobi-academy-keyframe-01-v1.png` | 1627×967 | 1,960,561 bytes | `d16b4fd38c3bcabdc9ab50b83bd78e177b71194aeae7b63731bc7e749ff50dea` | Superseded; regenerate GOBI v2 pass |
 
 ## Canonical Selection Record
 
