@@ -1,8 +1,9 @@
 # GOBI & B-88 Visual Character Bible
 
-**Status:** In progress  
-**Version:** 0.1  
+**Status:** Approved  
+**Version:** 1.0  
 **Started:** 2026-08-02  
+**Approved:** 2026-08-02  
 **Issue:** [#2 — Create GOBI and B-88 visual character bible](https://github.com/9dbit/Gobiverse/issues/2)  
 **Guardrail:** [GOBI.md](../GOBI.md)
 
@@ -276,12 +277,12 @@ No generated image becomes a canonical reference until reviewed and marked **App
 
 Approve or revise before producing the full reference set:
 
-- [ ] Cinematic Tech Explorer direction.
-- [ ] Adult heroic proportions.
-- [ ] Sand / charcoal / cyan palette.
-- [ ] Default explorer outfit.
-- [ ] GOBI expression and pose set.
-- [ ] B-88 dual-loop form language.
-- [ ] Master prompt and negative constraints.
+- [x] Cinematic Tech Explorer direction.
+- [x] Adult heroic proportions.
+- [x] Sand / charcoal / cyan palette.
+- [x] Default explorer outfit.
+- [x] GOBI expression and pose set.
+- [x] B-88 dual-loop form language.
+- [x] Master prompt and negative constraints.
 
-Once approved, generate two GOBI concept variants and one B-88 concept board for visual selection.
+Approved by the project owner on 2026-08-02. Generate two GOBI concept variants and one B-88 concept board for visual selection.
