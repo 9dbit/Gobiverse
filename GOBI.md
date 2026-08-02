@@ -1,7 +1,7 @@
 # GOBI.md — GOBI88 Brand & Editorial Guardrail
 
 > **Status:** Active guardrail  
-> **Version:** 0.2  
+> **Version:** 0.3  
 > **Effective date:** 2026-08-02  
 > **Owner:** GOBI88 Brand Team
 
@@ -78,7 +78,7 @@ Provisional signature lines:
 - Closing: “Pilih misi berikutnya.”
 - Community CTA: “Masuk ke GOBIVERSE dan tinggalkan keputusanmu.”
 
-GOBI human v3.2 identity, expression, and pose systems are approved canonical. B-88 human scale and interaction remain pending.
+GOBI human v3.2 identity, expression, and pose systems are approved canonical. B-88 is approved at 35 cm total width with Shoulder Nav, Fact-check, Follow, and Scan interaction rules defined by the human scale/interaction board v4.
 
 ## 5. Content Pillars
 
@@ -183,7 +183,7 @@ Official system:
 - Oversized type, asymmetric crops, intentional overlap, floating UI, masking panels, and controlled negative space.
 - Subtle grain, halftone, scanline, and restrained glitch.
 
-See [Graphic Style System](docs/03-graphic-style-system.md) and the [Style Board](assets/concepts/gobi88-social-graphic-style-board-v1.png).
+See [Graphic Style System](docs/03-graphic-style-system.md), the [Style Board](assets/concepts/gobi88-social-graphic-style-board-v1.png), and [Production Rollout v1](docs/04-production-rollout-v1.md).
 
 Avoid:
 
