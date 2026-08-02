@@ -64,13 +64,13 @@ Game implementations and house rules can vary. Verify the specific game's curren
 
 ## Shot List
 
-1. Black screen; thin cyan navigation line activates.
-2. Wide GOBIVERSE environment keyframe.
-3. GOBI profile looking toward the distant portal.
-4. B-88 scans and projects a route.
-5. Rapid zone montage: Academy, Arena, Lab, Cinema.
-6. GOBI turns to camera.
-7. End frame: portal opens; logo added in post.
+1. Near-black navy screen; thin signal-red portal line activates.
+2. Clean pearl-white/navy/red GOBIVERSE operations city reveal.
+3. Human GOBI v3.2 steps through the portal/device frame.
+4. B-88 follows at approved 35 cm scale and projects a compact route.
+5. Rapid zone montage: Academy, Arena, and Lab.
+6. GOBI turns to camera; face, cheek marks, and headset remain unobstructed.
+7. End frame: GOBI and B-88 beside the portal; exact logo added in post.
 
 ## On-Screen Copy
 
@@ -89,11 +89,11 @@ Game implementations and house rules can vary. Verify the specific game's curren
 
 ## Required Assets
 
-- GOBIVERSE environment keyframe.
-- GOBI Explorer outfit.
-- B-88 Navigate state.
-- GOBI Academy keyframe.
-- Logo animation and sonic sting.
+- P001 human storyboard v3.
+- Canonical GOBI human v3.2 technical presenter suit.
+- B-88 Shoulder Nav and Follow states at 35 cm scale.
+- Breakout Frame 9:16 master.
+- Exact logo animation and sonic sting.
 
 ---
 
