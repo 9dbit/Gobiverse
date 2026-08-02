@@ -28,6 +28,7 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] P005 `Near Miss Bukan Sinyal / Myth Lab 04`: perception storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] Record image-generation references, prompts, correction passes, and asset hashes.
 - [x] Keep guide tones clearly marked as temporary and unapproved final music.
+- [ ] Regenerate or continuity-correct GOBI in P001–P005 visual assets to the Human GOBI v3.3 lock before publication.
 
 ## Completed — voice pre-production
 
