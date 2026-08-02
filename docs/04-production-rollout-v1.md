@@ -9,10 +9,8 @@
 - Deterministic social masters are approved for 9:16, 4:5, and 1:1.
 - Human GOBI v3.2 remains the only active lead-character identity.
 - B-88 is locked at 35 cm total width and approximately one-fifth of GOBI's standing height.
-- P001 has been regenerated as a human-character Dark Neon Tech launch asset.
-- P002 Slot Myth Lab 01 is produced as the first probability-knowledge episode.
-- P003 RTP vs Volatility is produced as Myth Lab 02.
-- [Production checklist v1](06-production-checklist-v1.md) is the active operational tracker.
+- P001 has been regenerated as a human-character launch asset.
+- P001–P004 guide animatics are complete; final voice and sound design are intentionally deferred.
 
 ## Production masters
 
@@ -37,57 +35,35 @@ Approved interaction states:
 
 ## P001 rollout
 
-- [Storyboard v4](../content/week-01/p001/gobi-p001-storyboard-v4.png)
-- [Thumbnail v4](../content/week-01/p001/gobi-p001-thumbnail-v4.png)
-- [Animatic v2](../content/week-01/p001/gobi-p001-animatic-v2.mp4)
+- [Storyboard v3](../content/week-01/p001/gobi-p001-storyboard-v3.png)
+- [Thumbnail v3](../content/week-01/p001/gobi-p001-thumbnail-v3.png)
 - [Asset manifest](../content/week-01/p001/manifest.md)
 
 P001 uses Breakout Frame for the hook and Signal Cinema for the environment reveal. Its job is to introduce the world and earn follows, not advertise real-money access.
 
-## Active visual revision
+## Knowledge-series rollout
 
-Dark Neon Tech v2 now overrides the v1 palette/material treatment for final renders. P001's structure, timing, copy, and human-character continuity remain valid; its final visual polish should use dark-dominant colorful gradients, neon glow, glass pill UI, and engineered metal frames from [the v2 system](05-dark-neon-tech-system-v2.md).
+- **P002 — RTP Explained:** production package and guide animatic complete.
+- **P003 — Volatility Is Not RTP:** production package and guide animatic complete.
+- **P004 — RNG Tidak Punya Ingatan:** [storyboard](../content/week-01/p004/gobi-p004-storyboard-v1.png), [thumbnail](../content/week-01/p004/gobi-p004-thumbnail-v1.png), [guide animatic](../content/week-01/p004/gobi-p004-animatic-v1.mp4), [script](../content/week-01/p004/script-v1.md), and [manifest](../content/week-01/p004/manifest.md) complete.
 
-## P002 rollout
+P004 locks the core explanation that each RNG request is independent. Independence does not mean every possible outcome has equal probability.
 
-- [Storyboard v1](../content/week-01/p002/gobi-p002-storyboard-v1.png)
-- [Thumbnail v1](../content/week-01/p002/gobi-p002-thumbnail-v1.png)
-- [Animatic v1](../content/week-01/p002/gobi-p002-animatic-v1.mp4)
-- [Script and caption](../content/week-01/p002/script-v1.md)
-- [Asset manifest](../content/week-01/p002/manifest.md)
+## Deferred — audio
 
-P002 opens the `Myth Lab` recurring series. It explains probability concepts without promising wins, predicting outcomes, or encouraging longer play. Published variants must retain the 18+ and responsible-play cue.
+- GOBI voice casting and ElevenLabs generation.
+- Final voice-over for P001–P004.
+- Music, sound design, and final platform audio masters.
 
-## P003 rollout
-
-- [Storyboard v1](../content/week-01/p003/gobi-p003-storyboard-v1.png)
-- [Thumbnail v1](../content/week-01/p003/gobi-p003-thumbnail-v1.png)
-- [Animatic v1](../content/week-01/p003/gobi-p003-animatic-v1.mp4)
-- [Script and caption](../content/week-01/p003/script-v1.md)
-- [Asset manifest](../content/week-01/p003/manifest.md)
-
-P003 explains that RTP and volatility describe different properties. It avoids session promises, recommendations, fabricated percentages, and outcome prediction.
-
-## Voice and sonic pre-production
-
-- [Voice & Sonic Bible v0.1](07-voice-sonic-bible-v0.1.md)
-- [P001 final voice-over](../content/week-01/p001/voiceover-final-v1.md)
-- [P002 final voice-over](../content/week-01/p002/voiceover-final-v1.md)
-- [P003 final voice-over](../content/week-01/p003/voiceover-final-v1.md)
-- [Audio cue sheet P001–P003](../audio/cue-sheet-p001-p003-v1.md)
-
-GOBI is locked as an adult Indonesian tech-entertainment host. B88 uses short analytical inserts. Final casting/TTS selection, voice generation, licensed music, and final mixing remain pending.
+Production continues with guide tone and subtitles until audio is resumed by the owner.
 
 ## Next production queue
 
 1. [x] Convert P001 storyboard frames into a 34-second guide animatic.
 2. [x] Add controlled headline timing, Indonesian subtitles, guide audio, and poster frame.
-3. [x] Restyle P001 shots with Dark Neon Tech v2.
-4. [x] Produce P002 `Slot Myth Lab 01` covering RNG, RTP, volatility, myths, and responsible limits.
-5. [ ] Replace guide audio with approved GOBI voice, music, and final sound design.
-6. [ ] Export final P001 and P002 platform variants after audio approval.
-7. [x] Produce P003 `RTP vs Volatility` as a focused comparison episode.
-8. [x] Approve GOBI voice identity and sonic system v0.1.
-9. [ ] Generate three GOBI voice samples and select final casting/TTS voice.
-10. [ ] Record/render P001–P003 final voice tracks and sound design.
-11. [ ] Produce P004 `RNG: Kenapa Setiap Hasil Independen?`.
+3. [x] Produce P002 `RTP Explained` using Type Strike + Editorial Mask.
+4. [x] Produce P003 `Volatility Is Not RTP`.
+5. [x] Produce P004 `RNG Tidak Punya Ingatan`.
+6. [ ] Produce P005 `Near Miss Bukan Sinyal`.
+7. [ ] Resume voice casting and final sound design when approved by the owner.
+8. [ ] Export final platform variants after audio approval.
