@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,000
+RTP dan volatility sering disamakan, padahal fungsinya berbeda.
+
+2
+00:00:04,000 --> 00:00:10,000
+RTP menggambarkan rata-rata teori dalam jumlah putaran yang sangat besar.
+
+3
+00:00:10,000 --> 00:00:15,000
+Volatility lebih rendah biasanya berarti perubahan hasil yang lebih kecil dan lebih sering.
+
+4
+00:00:15,000 --> 00:00:20,000
+Volatility lebih tinggi berarti jarak dan perubahan hasil dapat terasa lebih besar.
+
+5
+00:00:20,000 --> 00:00:26,000
+Dua sistem dapat memiliki RTP serupa, tetapi perjalanan risikonya berbeda.
+
+6
+00:00:26,000 --> 00:00:30,000
+Keduanya bukan alat untuk memprediksi hasil berikutnya.
+
+7
+00:00:30,000 --> 00:00:34,000
+Pahami informasinya, tetapkan batas, lalu tepati.
