@@ -1,15 +1,19 @@
 # GOBI-P001 — Brand Reveal Asset Manifest
 
-Status: **Production-ready v1**  
+Status: **Superseded — regenerate with canonical GOBI v2**  
 Format: **9:16 vertical**  
 Target runtime: **12–15 seconds**
+
+## Canonical revision notice
+
+GOBI v1 was superseded on 2026-08-02 by the silver-white astronaut GOBI v2. Both visual assets below contain the old character and are blocked from publishing. The script, six-shot sequence, and headline remain usable as production structure.
 
 ## Assets
 
 | Asset | Dimensions | SHA-256 | Status |
 |---|---:|---|---|
-| `gobi-p001-storyboard-v1.png` | 941 × 1672 | `8cc102168856ea173a699b006a0d19e76d8fd72309c27037fa4cb1bb43e04bec` | Approved for animatic |
-| `gobi-p001-thumbnail-v1.png` | 941 × 1672 | `64e6bc88d75415af9fb71fd5054ff0f7a4d9cae769ee24c5d6165e3a9f09d685` | Approved for organic test |
+| `gobi-p001-storyboard-v1.png` | 941 × 1672 | `8cc102168856ea173a699b006a0d19e76d8fd72309c27037fa4cb1bb43e04bec` | Historical only; do not publish |
+| `gobi-p001-thumbnail-v1.png` | 941 × 1672 | `64e6bc88d75415af9fb71fd5054ff0f7a4d9cae769ee24c5d6165e3a9f09d685` | Historical only; do not publish |
 
 ## Storyboard sequence
 
@@ -24,7 +28,7 @@ Target runtime: **12–15 seconds**
 
 `ENTER THE GOBIVERSE`
 
-## QA record
+## Historical QA record — v1 only
 
 - Canonical GOBI facial identity and Explorer outfit retained.
 - B-88 remains a compact companion drone and does not overpower GOBI.
