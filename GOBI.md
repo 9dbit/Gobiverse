@@ -1,7 +1,7 @@
 # GOBI.md — GOBI88 Brand & Editorial Guardrail
 
 > **Status:** Active guardrail  
-> **Version:** 0.5  
+> **Version:** 0.6  
 > **Effective date:** 2026-08-02  
 > **Owner:** GOBI88 Brand Team
 
@@ -66,7 +66,7 @@ Core zones:
 
 ### Character system
 
-**GOBI** is the lead presenter: an original fictional Asian woman, clearly adult at age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Her canonical visual identity is human v3.2: chestnut-brown hair with side-swept bangs, red cheek marks, navy headset, dominant-white suit, deep-navy structure, and signal-red technical accents.
+**GOBI** is the lead presenter: an original fictional Asian woman, clearly adult at age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Her canonical visual identity is **human v3.3**: warm adult Asian features; long deep chestnut-brown layered hair with soft full fringe and face-framing bangs; refined natural makeup; two parallel signal-red diagonal bars on each cheek; navy/black metallic over-ear broadcast headset with red illuminated rings and a boom mic; and a fitted high-neck operator jacket with balanced pearl-white and deep-navy angular panels, signal-red piping, metallic shoulder structure, the official GOBI88 chest badge, and red 88 upper-arm identifier. The owner-supplied “Near Miss Bukan Sinyal” banner is the face, hair, makeup, headset, and outfit reference lock.
 
 **B-88** is GOBI's drone companion: camera, navigator, fact-checker, and comic counterpoint.
 
@@ -78,7 +78,7 @@ Provisional signature lines:
 - Closing: “Pilih misi berikutnya.”
 - Community CTA: “Masuk ke GOBIVERSE dan tinggalkan keputusanmu.”
 
-GOBI human v3.2 identity, expression, and pose systems are approved canonical. B-88 is approved at 35 cm total width with Shoulder Nav, Fact-check, Follow, and Scan interaction rules defined by the human scale/interaction board v4.
+GOBI human v3.3 face and outfit lock is approved canonical. Earlier v3.2 expression, pose, and article visuals are historical references and must be regenerated or continuity-checked before new publication. B-88 remains approved at 35 cm total width with Shoulder Nav, Fact-check, Follow, and Scan interaction rules defined by the human scale/interaction board v4.
 
 ## 5. Content Pillars
 
@@ -196,7 +196,7 @@ Preferred vocabulary: quest, arena, explore, mechanics, universe, crew, mission,
 
 Active system: **Dark Neon Tech v2**.
 
-- Canonical GOBI human v3.2 and approved B-88 scale.
+- Canonical GOBI human v3.3 and approved B-88 scale.
 - Official GOBI88 logo and permanent red/white/navy anchors.
 - Deep navy or near-black remains 65–75% of the visual.
 - Colorful gradients may use electric blue, cobalt, cyan, teal, amber, and restrained orange as luminous secondary accents.
