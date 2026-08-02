@@ -1,8 +1,9 @@
 # Step 1 — Brand Foundation
 
-**Status:** In progress  
-**Version:** 0.1  
+**Status:** Approved  
+**Version:** 1.0  
 **Started:** 2026-08-02  
+**Approved:** 2026-08-02  
 **Guardrail:** [GOBI.md](../GOBI.md)
 
 ## Outcome
@@ -21,14 +22,14 @@ Primary tagline:
 
 | Decision | Working direction | Status |
 |---|---|---|
-| Brand category | Adult gaming media and entertainment | Proposed |
-| Core differentiator | Original universe + knowledge + audience participation | Proposed |
-| Lead character | GOBI, premium cyber-desert fox | Proposed |
-| Side character | B-88, navigator drone | Proposed |
-| Audience name | GOBI Crew | Proposed |
-| Main knowledge zone | GOBI Academy | Proposed |
-| Main story zone | GOBI Cinema | Proposed |
-| Main community mechanic | GOBI Quest | Proposed |
+| Brand category | Adult gaming media and entertainment | Approved |
+| Core differentiator | Original universe + knowledge + audience participation | Approved |
+| Lead character | GOBI, premium cyber-desert fox | Approved |
+| Side character | B-88, navigator drone | Approved |
+| Audience name | GOBI Crew | Approved |
+| Main knowledge zone | GOBI Academy | Approved |
+| Main story zone | GOBI Cinema | Approved |
+| Main community mechanic | GOBI Quest | Approved |
 | Default age threshold | 21+ where unclear | Active safety default |
 | Roblox activation | Excluded | Active |
 | Knowledge promise | Honest mechanics, math, design, and culture | Active |
@@ -134,12 +135,14 @@ Avoid:
 
 Before visual production scales, approve or revise:
 
-- [ ] Positioning.
-- [ ] Tagline.
-- [ ] GOBI character direction.
-- [ ] B-88 character direction.
-- [ ] GOBI Crew community name.
-- [ ] Visual palette.
-- [ ] First seven topics.
+- [x] Positioning.
+- [x] Tagline.
+- [x] GOBI character direction.
+- [x] B-88 character direction.
+- [x] GOBI Crew community name.
+- [x] Visual palette.
+- [x] First seven topics.
 
-Once approved, move to character bible production and Week 1 batch production.
+Approved by the project owner on 2026-08-02. Move to character bible production and Week 1 batch production.
+
+Commercial calls to action remain blocked until [Issue #4 — Confirm target market and commercial compliance boundaries](https://github.com/9dbit/Gobiverse/issues/4) is completed.
