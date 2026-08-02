@@ -101,7 +101,7 @@ Create a 3-by-2 full-body presenter sheet from canonical GOBI human v3.2. Six he
 **Dimensions:** 1672×941  
 **Size:** 2,394,870 bytes  
 **SHA-256:** `0bd79a173b3be583f49cd223215916c126e4d08f4e6e0b4dccb1d5fb9bde759c`  
-**Status:** visual-direction candidate; owner approval pending  
+**Status:** owner-approved production system  
 **Guide:** [docs/03-graphic-style-system.md](../../docs/03-graphic-style-system.md)
 
 ### Source roles
