@@ -256,13 +256,13 @@ No generated output becomes canonical until reviewed.
 - [ ] v2 back view and material callouts.
 - [x] Six-expression sheet v2.
 - [x] Six-pose sheet v2.
-- [ ] GOBI / Human Operator / B-88 scale chart v3.
+- [x] GOBI / Human Operator / B-88 scale chart v3.
 - [x] B-88 palette integration decision and five-state concept board.
-- [ ] GOBIVERSE environment character pass v2.
-- [ ] GOBI Academy character pass v2.
-- [ ] P001 storyboard and thumbnail regeneration.
-- [ ] Vertical-video safe-area test.
-- [ ] Mobile thumbnail readability test.
+- [x] GOBIVERSE environment character pass v2.
+- [x] GOBI Academy character pass v2.
+- [x] P001 storyboard and thumbnail regeneration.
+- [x] Vertical-video safe-area test.
+- [x] Mobile thumbnail readability test.
 
 ## 13. Approval Gate
 
@@ -279,6 +279,6 @@ Pending production approval:
 
 - [x] B-88 v2 color integration.
 - [ ] Expression and pose continuity.
-- [ ] Regenerated P001 assets.
+- [x] Regenerated P001 visual pre-production assets.
 
 The previous v1 sand / charcoal / cyan GOBI is superseded. See [assets/concepts/manifest.md](../assets/concepts/manifest.md) for asset status and [Issue #3](https://github.com/9dbit/Gobiverse/issues/3) for downstream content regeneration.
