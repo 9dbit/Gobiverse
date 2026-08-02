@@ -73,9 +73,9 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Define “tips bermain” as rule literacy, decision consistency, and exposure limits—not guaranteed-win methods.
 - [x] Keep `jam gacor` only in Myth vs Math content that corrects prediction claims.
 - [x] Block registration, deposit, bonus, affiliate, and operator-redirect CTAs from the editorial layer.
-- [ ] Build the reviewed source register for casino, slot, poker, blackjack, wheel games, RTP, and responsible play.
-- [ ] Produce the eight pillar-page briefs.
-- [ ] Draft the first seven articles using the approved weekly rhythm.
+- [x] Build the reviewed source register for casino, slot, poker, blackjack, wheel games, RTP, and responsible play.
+- [x] Produce the eight pillar-page briefs.
+- [x] Draft the first seven articles using the approved weekly rhythm.
 - [ ] Run legal, platform, factual, and human editorial QA before publication.
 
 ## Next production — fan and community loop

@@ -5,6 +5,12 @@
 **Audience:** Adults 21+  
 **Positioning:** Casino-game education, mechanics, mathematics, decision literacy, and responsible play
 
+## Implementation outputs
+
+- [Eight pillar-page briefs](pillar-page-briefs-v1.md)
+- [Knowledge source register](../docs/08-knowledge-source-register-v1.md)
+- [Week 01 seven-article draft batch](articles/week-01/README.md)
+
 ## Editorial objective
 
 Build a specialist adult audience that follows GOBI88 to understand how casino games work—not for promises, secret patterns, or guaranteed income.
