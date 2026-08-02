@@ -11,6 +11,7 @@ The operating repository for the GOBI88 adult gaming, entertainment, and game-kn
 5. Produce [Week 1 Scripts & Content Briefs](content/week-01-production-pack.md).
 6. Build GOBI-P001 from the [Brand Reveal Asset Manifest](content/week-01/p001/manifest.md).
 7. Use the [Content Brief Template](templates/content-brief.md) for every production item.
+8. Build long-form education from the [Casino Game Education Editorial Plan](content/editorial-article-plan-v1.md).
 
 ## Current Phase
 
@@ -19,7 +20,7 @@ The operating repository for the GOBI88 adult gaming, entertainment, and game-kn
 The immediate goal is to validate:
 
 - Two repeatable high-retention formats.
-- One authoritative casino/slot knowledge format.
+- One authoritative casino-game education format spanning slot, poker, blackjack, wheel games, RTP, myths, and money management.
 - One character/story format audiences ask to continue.
 - One community mechanic that drives repeat participation.
 

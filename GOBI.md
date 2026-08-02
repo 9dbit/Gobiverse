@@ -1,7 +1,7 @@
 # GOBI.md — GOBI88 Brand & Editorial Guardrail
 
 > **Status:** Active guardrail  
-> **Version:** 0.4  
+> **Version:** 0.5  
 > **Effective date:** 2026-08-02  
 > **Owner:** GOBI88 Brand Team
 
@@ -82,28 +82,49 @@ GOBI human v3.2 identity, expression, and pose systems are approved canonical. B
 
 ## 5. Content Pillars
 
-Recommended publishing mix:
+### Organic social mix
 
 | Pillar | Share |
 |---|---:|
-| Casino and slot knowledge | 25% |
+| Casino-game education and Myth vs Math | 35% |
 | Gaming entertainment and humor | 20% |
-| GOBI Cinema and AI visuals | 20% |
-| Game/provider product reviews | 15% |
+| GOBI Cinema and AI visuals | 15% |
+| Game design and product literacy | 10% |
 | Community quest and UGC | 10% |
-| Sports and automotive culture | 10% |
+| Sports, technology, and automotive culture | 10% |
+
+### Article editorial mix
+
+| Article pillar | Share |
+|---|---:|
+| Slot mechanics and game literacy | 25% |
+| Casino-game fundamentals | 15% |
+| Poker education | 15% |
+| Blackjack education | 15% |
+| Wheel and spin games | 10% |
+| RTP, probability, and Myth vs Math | 10% |
+| Money management and responsible play | 10% |
+
+Article positioning:
+
+> **GOBI88 explains how casino games work, how their mathematics should be read, and how adults can set safer limits—without promising outcomes.**
+
+“Tips bermain” means rules literacy, variant comparison, decision consistency, and exposure limits. Money management cannot turn a negative-expectation game into guaranteed income.
 
 Recurring formats:
 
-- **GOBI Gamepedia:** one concept in 30–88 seconds.
-- **Myth vs Math:** correct common myths with probability and game mechanics.
-- **Behind the Reels:** game design, art, sound, UX, mathematics, and technology.
-- **Table Game 101:** rules and terminology of baccarat, blackjack, roulette, poker, Sic Bo, and other table games.
-- **Provider Radar:** editorial review of originality, mechanics, UX, performance, and clarity.
-- **Slot Story:** mythology, history, characters, and visual culture behind game themes.
-- **GOBI 88 Seconds:** fast discovery across gaming, AI, sports, and technology.
+- **GOBI Gamepedia:** one casino-game concept in 30–88 seconds.
+- **Myth vs Math:** correct jam gacor, streak, near-miss, and pattern myths with probability and game mechanics.
+- **Behind the Reels:** slot design, art, sound, UX, mathematics, and technology.
+- **Table Game 101:** rules and terminology of poker, blackjack, roulette, baccarat, Sic Bo, and other table games.
+- **RTP Lab:** RTP, house edge, variance, volatility, and probability without session guarantees.
+- **Decision Lab:** poker position, pot odds, blackjack rule variations, and other skill/decision concepts with explicit limits.
+- **Money Management Minute:** entertainment budget, time limit, stop limit, session log, and loss-chasing prevention.
+- **Spin Wheel Lab:** physical roulette and RNG-wheel mechanics, layouts, odds, and variants.
+- **Provider Radar:** editorial review of originality, mechanics, UX, performance, and information clarity.
 - **GOBI Cinema:** serial vertical stories with audience-driven endings.
-- **Responsible Play Minute:** practical harm-minimization information.
+
+The full article system, eight hubs, 40-title backlog, internal-link model, and article definition of done are maintained in [Casino Game Education — Editorial Article Plan v1](content/editorial-article-plan-v1.md).
 
 ## 6. Casino & Slot Knowledge Standard
 

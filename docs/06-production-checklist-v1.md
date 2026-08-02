@@ -65,6 +65,19 @@ This checklist is the operational source of truth. Completed items are productio
 - [ ] P010 `Cara Membaca Game Information Sheet`.
 - [ ] Create a reviewed knowledge-source register before using specific provider data or percentages.
 
+## Approved — article editorial system
+
+- [x] Reposition articles around casino-game education for adults 21+.
+- [x] Lock eight hubs: casino fundamentals, slot game, poker, blackjack, spin wheel, RTP/probability, myths, and money management.
+- [x] Create a 40-title priority article backlog.
+- [x] Define “tips bermain” as rule literacy, decision consistency, and exposure limits—not guaranteed-win methods.
+- [x] Keep `jam gacor` only in Myth vs Math content that corrects prediction claims.
+- [x] Block registration, deposit, bonus, affiliate, and operator-redirect CTAs from the editorial layer.
+- [ ] Build the reviewed source register for casino, slot, poker, blackjack, wheel games, RTP, and responsible play.
+- [ ] Produce the eight pillar-page briefs.
+- [ ] Draft the first seven articles using the approved weekly rhythm.
+- [ ] Run legal, platform, factual, and human editorial QA before publication.
+
 ## Next production — fan and community loop
 
 - [ ] Launch recurring `Myth Lab` naming and episode numbering.
