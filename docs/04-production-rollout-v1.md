@@ -40,10 +40,14 @@ Approved interaction states:
 
 P001 uses Breakout Frame for the hook and Signal Cinema for the environment reveal. Its job is to introduce the world and earn follows, not advertise real-money access.
 
+## Active visual revision
+
+Dark Neon Tech v2 now overrides the v1 palette/material treatment for final renders. P001's structure, timing, copy, and human-character continuity remain valid; its final visual polish should use dark-dominant colorful gradients, neon glow, glass pill UI, and engineered metal frames from [the v2 system](05-dark-neon-tech-system-v2.md).
+
 ## Next production queue
 
 1. [x] Convert P001 storyboard frames into a 34-second guide animatic.
 2. [x] Add controlled headline timing, Indonesian subtitles, guide audio, and poster frame.
-3. [ ] Replace guide audio with approved GOBI voice, music, and final sound design.
-4. [ ] Produce P002 `RTP Explained` using Type Strike + Editorial Mask.
+3. [ ] Restyle final P001 shots with Dark Neon Tech v2, then replace guide audio with approved GOBI voice, music, and final sound design.
+4. [ ] Produce P002 `RTP Explained` using Glow UI + Holo Editorial.
 5. [ ] Export final P001 platform variants after audio approval.
