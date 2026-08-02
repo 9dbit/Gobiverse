@@ -1,7 +1,7 @@
 # GOBI88 Production Checklist v1
 
 **Updated:** 2026-08-02  
-**Active system:** Human GOBI v3.2 + B88 v4 + Dark Neon Tech v2
+**Active system:** Human GOBI v3.3 + B88 v4 + Dark Neon Tech v2
 
 This checklist is the operational source of truth. Completed items are production baselines, not permission to publish real-money claims or unreviewed commercial CTAs.
 
@@ -10,7 +10,7 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Position GOBI88 as a gaming-culture and entertainment-knowledge universe.
 - [x] Approve the brand foundation and organic-social direction.
 - [x] Replace the fox mascot direction with canonical adult Asian female GOBI.
-- [x] Lock GOBI face, brown hair, makeup, red cheek marks, headset, and suit identity.
+- [x] Lock GOBI v3.3 to the approved Near Miss Bukan Sinyal banner: adult Asian face, long dark-brown layered hair with full fringe, natural makeup, two signal-red cheek bars per side, metallic navy/red broadcast headset, and asymmetric white/navy/red operator jacket.
 - [x] Lock B88 as compact shoulder-scale explainer companion.
 - [x] Lock official GOBI88 logo.
 - [x] Lock deep navy, pearl white, and signal red as brand anchors.
@@ -76,7 +76,8 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Build the reviewed source register for casino, slot, poker, blackjack, wheel games, RTP, and responsible play.
 - [x] Produce the eight pillar-page briefs.
 - [x] Draft the first seven articles using the approved weekly rhythm.
-- [x] Add seven original 1672×941 Human GOBI article heroes and generation records.
+- [x] Add seven original 1672×941 Human GOBI v3.2 article heroes and generation records; retain as historical production assets.
+- [ ] Regenerate or continuity-correct the seven article heroes to the Human GOBI v3.3 face/outfit lock before publication.
 - [x] Add visible FAQ sections to the first seven articles.
 - [x] Prepare Article, BreadcrumbList, and FAQPage JSON-LD templates with deployment placeholders.
 - [x] Prepare short-video, carousel, caption, Threads, community-question, and alt-text derivatives.
@@ -106,5 +107,6 @@ This checklist is the operational source of truth. Completed items are productio
 - [ ] Confirm no minor targeting, child-coded character treatment, or youth-platform crossover involving gambling.
 - [ ] Confirm no fabricated metrics, percentages, testimonials, or performance records.
 - [ ] Confirm no money rain, jackpot celebration, provider/franchise misuse, or unlicensed assets.
+- [ ] Confirm canonical v3.3 face, full-fringe dark-brown hair, exactly two red cheek bars per side, metallic navy/red headset, and asymmetric white/navy/red operator jacket.
 - [ ] Confirm no pink/magenta and no more than two main glow hues plus signal red per frame.
 - [ ] Confirm final CTA is educational/community-led unless a separately reviewed commercial campaign authorizes otherwise.
