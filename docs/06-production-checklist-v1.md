@@ -27,11 +27,19 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Record image-generation references, prompts, correction passes, and asset hashes.
 - [x] Keep guide tones clearly marked as temporary and unapproved final music.
 
+## Completed — voice pre-production
+
+- [x] Lock GOBI voice identity v0.1: adult tech host, neutral urban Indonesian, 150–160 WPM.
+- [x] Lock B88 voice behavior and pronunciation glossary.
+- [x] Lock sonic cue system: portal, logo mnemonic, B88 chirp, data scan, myth-busted, knowledge lock, and responsible close.
+- [x] Prepare final recording scripts for P001–P003.
+- [x] Prepare timestamped audio cue sheet for P001–P003.
+
 ## In progress / next approval gates
 
-- [ ] Approve GOBI voice identity: age, tone, accent, energy, and delivery speed.
-- [ ] Produce final Indonesian voice-over for P001–P003.
-- [ ] Approve one sonic identity: intro sting, UI beeps, B88 cue, transition, and end mnemonic.
+- [ ] Generate and compare three GOBI voice samples using the same test passage.
+- [ ] Select the final human voice actor or approved TTS voice.
+- [ ] Record/render final Indonesian voice-over for P001–P003.
 - [ ] Replace guide tone with licensed music and final sound design.
 - [ ] Export clean final masters after audio approval.
 
