@@ -1,0 +1,146 @@
+# GOBI88 Visual Concept Manifest
+
+**Batch:** Character Concepts v1  
+**Created:** 2026-08-02  
+**Character Bible:** [docs/02-character-bible.md](../../docs/02-character-bible.md)  
+**Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
+**Generation route:** Built-in image generation  
+**Model/version:** Not exposed by the built-in generation route  
+**Input references:** None  
+**Human image edits:** None  
+**Canonical status:** Candidate — visual selection required
+
+The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
+
+## Asset Registry
+
+| Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
+|---|---|---:|---:|---|---|
+| GOBI-CONCEPT-A-V1 | `gobi-variant-a-cinematic-explorer-v1.png` | 1536×1024 | 2,369,995 bytes | `41c7a6d28dc65be88d2c345d9c7d5143f66fc562d5f51966b77f50e7701e2866` | Candidate |
+| GOBI-CONCEPT-B-V1 | `gobi-variant-b-techwear-presenter-v1.png` | 1536×1024 | 2,303,673 bytes | `d07c2c71925a0b7269ffffb5e3b5a1f1369ffff0f5312dc2a57d303f762efeac` | Candidate |
+| B88-CONCEPT-V1 | `b88-concept-board-v1.png` | 1536×1024 | 2,036,624 bytes | `234a5f873080659d8aba22b9e0aa2cf4310b98eef6e1831d0a8c5007523ea786` | Candidate |
+
+## Review
+
+### GOBI Variant A — Cinematic Explorer
+
+Strengths:
+
+- Strongest exploration and adventure silhouette.
+- Adult-coded proportions and premium material detail.
+- Clear wrist navigator and practical utility system.
+- Suitable for GOBI Cinema, Quest, and exterior GOBIVERSE scenes.
+
+Watchouts:
+
+- Facial structure must become the canonical identity before multi-scene generation.
+- Jacket detail may need simplification for high-volume animation.
+
+### GOBI Variant B — Techwear Presenter
+
+Strengths:
+
+- Clean presenter silhouette.
+- Strong credibility for GOBI Academy and Myth vs Math.
+- Better negative space around educational holograms.
+- Sleeker outfit is easier to reproduce in studio content.
+
+Watchouts:
+
+- Face differs from Variant A and cannot be used interchangeably without an identity-lock pass.
+- Circular background is scene decoration, not character canon.
+
+### B-88 Concept Board
+
+Strengths:
+
+- Dual-loop geometry is immediately recognizable.
+- Five operational states remain consistent.
+- Reads as technology rather than a casino chip or slot reel.
+- Suitable for navigation, fact-checking, warnings, and recording.
+
+Watchouts:
+
+- Final scale with GOBI still needs a shared scale chart.
+- Propulsion and underside details need a turnaround pass.
+
+## Recommended Canonical Direction
+
+Recommended for approval:
+
+1. Use **Variant A facial structure, ear proportions, fur pattern, and core identity** as canonical GOBI.
+2. Keep Variant A outfit as the **Explorer/Cinema outfit**.
+3. Adapt Variant B clothing into an **Academy Presenter outfit**, but re-render it using the canonical Variant A face.
+4. Accept the current B-88 dual-loop form as the base design.
+5. Run an identity-lock pass before expressions, poses, and story scenes.
+
+This recommendation is not canonical until approved by the project owner.
+
+## Prompt Record — GOBI Variant A
+
+```text
+Use case: stylized-concept
+Asset type: GOBI88 canonical character concept board, Variant A
+Primary request: Create GOBI, an adult anthropomorphic fennec desert fox and lead explorer of the GOBIVERSE, as a premium high-end 3D game-cinematic character.
+Scene/backdrop: clean deep-night-navy character design studio background with faint restrained desert haze and subtle cyan technical grid, no scenery competing with the character.
+Subject: one consistent GOBI character shown in three coordinated views on one landscape concept board: full-body neutral front three-quarter hero view, clean side profile, and expressive facial close-up. Adult heroic proportions around seven heads tall, lean agile build, tall elegant fennec ears, warm sand fur, darker ear tips, refined expressive muzzle, intelligent amber eyes with subtle cyan reflections. Charcoal technical explorer jacket with asymmetrical sand panels, restrained electric-cyan piping, cross-body utility strap, wrist-mounted cyan holographic navigator, dark technical trousers, functional boots. No weapons.
+Style/medium: stylized realism, premium 3D animation and game-cinematic concept art, sophisticated adult entertainment IP, clean silhouette, production-ready materials.
+Composition/framing: landscape character board, three views clearly separated, consistent identity and costume across all views, generous margins, mobile-readable silhouette.
+Lighting/mood: warm desert key light, controlled cool cyan rim, confident, intelligent, adventurous.
+Color palette: warm sand #C9985A, dune light #E8C88D, deep charcoal #171B20, slate metal #343D46, electric cyan #27D7E8, night navy #071421.
+Materials/textures: controlled detailed fur, matte woven technical fabric, satin composite panels, restrained holographic glow.
+Text: no text, no labels, no watermark.
+Constraints: adult-coded, premium, original, refined, same character identity in every view.
+Avoid: child, baby, chibi, oversized head, tiny body, cute toy mascot, school character, identifiable franchise styles, existing game characters, casino clichés, crowns, capes, gold armor, weapons, cheap mobile-game look, furry costume photography, anatomy errors, inconsistent markings, excessive neon, cluttered UI.
+```
+
+## Prompt Record — GOBI Variant B
+
+```text
+Use case: stylized-concept
+Asset type: GOBI88 canonical character concept board, Variant B
+Primary request: Create a second design interpretation of GOBI, the same adult anthropomorphic fennec desert fox identity, optimized as a charismatic technology presenter and GOBI Academy host while preserving the approved GOBIVERSE DNA.
+Scene/backdrop: premium charcoal and night-navy virtual studio with a minimal circular cyan portal motif and subtle desert horizon light, uncluttered.
+Subject: one consistent GOBI character shown in three coordinated views on one landscape concept board: full-body presenter pose with one open hand toward a restrained holographic information card, confident three-quarter neutral stance, and skeptical “Myth detected” facial close-up. Adult heroic proportions around seven heads tall, lean agile build, elegant tall ears, warm sand fur with darker ear tips, refined muzzle, amber eyes. Sleeker charcoal techwear jacket than Variant A, short structured collar, asymmetric sand chest panel, minimal electric-cyan seam lighting, wrist navigator, dark tailored utility trousers, elegant technical footwear. No weapons.
+Style/medium: premium stylized-realistic 3D animation character, high-end broadcast/game-cinematic design, sophisticated adult gaming and technology media host, clean production concept board.
+Composition/framing: landscape concept board, three separated views, consistent identity and costume, strong readable silhouette, generous negative space.
+Lighting/mood: controlled studio key light with warm fur highlights and cyan rim, intelligent, composed, witty, credible.
+Color palette: warm sand #C9985A, dune light #E8C88D, deep charcoal #171B20, slate metal #343D46, restrained electric cyan #27D7E8, night navy #071421.
+Materials/textures: groomed controlled fur, matte premium tech fabric, satin composite hardware, subtle holographic interface.
+Text: no text, no labels, no watermark.
+Constraints: visibly adult, premium, original; must feel like the same canonical GOBI identity as an alternate outfit direction, not a child mascot.
+Avoid: child, baby, chibi, oversized head, tiny body, toy proportions, school setting, identifiable franchise styles, existing characters, casino clichés, reels, cards, chips, roulette, coins, crowns, cape, excessive gold, weapons, furry suit photography, anatomy errors, inconsistent markings, excessive neon, busy interface.
+```
+
+## Prompt Record — B-88
+
+```text
+Use case: stylized-concept
+Asset type: GOBI88 canonical companion-drone concept board
+Primary request: Create B-88, GOBI's compact autonomous navigator, camera, scanner, and fact-checker drone. Its form language uses two linked circular structures that subtly evoke the number 88 without looking like text, coins, chips, or slot reels.
+Scene/backdrop: clean deep night-navy technical design background with minimal cyan grid and restrained desert dust, no competing scenery.
+Subject: one consistent B-88 drone shown in five coordinated operational states across one landscape concept board: neutral hover, Navigate with cyan map projection, Fact Check with two clean data panels and scanning beam, Alert with amber signal light, and Record with central adjustable camera aperture and tiny red tally light. Compact 30–35 cm scale, matte charcoal shell, sand composite panels, slate-metal joints, central optical sensor, concealed propulsion, elegant functional industrial design. No cartoon eyes, arms, or legs.
+Style/medium: premium stylized-realistic 3D product/character concept art, high-end game cinematic companion, sophisticated adult technology media IP, production-ready hard-surface design.
+Composition/framing: landscape board with five clearly separated states, perfectly consistent shell geometry and materials across all states, clean margins, readable thumbnail silhouette.
+Lighting/mood: warm restrained key light, cyan rim and interface glow, precise, reliable, intelligent.
+Color palette: deep charcoal #171B20, slate metal #343D46, sand #C9985A, electric cyan #27D7E8, signal amber #FF9F32, night navy #071421.
+Materials/textures: matte composite shell, brushed slate metal, thin holographic light, no glossy toy plastic.
+Text: no text, no labels, no watermark.
+Constraints: original adult-coded design, dual-loop 88-inspired geometry must be subtle and functional, same drone identity in all five states.
+Avoid: child toy, cute robot face, cartoon eyes, slot reels, poker chips, coins, roulette, playing cards, jackpot symbols, copied sci-fi franchise droids, weapons, excessive neon, excessive gold, extra appendages, inconsistent geometry, unreadable clutter, plastic toy rendering.
+```
+
+## Next Gate
+
+Project owner chooses one:
+
+- **A:** Variant A as the complete canonical identity.
+- **B:** Variant B as the complete canonical identity.
+- **Hybrid (recommended):** Variant A face/body as canon; A Explorer outfit; B Academy outfit re-rendered with the A identity.
+
+After selection:
+
+- Generate the identity-lock board.
+- Generate the shared GOBI/B-88 scale chart.
+- Produce expressions and pose sheets.
+- Produce the first GOBIVERSE environment keyframe.
