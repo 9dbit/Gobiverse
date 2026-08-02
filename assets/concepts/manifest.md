@@ -8,7 +8,7 @@
 **Model/version:** Not exposed by the built-in generation route  
 **Input references:** Human v3.1 supplies face/hair/layout; owner-supplied official GOBI88 logo supplies the exclusive navy/white/red color system  
 **Human image edits:** None  
-**Canonical status:** Human v3.2 identity, expression, and pose system approved canonical; earlier revisions historical; B-88 human-integration pass pending
+**Canonical status:** Human v3.2 identity, expression, pose, and B-88 human-integration system approved; Dark Neon Tech v2 active
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
@@ -24,7 +24,8 @@ The PNG binaries are delivered as project assets with the filenames and hashes b
 | GOBI-HUMAN-IDENTITY-V3.2 | `gobi-human-identity-lock-v3.2.png` | 1672×941 | 2,189,985 bytes | `70bcc1b4475ee996bc273c5ee01425c922b04566e75ee102ac1308f8f1ea7b43` | Approved canonical identity |
 | GOBI-HUMAN-EXPRESSIONS-V3.2 | `gobi-human-expression-sheet-v3.2.png` | 1672×941 | 2,431,758 bytes | `fb29b5c5848ee38a910baca5bee93cd0db1d08075ce635ca16ff39acbb7f387c` | Approved canonical expression system |
 | GOBI-HUMAN-POSES-V3.2 | `gobi-human-pose-sheet-v3.2.png` | 1672×941 | 1,838,572 bytes | `671a452d71ef58f53d886e8ac99d89747ee50f53533000471c46a17fe2260cb7` | Approved pose system; blank navy chest plates by design |
-| GOBI88-GRAPHIC-STYLE-V1 | `gobi88-social-graphic-style-board-v1.png` | 1672×941 | 2,394,870 bytes | `0bd79a173b3be583f49cd223215916c126e4d08f4e6e0b4dccb1d5fb9bde759c` | Owner-approved production system |
+| GOBI88-GRAPHIC-STYLE-V1 | `gobi88-social-graphic-style-board-v1.png` | 1672×941 | 2,394,870 bytes | `0bd79a173b3be583f49cd223215916c126e4d08f4e6e0b4dccb1d5fb9bde759c` | Approved structural foundation; palette superseded by v2 |
+| GOBI88-DARK-NEON-STYLE-V2 | `gobi88-dark-neon-tech-style-board-v2.png` | 1672×941 | 2,314,026 bytes | `62f7e8b6ee7143fba101eeb9afb47a8c8afee1b36c62a5c794ee1440f72cda62` | Active owner-directed visual theme |
 | GOBI-B88-HUMAN-INTERACTION-V4 | `gobi-b88-human-scale-interaction-board-v4.png` | 1672×941 | 1,690,577 bytes | `3a4850693efa3e91db1fe9aab891ca8069c63f5fe17c0519fd2f1ceb00e89821` | Approved scale and interaction lock |
 | GOBI88-LOGO-OFFICIAL | `../brand/gobi88-logo-official.webp` | 400×107 | 12,816 bytes | `b8c37e331178848a3ef7ac7b1ce25819da332738bee7d1f3d8a29a7e6966b19a` | Official brand source |
 | GOBI-HUMAN-IDENTITY-V3.1 | `gobi-human-identity-lock-v3.1.png` | 1672×941 | 2,134,173 bytes | `09ed851e32f5904d1f371c33b57817e4e872c41ca1bfbb783778eb148afffe1d` | Historical candidate; superseded by v3.2 |
