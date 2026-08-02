@@ -8,7 +8,7 @@
 **Model/version:** Not exposed by the built-in generation route  
 **Input references:** None  
 **Human image edits:** None  
-**Canonical status:** Candidate — visual selection required
+**Canonical status:** Approved — Hybrid canonical direction selected
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
@@ -19,6 +19,31 @@ The PNG binaries are delivered as project assets with the filenames and hashes b
 | GOBI-CONCEPT-A-V1 | `gobi-variant-a-cinematic-explorer-v1.png` | 1536×1024 | 2,369,995 bytes | `41c7a6d28dc65be88d2c345d9c7d5143f66fc562d5f51966b77f50e7701e2866` | Candidate |
 | GOBI-CONCEPT-B-V1 | `gobi-variant-b-techwear-presenter-v1.png` | 1536×1024 | 2,303,673 bytes | `d07c2c71925a0b7269ffffb5e3b5a1f1369ffff0f5312dc2a57d303f762efeac` | Candidate |
 | B88-CONCEPT-V1 | `b88-concept-board-v1.png` | 1536×1024 | 2,036,624 bytes | `234a5f873080659d8aba22b9e0aa2cf4310b98eef6e1831d0a8c5007523ea786` | Candidate |
+
+## Canonical Package Registry
+
+| Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
+|---|---|---:|---:|---|---|
+| GOBI-IDENTITY-V1 | `gobi-canonical-identity-lock-v1.png` | 1627×967 | 2,216,335 bytes | `79c351e33c0b524acd344eb4bcc95f32849e1b09c7e0a774eb21c76502ddad3d` | Approved |
+| GOBI-EXPRESSIONS-V1 | `gobi-canonical-expression-sheet-v1.png` | 1536×1024 | 2,485,979 bytes | `e4a4f6f7c970184840fa5975e19c42819dc5c202bd76a0d3123c52bbe8863540` | Approved |
+| GOBI-POSES-V1 | `gobi-canonical-pose-sheet-v1.png` | 1536×1024 | 2,037,834 bytes | `463fa743f7d9ee70804fad0585890b94fe88ca11b2d4a4de0f6f799dc82dc652` | Approved |
+| GOBI-B88-SCALE-V1 | `gobi-b88-canonical-scale-chart-v1.png` | 1536×1024 | 1,963,460 bytes | `885c4440c1c1a0fb91e2549ab09ca6514d564f906f809aaf6f379d3b048b0e4a` | Superseded by v2 |
+| GOBI-B88-OPERATOR-SCALE-V2 | `gobi-b88-human-operator-scale-chart-v2.png` | 1536×1024 | 1,925,447 bytes | `1f394eac67a2d8289e8b87e16a840ea874ccc8aba69168a9b3275224296492b7` | Approved |
+| GOBIVERSE-KEYFRAME-01-V1 | `gobiverse-environment-keyframe-01-v1.png` | 1625×968 | 1,965,112 bytes | `5bfdbee2e112e53cb3c90970225fc5e70c4fada24d1bdb20379ac05a2fc939b3` | Approved |
+| GOBI-ACADEMY-KEYFRAME-01-V1 | `gobi-academy-keyframe-01-v1.png` | 1627×967 | 1,960,561 bytes | `d16b4fd38c3bcabdc9ab50b83bd78e177b71194aeae7b63731bc7e749ff50dea` | Approved |
+
+## Canonical Selection Record
+
+Approved execution direction:
+
+1. Variant A facial structure, ears, fur pattern, eyes, and body are the canonical GOBI identity.
+2. Variant A clothing is the Explorer/Cinema outfit.
+3. Variant B clothing was adapted into the Academy Presenter outfit using the canonical Variant A identity.
+4. B-88 uses the dual-loop base design at 35 cm width.
+5. A neutral Human Operator reference is 175 cm in the scale chart.
+6. Scale defects in early pose, environment, and Academy drafts were corrected before approval.
+
+See [canonical-generation-record.md](canonical-generation-record.md) for the reference chain and final prompt record.
 
 ## Review
 
@@ -74,7 +99,7 @@ Recommended for approval:
 4. Accept the current B-88 dual-loop form as the base design.
 5. Run an identity-lock pass before expressions, poses, and story scenes.
 
-This recommendation is not canonical until approved by the project owner.
+The Hybrid recommendation was accepted through the project owner's continuation approval and is now canonical.
 
 ## Prompt Record — GOBI Variant A
 
@@ -130,17 +155,19 @@ Constraints: original adult-coded design, dual-loop 88-inspired geometry must be
 Avoid: child toy, cute robot face, cartoon eyes, slot reels, poker chips, coins, roulette, playing cards, jackpot symbols, copied sci-fi franchise droids, weapons, excessive neon, excessive gold, extra appendages, inconsistent geometry, unreadable clutter, plastic toy rendering.
 ```
 
-## Next Gate
+## Completion
 
-Project owner chooses one:
+Character visual foundation v1 is complete.
 
-- **A:** Variant A as the complete canonical identity.
-- **B:** Variant B as the complete canonical identity.
-- **Hybrid (recommended):** Variant A face/body as canon; A Explorer outfit; B Academy outfit re-rendered with the A identity.
+Completed:
 
-After selection:
+- Hybrid identity selection.
+- Identity-lock board.
+- GOBI and B-88 concept boards.
+- Expression and pose sheets.
+- GOBI / Human Operator / B-88 scale chart.
+- GOBIVERSE environment keyframe.
+- GOBI Academy studio keyframe.
+- Prompt, constraint, hash, and reference records.
 
-- Generate the identity-lock board.
-- Generate the shared GOBI/B-88 scale chart.
-- Produce expressions and pose sheets.
-- Produce the first GOBIVERSE environment keyframe.
+Next operational step: [Issue #3 — Produce Week 1 organic content batch](https://github.com/9dbit/Gobiverse/issues/3).
