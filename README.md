@@ -9,7 +9,8 @@ The operating repository for the GOBI88 adult gaming, entertainment, and game-kn
 3. Develop [GOBI & B-88 Visual Character Bible](docs/02-character-bible.md).
 4. Execute the [30-Day Organic Content Pilot](content/30-day-pilot.md).
 5. Produce [Week 1 Scripts & Content Briefs](content/week-01-production-pack.md).
-6. Use the [Content Brief Template](templates/content-brief.md) for every production item.
+6. Build GOBI-P001 from the [Brand Reveal Asset Manifest](content/week-01/p001/manifest.md).
+7. Use the [Content Brief Template](templates/content-brief.md) for every production item.
 
 ## Current Phase
 
