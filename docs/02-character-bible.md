@@ -1,290 +1,280 @@
 # GOBI & B-88 Visual Character Bible
 
-**Status:** Approved  
-**Version:** 1.0  
+**Status:** Owner-directed canonical revision; v2 rollout in progress  
+**Version:** 2.0  
 **Started:** 2026-08-02  
-**Approved:** 2026-08-02  
+**Revised:** 2026-08-02  
 **Issue:** [#2 — Create GOBI and B-88 visual character bible](https://github.com/9dbit/Gobiverse/issues/2)  
 **Guardrail:** [GOBI.md](../GOBI.md)
 
-## 1. Art Direction
+## 1. Canonical Revision
 
-### Recommended direction: Cinematic Tech Explorer
+The project owner replaced the original sand-furred techwear GOBI with a realistic silver-white space explorer.
 
-A premium, adult-coded, stylized 3D universe combining:
+This revision is mandatory for every new production asset. Earlier GOBI v1 images remain historical references only and must not be mixed with v2.
 
-- Futuristic desert exploration.
-- High-end game cinematics.
-- Practical techwear.
-- Holographic interfaces.
-- Warm sand against deep charcoal and electric cyan.
+### Direction: Cosmic Intelligence / Space Explorer
 
-The result should feel suitable for an adult gaming and technology media property—not a children's cartoon, casino-sales mascot, or imitation of an existing game franchise.
+GOBI should feel like:
 
-### Rendering target
+- A premium adult science-fiction protagonist.
+- An intelligent explorer, presenter, and navigator.
+- A character capable of carrying knowledge, adventure, technology, and entertainment content.
+- A distinctive original brand character rather than a casino-sales mascot or children's cartoon.
 
-- Stylized realism rather than photoreal animal anatomy.
-- High-quality 3D cinematic materials.
-- Recognizable silhouette at thumbnail size.
-- Expressive enough for short-form comedy and education.
-- Consistent enough for animation, AI-assisted production, stickers, and merchandise.
+The visual world combines realistic fur, aerospace engineering, lunar environments, red holographic navigation, and restrained cinematic lighting.
 
-## 2. GOBI
+## 2. GOBI v2
 
 ### Core identity
 
-- **Species:** anthropomorphic fennec/desert fox.
+- **Species:** anthropomorphic silver-white cyber fox.
 - **Role:** lead explorer, presenter, and guide through the GOBIVERSE.
 - **Perceived age:** adult, approximately late-20s to mid-30s in human coding.
-- **Personality:** intelligent, curious, composed, courageous, slightly sarcastic.
-- **Narrative flaw:** occasional overconfidence; B-88 checks the facts.
-- **Audience relationship:** respected guide and entertaining teammate—not authority without accountability.
+- **Height:** approximately 175 cm.
+- **Personality:** intelligent, calm, curious, courageous, observant, slightly sarcastic.
+- **Narrative flaw:** occasional overconfidence; facts and evidence can correct him.
+- **Audience relationship:** respected teammate and guide, never an unquestionable authority.
 
-### Proportions
+### Canonical face
 
-- Adult heroic proportions; approximately 7–7.5 heads tall.
-- Lean, agile build rather than muscular superhero build.
-- Head approximately 16–18% of full standing height.
-- Fennec ears tall and recognizable but not exaggerated into childlike proportions.
-- Long limbs with controlled, confident posture.
-- Hands capable of natural presentation gestures and interaction with holographic interfaces.
-- Digitigrade legs are optional; use a simplified stable design if required for consistent animation.
+- Mature realistic fox anatomy.
+- Dense silver-white facial fur with soft gray depth around the cheeks and neck.
+- Long refined muzzle and black nose.
+- Proportional upright pointed ears; no oversized fennec caricature.
+- Red-amber eyes with controlled intensity.
+- Small angular red cybernetic modules at both temples.
+- Calm, intelligent gaze; never childlike, feral, or aggressive.
 
-### Silhouette anchors
+The face shown in the approved v2 identity-lock is the primary identity reference.
 
-GOBI must remain recognizable from three elements:
+### Proportions and silhouette
 
-1. Tall fennec ear silhouette.
-2. Asymmetrical explorer jacket or shoulder structure.
-3. Cyan wrist-navigation light.
+- Tall, lean-athletic adult heroic body.
+- Approximately 7–7.5 heads tall.
+- Balanced shoulders; not a bulky superhero or oversized wolf.
+- Human-capable hands for presentation, tools, and holograms.
+- One large, long, luxurious silver-white fox tail.
+- Stable astronaut boots and practical movement range.
 
-Do not overload the silhouette with weapons, spikes, armor plates, or decorative casino symbols.
+Canonical silhouette anchors:
 
-### Face and fur
+1. Silver-white fox head and single large tail.
+2. Open circular astronaut collar and compact life-support backpack.
+3. White/silver suit with disciplined red technical lines.
+4. Red emissive chest core.
+5. Red LED “GOBI” chest identifier and “88” upper-arm identifier.
 
-- Warm sand base fur.
-- Slightly darker ear tips and outer cheek structure.
-- Muzzle remains refined and expressive, not baby-like.
-- Eye color: amber with a subtle cyan interface reflection when technology is active.
-- Brows/upper-eye shapes must support skeptical, curious, amused, and serious expressions.
-- Optional subtle G-shaped fur marking may be tested, but only if it remains elegant and natural.
+### Canonical suit
 
-### Outfit
+Default outfit: **GOBI Expedition Suit v2**
 
-Default outfit:
-
-- Charcoal technical explorer jacket.
-- Asymmetrical sand-colored shoulder or chest panel.
-- Restrained electric-cyan piping.
-- Dark utility trousers.
-- Functional boots or stylized digitigrade footwear.
-- Cross-body utility strap.
-- Wrist-mounted holographic navigator.
-- Neutral chest area reserved for a small GOBI88 emblem.
+- White and light-silver aerospace textile and composite armor.
+- Fine red piping and restrained graphite joint panels.
+- Black knee and elbow pads.
+- White armored gloves and heavy technical boots.
+- Harness, utility belt, and compact rectangular life-support backpack.
+- Open helmet collar by default; no transparent dome unless the scene requires environmental protection.
+- Central geometric chest module with a small red emissive core.
+- Exact red LED text **GOBI** centered above the chest module.
+- Exact red LED number **88** on the upper arm.
 
 Rules:
 
-- Technology must look functional.
-- No crowns, capes, slot reels, playing cards, piles of coins, or gold overload.
-- No school uniform, toy armor, onesie, or child-coded accessories.
-- No default firearm or combat weapon.
-- Logos must remain secondary to the character.
+- Suit technology must look functional and engineered.
+- Red glow is an information and navigation signal, not decorative neon overload.
+- No default firearm, sword, fantasy armor, cape, crown, or casino symbolism.
+- The character may become dusty, weathered, or damaged by a story, but the base construction and identifiers remain recognizable.
 
 ### Expressions
 
-The minimum approved expression set:
+Required v2 expression set:
 
-1. **Explorer neutral:** confident and attentive.
-2. **Curious analysis:** raised brow, focused eyes.
-3. **Dry amusement:** controlled half-smile.
-4. **Myth detected:** skeptical, slightly unimpressed.
-5. **Discovery:** surprised but composed.
+1. **Explorer neutral:** composed and attentive.
+2. **Curious analysis:** focused gaze with slightly raised brow.
+3. **Dry amusement:** restrained half-smile.
+4. **Myth detected:** skeptical and unimpressed.
+5. **Discovery:** impressed but controlled.
 6. **Responsible warning:** serious, empathetic, direct.
 
 ### Poses
 
-The minimum approved pose set:
+Required v2 pose set:
 
-1. **Presenter:** open hand toward a holographic information card.
-2. **Explorer:** forward step, scanning the horizon.
-3. **Decision:** standing between two portals.
-4. **Myth vs Math:** one hand presenting “myth,” B-88 projecting “math.”
-5. **Community CTA:** pointing toward two audience choices.
-6. **Responsible warning:** direct-to-camera, calm posture.
+1. **Navigator:** open palm projecting a red orbital hologram.
+2. **Explorer:** landing or scanning an unknown environment.
+3. **Decision:** standing between two mission routes.
+4. **Myth vs Math:** one hand presents a claim; verified data answers it.
+5. **Community CTA:** presenting two audience choices.
+6. **Responsible warning:** calm, direct-to-camera posture.
 
 ## 3. B-88
 
-### Core identity
+B-88's dual-loop geometry and 35 cm width remain provisionally locked from v1.
 
-- **Type:** compact autonomous navigator drone.
-- **Role:** camera, map, scanner, fact-checker, and comic counterpoint.
-- **Personality:** precise, literal, reliable, occasionally unintentionally funny.
-- **Relationship with GOBI:** trusted companion who can correct GOBI without undermining him.
+### Current rule
 
-### Form language
+- Do not redesign B-88 until GOBI v2 identity is fully approved.
+- Existing graphite dual-loop form may be used as geometry reference only.
+- A v2 integration test must determine whether B-88 keeps cyan information light or adopts the red/white expedition palette.
+- B-88 must remain approximately 35 cm wide and visually subordinate to GOBI.
 
-- Width approximately 30–35 cm relative to GOBI.
-- Two linked circular structures subtly reference the number 88.
-- Central optical sensor with adjustable aperture.
-- Matte charcoal shell with sand panels.
-- Cyan information light; amber warning state.
-- Small stabilizers or concealed propulsion system.
-- No resemblance to slot reels, coins, poker chips, or a toy robot.
+### Role
 
-### Operational states
+- Navigator, camera, scanner, fact-checker, and comic counterpoint.
+- Precise, literal, reliable, and occasionally unintentionally funny.
+- Corrects misinformation without undermining GOBI.
 
-1. **Navigate:** cyan map projection.
-2. **Fact check:** dual data panels and scanning beam.
-3. **Alert:** amber light and compact warning symbol.
-4. **Record:** camera aperture and subtle red tally light.
-5. **Humor reaction:** small tilt or compressed light pattern, without cartoon eyes.
-
-## 4. Color System
+## 4. Color System v2
 
 | Role | Color | Hex |
 |---|---|---|
-| Desert Sand | Warm sand fur and environment | `#C9985A` |
-| Dune Light | Highlights and panels | `#E8C88D` |
-| Deep Charcoal | Techwear and drone shell | `#171B20` |
-| Slate Metal | Secondary hard surface | `#343D46` |
-| Electric Cyan | Active technology | `#27D7E8` |
-| Signal Amber | Warnings and warm accents | `#FF9F32` |
-| Night Navy | GOBIVERSE sky and depth | `#071421` |
-| Interface White | Text and information | `#F2F6F7` |
+| Expedition White | Primary suit and identity field | `#E9ECEC` |
+| Lunar Silver | Fur depth and suit panels | `#BFC5C8` |
+| Deep Graphite | Joints, collar, hardware | `#171A1F` |
+| Signal Red | Core, identifiers, interface | `#E23832` |
+| Dark Crimson | Secondary technical depth | `#7A181B` |
+| Deep Space | Background and separation | `#060A12` |
+| Interface White | Editorial information | `#F5F7F7` |
 
-Electric cyan should occupy less than 15% of a character frame. Signal amber is a secondary accent, not a dominant brand color.
+Signal red should normally occupy less than 10% of the character area. Bright cyan is not part of GOBI's suit palette in v2; it may remain in distant environments only when narratively justified.
 
 ## 5. Materials
 
-- Fur: soft but controlled, medium detail, clean silhouette.
-- Jacket: matte woven technical fabric.
-- Hard panels: satin composite material, not mirror chrome.
-- Holograms: thin-line cyan with restrained bloom.
-- Metal: brushed charcoal and slate.
-- Sand: cinematic fine texture with subtle atmospheric particles.
+- Fur: realistic dense silver-white strands with clean silhouette.
+- Suit: matte aerospace textile with light wear and stitched panel construction.
+- Armor: satin white/silver composite, never mirror chrome.
+- Joint protection: textured graphite rubber and technical fabric.
+- Hardware: brushed gunmetal with small red status lights.
+- Holograms: fine red orbital/data lines with restrained bloom.
+- Environment: lunar dust, orbital metal, alien geology, and controlled atmospheric particles.
 
-Avoid excessive gloss, plastic-toy materials, gold chrome, and uncontrolled neon glow.
+Avoid glossy toy plastic, excessive reflections, uncontrolled glow, and muddy gray-on-gray separation.
 
 ## 6. Environment Compatibility
 
-GOBI and B-88 must work consistently in:
+GOBI v2 must work in:
 
-- Futuristic desert exterior.
-- GOBI Academy studio.
-- Neon Arena.
-- Lost Temple.
-- GOBI Lab.
-- GOBI Garage.
-- GOBI After Dark streaming set.
+- Lunar or alien-planet exterior.
+- Orbital station and spacecraft interior.
+- GOBI Academy space laboratory.
+- GOBI Cinema portal environments.
+- Lost Temple on an unknown planet.
+- GOBI Garage / engineering bay.
+- GOBI After Dark observation deck.
+
+Existing GOBIVERSE floating-island environments can remain as locations, but every visible GOBI must be regenerated in canonical v2.
 
 Lighting baseline:
 
-- Warm key light from the desert or studio practicals.
-- Cool cyan rim from technology.
-- Deep navy or charcoal background separation.
-- Faces and eyes must remain readable on mobile.
+- Neutral white key light for fur readability.
+- Restrained red rim or interface bounce.
+- Deep charcoal or space-black background separation.
+- Eyes, chest name, arm number, and tail silhouette must remain readable on mobile.
 
-## 7. Camera & Composition
+## 7. Camera and Composition
 
-Reference-sheet views:
+Reference views:
 
-- Front.
-- Three-quarter left.
-- Profile.
-- Back.
-- Full-body neutral.
 - Facial close-up.
+- Full-body neutral front.
+- Exact side profile.
+- Three-quarter action view.
+- Back view for backpack and tail construction.
+- Material close-ups for chest core, temple modules, gloves, and boots.
 
-Short-form video framing:
+Short-form video:
 
 - Vertical 9:16.
-- Eyes placed near the upper third.
-- Safe space for subtitles in the lower-middle area.
-- Avoid placing essential details behind platform UI.
-- One dominant action or message per frame.
+- Eyes near the upper third.
+- Safe space for subtitles and platform UI.
+- One dominant action or message per shot.
+- Verify “GOBI” and “88” after every generation.
+- Never crop both ears, chest identifier, and tail simultaneously in an identity-led shot.
 
-## 8. Voice & Performance
+## 8. Voice and Performance
 
 ### GOBI
 
 - Adult male or androgynous adult voice.
-- Calm, confident tempo.
-- Indonesian delivery should feel natural and conversational.
-- Humor is dry and controlled.
-- Knowledge explanations slow down for important distinctions.
+- Calm, confident Indonesian delivery.
+- Intelligent without sounding academic or arrogant.
+- Dry, controlled humor.
+- Knowledge explanations distinguish facts, probability, uncertainty, and opinion.
 
 ### B-88
 
 - Neutral synthetic voice.
 - Short, precise sentences.
-- Slight timing delay may be used for comedy.
-- Never sounds childish or squeaky.
+- Slight timing delay may support comedy.
+- Never childish or squeaky.
 
-## 9. Master Visual Prompt
+## 9. Master Visual Prompt v2
 
-> Premium stylized-realistic 3D character design of GOBI, an adult anthropomorphic fennec desert fox and futuristic explorer, lean heroic proportions, tall elegant fennec ears, warm sand fur with darker ear tips, intelligent amber eyes, refined expressive muzzle, charcoal technical explorer jacket with asymmetrical sand panels and restrained electric-cyan piping, functional cross-body utility strap, wrist-mounted cyan holographic navigator, dark technical trousers, premium game-cinematic materials, subtle desert atmosphere, warm key light and cyan rim light, sophisticated adult gaming media character, clean recognizable silhouette, high-end animation character reference, full body, neutral studio background, front three-quarter view.
+> Production-ready cinematic character design of GOBI, one adult male anthropomorphic silver-white cyber fox and intellectual space explorer, exact mature realistic fox face, dense silver-white fur, refined long muzzle, black nose, proportional pointed ears, red-amber eyes, small angular red cybernetic temple modules, tall lean-athletic adult heroic proportions, one large luxurious silver-white fox tail, white and light-silver engineered astronaut suit with fine red piping and restrained graphite joint panels, black knee and elbow pads, white armored gloves and boots, compact life-support backpack, open circular helmet collar, geometric chest module with small red emissive core, exact readable red LED text “GOBI” above the chest module and exact readable red LED number “88” on the upper arm, premium realistic 3D science-fiction materials, neutral white key light, restrained red rim light, calm intelligent courageous expression, original adult entertainment and knowledge IP.
 
 ## 10. Negative Constraints
 
 Do not generate:
 
-- Child, baby, chibi, toddler, school character, oversized head, tiny body.
-- Roblox, Minecraft, Disney, Pixar, Fortnite, Pokémon, or any identifiable franchise style.
-- Existing game characters or copyrighted costume replicas.
-- Slot reels, poker chips, playing cards, roulette wheels, piles of coins, or jackpot text.
-- Crown, royal cape, excessive gold armor, superhero muscles, or default weapons.
-- Plastic toy materials, cheap mobile-game mascot look, furry costume photography.
-- Extra limbs, incorrect hands, duplicated ears, inconsistent markings, unreadable logos.
-- Excessive neon, cluttered UI, blown highlights, or unreadable dark face.
-
-References to quality or rendering standards must never instruct imitation of a living artist's signature style.
+- Sand, orange, or cream canonical fur.
+- Dark streetwear jacket as the default costume.
+- Child, baby, chibi, mascot, toy, school character, oversized head, or tiny body.
+- Oversized fennec ears, bulky wolf body, feral snarl, or aggressive monster anatomy.
+- Multiple tails, extra ears, extra limbs, broken hands, or inconsistent face.
+- Blue/cyan suit accents, excessive red glow, or illegible emissive identifiers.
+- Misspelled “GOBI” or incorrect “88”.
+- Existing franchise characters, recognizable costume replicas, or living-artist imitation.
+- Slot reels, chips, cards, roulette, coins, jackpot text, weapons, crowns, or capes.
+- Roblox, Minecraft, Disney, Pixar, Fortnite, Pokémon, or copied game-franchise styling.
+- Watermarks, random labels, cluttered interface, or unreadable dark face.
 
 ## 11. Consistency Record
 
-For every approved output, record:
+Every approved output must record:
 
-- Asset ID.
+- Asset ID and version.
 - Creation date.
-- Tool/model/version.
+- Tool/model/version when exposed.
 - Full prompt and negative constraints.
-- Seed or reference mechanism, if supported.
-- Reference images used.
-- Pose, expression, outfit version, and environment.
+- Reference images.
+- Pose, expression, outfit, environment, and camera.
 - Human edits.
-- Approval status.
-- Usage rights and destination platforms.
+- Approval and supersession status.
+- SHA-256 hash and dimensions.
 
-No generated image becomes a canonical reference until reviewed and marked **Approved**.
+No generated output becomes canonical until reviewed.
 
-## 12. Reference Sheet Deliverables
+## 12. v2 Rollout Checklist
 
-- [x] GOBI identity-lock: front, three-quarter, side, and canonical close-up.
-- [x] GOBI facial close-up.
-- [x] Six-expression sheet.
-- [x] Six-pose sheet.
-- [x] Outfit material and color callouts.
-- [x] B-88 turnaround.
-- [x] B-88 five-state sheet.
-- [x] Relative scale chart.
-- [x] GOBIVERSE environment keyframe.
-- [x] GOBI Academy keyframe.
-- [ ] Vertical video composition test.
-- [ ] Thumbnail readability test at mobile size.
-- [x] Final approved master prompt.
-- [x] Canonical asset manifest.
+- [x] Owner provides v2 visual direction.
+- [x] Canonical v2 identity-lock: close-up, front, side, and action view.
+- [ ] v2 back view and material callouts.
+- [ ] Six-expression sheet v2.
+- [ ] Six-pose sheet v2.
+- [ ] GOBI / Human Operator / B-88 scale chart v3.
+- [ ] B-88 palette integration decision.
+- [ ] GOBIVERSE environment character pass v2.
+- [ ] GOBI Academy character pass v2.
+- [ ] P001 storyboard and thumbnail regeneration.
+- [ ] Vertical-video safe-area test.
+- [ ] Mobile thumbnail readability test.
 
 ## 13. Approval Gate
 
-Approve or revise before producing the full reference set:
+Owner-directed decisions already locked:
 
-- [x] Cinematic Tech Explorer direction.
-- [x] Adult heroic proportions.
-- [x] Sand / charcoal / cyan palette.
-- [x] Default explorer outfit.
-- [x] GOBI expression and pose set.
-- [x] B-88 dual-loop form language.
-- [x] Master prompt and negative constraints.
+- [x] Silver-white realistic fox identity.
+- [x] Adult lean-athletic proportions.
+- [x] White/silver astronaut suit.
+- [x] Red chest core and red holographic technology.
+- [x] Exact “GOBI” chest and “88” arm identifiers.
+- [x] Cosmic Intelligence / Space Explorer direction.
 
-Approved by the project owner on 2026-08-02. Hybrid canonical package completed on 2026-08-02. See [assets/concepts/manifest.md](../assets/concepts/manifest.md).
+Pending production approval:
 
-Vertical video composition and thumbnail readability tests move to Week 1 production under [Issue #3](https://github.com/9dbit/Gobiverse/issues/3).
+- [ ] B-88 v2 color integration.
+- [ ] Expression and pose continuity.
+- [ ] Regenerated P001 assets.
+
+The previous v1 sand / charcoal / cyan GOBI is superseded. See [assets/concepts/manifest.md](../assets/concepts/manifest.md) for asset status and [Issue #3](https://github.com/9dbit/Gobiverse/issues/3) for downstream content regeneration.
