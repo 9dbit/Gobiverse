@@ -3,7 +3,9 @@
 **Runtime:** 34 seconds  
 **Master:** 1080×1920, 30 fps, sRGB  
 **Modes:** Breakout Frame + Signal Cinema  
-**Source:** `gobi-p001-storyboard-v3.png`
+**Source:** `gobi-p001-storyboard-v3.png`  
+**Rendered asset:** `gobi-p001-animatic-v1.mp4`  
+**Status:** Guide animatic rendered and QA passed; final VO/music pending
 
 ## Edit timeline
 
@@ -61,4 +63,3 @@
 - [ ] Dialogue intelligible on phone speakers.
 - [ ] No prohibited colors or casino clichés.
 - [ ] CTA is community/follow only; no real-money access CTA.
-

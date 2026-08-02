@@ -42,8 +42,8 @@ P001 uses Breakout Frame for the hook and Signal Cinema for the environment reve
 
 ## Next production queue
 
-1. Convert P001 storyboard frames into a 30–35 second animatic.
-2. Composite exact logo, subtitles, VO timing, and CTA.
-3. Produce P002 `RTP Explained` using Type Strike + Editorial Mask.
-4. Export P001 platform variants and test at mobile-thumbnail size.
-
+1. [x] Convert P001 storyboard frames into a 34-second guide animatic.
+2. [x] Add controlled headline timing, Indonesian subtitles, guide audio, and poster frame.
+3. [ ] Replace guide audio with approved GOBI voice, music, and final sound design.
+4. [ ] Produce P002 `RTP Explained` using Type Strike + Editorial Mask.
+5. [ ] Export final P001 platform variants after audio approval.

@@ -11,6 +11,9 @@
 |---|---:|---|---|
 | `gobi-p001-storyboard-v3.png` | 941×1672 | `7a177f6b3a2cfd46e4bcf22a844a129c5a8cd7d0c41faecb2880d03bba6404fe` | Approved production storyboard |
 | `gobi-p001-thumbnail-v3.png` | 941×1672 | `91b71053eceb840ae8aba56c58a77f419a3f868c79eefb8f15ca5dc85eb74c81` | Approved organic-test thumbnail |
+| `gobi-p001-animatic-v1.mp4` | 1080×1920, 34 s | `f0957a3e764dc0c54a0ddcd99f3993d059d64447d499a1b578e8d03f712d3bc5` | Approved silent/guide-tone animatic |
+| `gobi-p001-animatic-poster-v1.jpg` | 1080×1920 | `e2f8a27c56b395fab79c9e94ea2ca8b33bcca42795503845986a246ae43d5c96` | Animatic poster frame |
+| `gobi-p001-animatic-contact-sheet-v1.jpg` | 842×1472 | `08172ceb1a5bf8cd51104062b75adab1a68dd35edae2455f92fddfc9640ba65c` | Nine-timestamp visual QA sheet |
 
 The v1 and v2 fox assets are historical only and must not be published.
 
@@ -45,10 +48,13 @@ The v1 and v2 fox assets are historical only and must not be published.
 - No pink or other prohibited campaign accent.
 - No casino apparatus, currency, win claim, minor targeting, franchise reference, or commercial deposit CTA.
 - Final subtitles, logo, and CTA must remain controlled compositing layers.
+- Animatic QA passed at nine sampled timestamps; subtitle size and margins were corrected after the first render.
+- The embedded low synth is a timing guide only, not approved final music.
 
 ## Generation route
 
 - Built-in image generation; model/version not exposed.
 - References: canonical GOBI v3.2, B-88 scale/interaction board v4, Graphic Style Board v1, and official logo.
 - The complete prompt set is recorded in `assets/concepts/generation-record-2026-08-02-rollout-v1.md`.
-
+- Reproducible render script: `../../../scripts/render-p001-animatic.sh`.
+- Indonesian subtitle master: `gobi-p001-id.srt`.
