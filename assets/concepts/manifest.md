@@ -8,7 +8,7 @@
 **Model/version:** Not exposed by the built-in generation route  
 **Input references:** Owner-supplied silver-white GOBI astronaut action image and front/side model sheet  
 **Human image edits:** None  
-**Canonical status:** GOBI v2 active; v1 superseded; B-88 geometry retained pending color integration
+**Canonical status:** GOBI v2 and B-88 v2 core visual system active; v1 GOBI superseded
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
@@ -21,6 +21,9 @@ The PNG binaries are delivered as project assets with the filenames and hashes b
 | Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
 |---|---|---:|---:|---|---|
 | GOBI-IDENTITY-V2 | `gobi-canonical-identity-lock-v2.png` | 1672×941 | 2,476,579 bytes | `c7f46eabf4936209ec18090c36723c0fdafb338079bb8aa8af3b8c9a908acce9` | Active canonical identity |
+| GOBI-EXPRESSIONS-V2 | `gobi-canonical-expression-sheet-v2.png` | 1536×1024 | 2,870,721 bytes | `d31a992bb6a84c7b4690f565adc7217b25d23a8e3fb7f7f2769835f3d6ab21b9` | Approved |
+| GOBI-POSES-V2 | `gobi-canonical-pose-sheet-v2.png` | 1536×1024 | 2,314,577 bytes | `a52dce759b49c0707338d47f4d1fa6560cf7336bb9666f6c17dca7d84de30e2e` | Approved; blank chest plates by design |
+| B88-CONCEPT-V2 | `b88-canonical-concept-board-v2.png` | 1536×1024 | 2,289,549 bytes | `e0bcd9af1c5b12fa489f084c297c750a020b27c7b5313dd3fe423a33ddf0fbc7` | Approved canonical geometry and palette |
 
 GOBI v2 replaces the sand-furred dark-techwear identity with a realistic silver-white fox in a white/silver astronaut suit, restrained graphite panels, red core, exact red LED “GOBI” chest marking, and exact red LED “88” arm marking.
 
@@ -29,7 +32,7 @@ The supplied reference images define the face, fur, suit, tail, backpack, identi
 ### Downstream impact
 
 - GOBI v1 identity, expression, pose, scale, Academy, environment-character, storyboard, and thumbnail renders are historical only.
-- B-88 dual-loop geometry and 35 cm scale remain provisionally valid.
+- B-88 v2 dual-loop geometry, 35 cm scale, and white/graphite/red expedition palette are approved.
 - P001 must be regenerated before publishing.
 - No v1 and v2 GOBI assets may appear in the same campaign.
 
@@ -39,7 +42,7 @@ The supplied reference images define the face, fur, suit, tail, backpack, identi
 |---|---|---:|---:|---|---|
 | GOBI-CONCEPT-A-V1 | `gobi-variant-a-cinematic-explorer-v1.png` | 1536×1024 | 2,369,995 bytes | `41c7a6d28dc65be88d2c345d9c7d5143f66fc562d5f51966b77f50e7701e2866` | Candidate |
 | GOBI-CONCEPT-B-V1 | `gobi-variant-b-techwear-presenter-v1.png` | 1536×1024 | 2,303,673 bytes | `d07c2c71925a0b7269ffffb5e3b5a1f1369ffff0f5312dc2a57d303f762efeac` | Candidate |
-| B88-CONCEPT-V1 | `b88-concept-board-v1.png` | 1536×1024 | 2,036,624 bytes | `234a5f873080659d8aba22b9e0aa2cf4310b98eef6e1831d0a8c5007523ea786` | Candidate |
+| B88-CONCEPT-V1 | `b88-concept-board-v1.png` | 1536×1024 | 2,036,624 bytes | `234a5f873080659d8aba22b9e0aa2cf4310b98eef6e1831d0a8c5007523ea786` | Superseded by B-88 v2 |
 
 ## Canonical Package Registry
 
