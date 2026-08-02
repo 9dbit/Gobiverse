@@ -24,6 +24,9 @@ The PNG binaries are delivered as project assets with the filenames and hashes b
 | GOBI-EXPRESSIONS-V2 | `gobi-canonical-expression-sheet-v2.png` | 1536×1024 | 2,870,721 bytes | `d31a992bb6a84c7b4690f565adc7217b25d23a8e3fb7f7f2769835f3d6ab21b9` | Approved |
 | GOBI-POSES-V2 | `gobi-canonical-pose-sheet-v2.png` | 1536×1024 | 2,314,577 bytes | `a52dce759b49c0707338d47f4d1fa6560cf7336bb9666f6c17dca7d84de30e2e` | Approved; blank chest plates by design |
 | B88-CONCEPT-V2 | `b88-canonical-concept-board-v2.png` | 1536×1024 | 2,289,549 bytes | `e0bcd9af1c5b12fa489f084c297c750a020b27c7b5313dd3fe423a33ddf0fbc7` | Approved canonical geometry and palette |
+| GOBI-B88-OPERATOR-SCALE-V3 | `gobi-b88-human-operator-scale-chart-v3.png` | 1536×1024 | 2,177,193 bytes | `8f392aeb629a1e0dd924b4be40274bed427cb36581b93a237cf5e40e1b27ec1d` | Approved |
+| GOBIVERSE-KEYFRAME-01-V2 | `gobiverse-environment-keyframe-01-v2.png` | 1672×941 | 2,885,831 bytes | `39d9805ae0d5932ded2af0077fc5632359533f04ee4a2c971847e020745af316` | Approved Cosmic Frontier baseline |
+| GOBI-ACADEMY-KEYFRAME-01-V2 | `gobi-academy-keyframe-01-v2.png` | 1672×941 | 2,263,582 bytes | `90ea9ad16680ee06e472554008207d39dc3e44fb3c6250bad2b78cdbb8071347` | Approved; blank chest plate by design |
 
 GOBI v2 replaces the sand-furred dark-techwear identity with a realistic silver-white fox in a white/silver astronaut suit, restrained graphite panels, red core, exact red LED “GOBI” chest marking, and exact red LED “88” arm marking.
 
