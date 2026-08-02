@@ -258,20 +258,20 @@ No generated image becomes a canonical reference until reviewed and marked **App
 
 ## 12. Reference Sheet Deliverables
 
-- [ ] GOBI turnaround: front, three-quarter, side, and back.
-- [ ] GOBI facial close-up.
-- [ ] Six-expression sheet.
-- [ ] Six-pose sheet.
-- [ ] Outfit material and color callouts.
-- [ ] B-88 turnaround.
-- [ ] B-88 five-state sheet.
-- [ ] Relative scale chart.
-- [ ] GOBIVERSE environment keyframe.
-- [ ] GOBI Academy keyframe.
+- [x] GOBI identity-lock: front, three-quarter, side, and canonical close-up.
+- [x] GOBI facial close-up.
+- [x] Six-expression sheet.
+- [x] Six-pose sheet.
+- [x] Outfit material and color callouts.
+- [x] B-88 turnaround.
+- [x] B-88 five-state sheet.
+- [x] Relative scale chart.
+- [x] GOBIVERSE environment keyframe.
+- [x] GOBI Academy keyframe.
 - [ ] Vertical video composition test.
 - [ ] Thumbnail readability test at mobile size.
-- [ ] Final approved master prompt.
-- [ ] Canonical asset manifest.
+- [x] Final approved master prompt.
+- [x] Canonical asset manifest.
 
 ## 13. Approval Gate
 
@@ -285,4 +285,6 @@ Approve or revise before producing the full reference set:
 - [x] B-88 dual-loop form language.
 - [x] Master prompt and negative constraints.
 
-Approved by the project owner on 2026-08-02. Generate two GOBI concept variants and one B-88 concept board for visual selection.
+Approved by the project owner on 2026-08-02. Hybrid canonical package completed on 2026-08-02. See [assets/concepts/manifest.md](../assets/concepts/manifest.md).
+
+Vertical video composition and thumbnail readability tests move to Week 1 production under [Issue #3](https://github.com/9dbit/Gobiverse/issues/3).
