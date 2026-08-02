@@ -75,6 +75,32 @@ The first pose render produced incorrect small pseudo-text on several chest plat
 
 Preserve the dual-loop silhouette and 35 cm width. Replace the v1 sand/cyan palette with graphite structure, expedition-white/light-silver upper panels, signal-red navigation and record interfaces, and signal amber for alert state only. No cyan or blue lighting.
 
+
+## v2 Scale, Environment, Academy, and P001 Rollout
+
+**Date:** 2026-08-02  
+**Generation route:** built-in image generation  
+**Reference chain:** GOBI identity v2 → B-88 v2 → scale chart v3 → Cosmic Frontier and Academy v2 → P001 v2
+
+### Approved assets
+
+| Asset | Dimensions | SHA-256 |
+|---|---:|---|
+| `gobi-b88-human-operator-scale-chart-v3.png` | 1536×1024 | `8f392aeb629a1e0dd924b4be40274bed427cb36581b93a237cf5e40e1b27ec1d` |
+| `gobiverse-environment-keyframe-01-v2.png` | 1672×941 | `39d9805ae0d5932ded2af0077fc5632359533f04ee4a2c971847e020745af316` |
+| `gobi-academy-keyframe-01-v2.png` | 1672×941 | `90ea9ad16680ee06e472554008207d39dc3e44fb3c6250bad2b78cdbb8071347` |
+| `gobi-p001-storyboard-v2.png` | 941×1672 | `8f695dae2b5b2347e3cf39e3458cf83758b69a81bccd8fd717ba975a2ee0577b` |
+| `gobi-p001-thumbnail-v2.png` | 941×1672 | `9a25b821f4f2f8a6867bb212181507f065211ab89727036fc66d6bcaeb38a6b2` |
+
+### QA corrections
+
+- Scale chart draft showed B-88 too large; approved v3 reduces it to one fifth of GOBI's standing height.
+- Cosmic Frontier draft showed B-88 and route map too large; approved output reduces both.
+- Academy draft produced pseudo-text on the chest plate; approved output uses a blank emissive plate.
+- P001 storyboard draft showed oversized B-88 in three shots; approved v2 corrects all occurrences.
+- P001 thumbnail headline verified exactly as `ENTER THE GOBIVERSE`.
+- No casino imagery, win claim, currency, minor targeting, or commercial CTA appears in the approved visual set.
+
 ## Historical v1 Reference Chain
 
 1. `gobi-variant-a-cinematic-explorer-v1.png` established canonical facial structure, ears, fur, body, and Explorer outfit.
