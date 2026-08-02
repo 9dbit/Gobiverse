@@ -11,6 +11,8 @@
 - B-88 is locked at 35 cm total width and approximately one-fifth of GOBI's standing height.
 - P001 has been regenerated as a human-character Dark Neon Tech launch asset.
 - P002 Slot Myth Lab 01 is produced as the first probability-knowledge episode.
+- P003 RTP vs Volatility is produced as Myth Lab 02.
+- [Production checklist v1](06-production-checklist-v1.md) is the active operational tracker.
 
 ## Production masters
 
@@ -56,6 +58,16 @@ Dark Neon Tech v2 now overrides the v1 palette/material treatment for final rend
 
 P002 opens the `Myth Lab` recurring series. It explains probability concepts without promising wins, predicting outcomes, or encouraging longer play. Published variants must retain the 18+ and responsible-play cue.
 
+## P003 rollout
+
+- [Storyboard v1](../content/week-01/p003/gobi-p003-storyboard-v1.png)
+- [Thumbnail v1](../content/week-01/p003/gobi-p003-thumbnail-v1.png)
+- [Animatic v1](../content/week-01/p003/gobi-p003-animatic-v1.mp4)
+- [Script and caption](../content/week-01/p003/script-v1.md)
+- [Asset manifest](../content/week-01/p003/manifest.md)
+
+P003 explains that RTP and volatility describe different properties. It avoids session promises, recommendations, fabricated percentages, and outcome prediction.
+
 ## Next production queue
 
 1. [x] Convert P001 storyboard frames into a 34-second guide animatic.
@@ -64,4 +76,6 @@ P002 opens the `Myth Lab` recurring series. It explains probability concepts wit
 4. [x] Produce P002 `Slot Myth Lab 01` covering RNG, RTP, volatility, myths, and responsible limits.
 5. [ ] Replace guide audio with approved GOBI voice, music, and final sound design.
 6. [ ] Export final P001 and P002 platform variants after audio approval.
-7. [ ] Produce P003 `RTP vs Volatility` as a focused comparison episode.
+7. [x] Produce P003 `RTP vs Volatility` as a focused comparison episode.
+8. [ ] Approve GOBI voice identity and sonic system.
+9. [ ] Produce P004 `RNG: Kenapa Setiap Hasil Independen?`.
