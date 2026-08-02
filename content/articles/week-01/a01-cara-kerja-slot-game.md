@@ -8,6 +8,9 @@
 **Parent hub:** `/slot-game/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a01-slot-flow-v1.png`  
+**Hero alt:** GOBI menjelaskan alur request, RNG, pemetaan simbol abstrak, dan tampilan reel di laboratorium teknologi gelap.
+
 Slot game memproses setiap permainan melalui aturan perangkat lunak. Secara sederhana, pemain mengirim request, sistem menentukan outcome sesuai mekanisme yang telah dikonfigurasi, lalu game menerjemahkan outcome tersebut menjadi simbol, animasi, dan nilai payout berdasarkan paytable. Tampilan reel adalah cara game menyajikan hasil; bukan alat untuk membaca hasil spin berikutnya.
 
 ## 1. Request dimulai
@@ -63,3 +66,17 @@ Untuk game acak yang beroperasi sesuai mekanismenya, hasil sebelumnya tidak memb
 Slot game bekerja melalui kombinasi request, RNG, logika pemetaan, paytable, dan lapisan audiovisual. Memahami alur ini membantu pembaca menilai informasi dengan benar, tetapi tidak membuat hasil acak dapat diprediksi.
 
 > **21+ | Konten edukasi | Gambling adalah hiburan, bukan cara mencari penghasilan.**
+
+## FAQ
+
+### Apakah animasi reel menentukan hasil?
+
+Pada game RNG, animasi adalah lapisan presentasi dari outcome yang diproses sistem. Detail implementasi harus dicek pada rules game terkait.
+
+### Apakah hasil spin sebelumnya memengaruhi spin berikutnya?
+
+Pada game acak yang beroperasi sesuai mekanismenya, history tidak menjadi alat untuk memprediksi request berikutnya.
+
+### Apakah semua simbol memiliki peluang sama?
+
+Belum tentu. Acak tidak berarti setiap simbol atau outcome memiliki bobot identik. Gunakan information sheet resmi.

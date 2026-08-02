@@ -8,6 +8,9 @@
 **Parent hub:** `/blackjack/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a04-blackjack-rules-v1.png`  
+**Hero alt:** GOBI menjelaskan hit, stand, double, split, dan dealer procedure melalui antarmuka holografik.
+
 Tujuan blackjack adalah membentuk nilai kartu yang lebih tinggi daripada hand dealer tanpa melewati 21. Kartu 2–10 mengikuti angka, J/Q/K bernilai 10, sedangkan As dapat bernilai 1 atau 11 sesuai hand. Pemain memilih tindakan yang diizinkan rules, tetapi dealer mengikuti prosedur tetap. Detail payout dan tindakan yang tersedia dapat berbeda antarvarian.
 
 ## Istilah dasar
@@ -65,3 +68,17 @@ Basic strategy adalah tabel keputusan matematis berdasarkan hand pemain, kartu t
 Belajar blackjack dimulai dari rules, bukan dari sistem taruhan. Pahami nilai kartu, tindakan legal, dealer procedure, dan variasi payout. Baru setelah itu sebuah keputusan dapat dianalisis secara benar.
 
 > **21+ | Konten edukasi | Basic strategy bukan jaminan kemenangan.**
+
+## FAQ
+
+### Berapa nilai kartu As dalam blackjack?
+
+As dapat bernilai 1 atau 11 sesuai kondisi hand.
+
+### Apa perbedaan hit dan stand?
+
+Hit meminta kartu tambahan; stand mempertahankan hand dan berhenti mengambil kartu.
+
+### Apakah semua meja blackjack memiliki aturan sama?
+
+Tidak. Jumlah deck, soft 17, payout blackjack, double, split, dan surrender dapat berbeda antarvarian.

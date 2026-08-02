@@ -8,6 +8,9 @@
 **Parent hub:** `/money-management/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a07-budget-limits-v1.png`  
+**Hero alt:** GOBI mengaktifkan perlindungan kebutuhan penting, timer, session plan, dan stop barrier.
+
 Money management dalam casino game bukan sistem untuk menjamin profit. Fungsinya adalah membatasi exposure: memisahkan dana hiburan dari kebutuhan penting, menentukan batas uang dan waktu sebelum mulai, berhenti saat batas tercapai, dan mencegah keputusan emosional seperti mengejar kerugian.
 
 ## 1. Buat essential-funds firewall
@@ -74,3 +77,17 @@ Sebelum mulai, isi empat kalimat:
 Money management tidak mengubah house edge, RTP, atau randomness. Ia hanya membantu membatasi dampak keputusan. Batas yang terus dinegosiasikan saat bermain bukan lagi batas—karena itu keputusan harus dibuat sebelum sesi dimulai.
 
 > **21+ | Konten edukasi | Jika gambling menimbulkan masalah, berhenti dan cari dukungan profesional.**
+
+## FAQ
+
+### Apakah money management dapat menjamin profit?
+
+Tidak. Money management membatasi exposure dan dampak keputusan; ia tidak mengubah house edge, RTP, atau randomness.
+
+### Dana apa yang tidak boleh digunakan?
+
+Jangan gunakan dana kebutuhan, tagihan, kesehatan, pendidikan, cicilan, tabungan darurat, pinjaman, atau kewajiban keluarga.
+
+### Apa yang dilakukan saat batas sesi tercapai?
+
+Sesi selesai. Jangan mengisi ulang atau menaikkan batas untuk mengejar kerugian.

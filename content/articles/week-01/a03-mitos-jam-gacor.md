@@ -8,6 +8,9 @@
 **Parent hub:** `/mitos-casino/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a03-jam-gacor-myth-v1.png`  
+**Hero alt:** GOBI memisahkan kumpulan jam dari RNG core untuk menunjukkan bahwa waktu lokal bukan sinyal outcome acak.
+
 Tidak ada dasar untuk menyimpulkan bahwa jam lokal tertentu otomatis membuat RNG sebuah game menjadi lebih mudah menang. Pada game acak yang beroperasi sesuai standar, outcome harus sulit diprediksi dan hasil sebelumnya tidak menjadi sinyal untuk hasil berikutnya. Waktu baru relevan bila ada aturan terjadwal yang benar-benar tertulis—misalnya jadwal turnamen atau periode promosi—dan itu berbeda dari peluang dasar RNG.
 
 ## Mengapa mitos ini terasa masuk akal?
@@ -52,3 +55,17 @@ Tanpa jawaban yang kuat, perlakukan klaim sebagai mitos atau opini.
 Jam dapat mengatur event, tetapi bukan bukti bahwa outcome acak menjadi dapat diprediksi. Jangan memperpanjang sesi atau menaikkan dana hanya karena menunggu “jam gacor”. Tetapkan batas sebelum mulai dan berhenti saat batas tercapai.
 
 > **21+ | Konten edukasi | Tidak ada jam atau pola yang menjamin kemenangan.**
+
+## FAQ
+
+### Apakah jam tertentu membuat slot lebih mudah menang?
+
+Tidak ada dasar untuk menganggap jam lokal otomatis mengubah RNG. Klaim perubahan harus dibuktikan oleh rules atau informasi resmi game.
+
+### Mengapa pengalaman pemain terlihat mendukung jam gacor?
+
+Sampel pendek, variasi hasil, ingatan selektif, dan cerita yang dibagikan dapat membuat korelasi terasa seperti sebab-akibat.
+
+### Apakah jadwal promosi sama dengan perubahan RNG?
+
+Tidak. Jadwal promosi atau turnamen adalah aturan terpisah dan bukan bukti bahwa peluang dasar RNG menjadi lebih mudah.

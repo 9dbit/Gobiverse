@@ -4,6 +4,14 @@
 **Audience:** Adults 21+  
 **Voice:** GOBI Gamepedia / Myth vs Math / Decision Lab
 
+## Production package
+
+- Seven complete article drafts with visible FAQs.
+- Seven original 1672×941 hero images in `assets/articles/week-01/`.
+- [SEO schema pack](seo-schema-pack-v1.md) with Article, BreadcrumbList, and visible-FAQ templates.
+- [Social derivative pack](social-derivative-pack-v1.md) for short video, carousel, caption, Threads, questions, and alt text.
+- [Image generation record](../../../assets/articles/week-01/generation-record-v1.md).
+
 | Day | Pillar | Draft | Status |
 |---|---|---|---|
 | Monday | Slot Mechanics | [Cara Kerja Slot Game](a01-cara-kerja-slot-game.md) | Draft complete |
@@ -21,9 +29,9 @@
 - [ ] Re-open every cited source and record access date.
 - [ ] Validate game-specific rules against the current official information sheet.
 - [ ] Run Indonesian copy edit and originality review.
-- [ ] Add original/licensed hero image at least 1200 px wide.
+- [x] Add original/licensed hero image at least 1200 px wide.
 - [ ] Add pillar and related-article links using final production URLs.
-- [ ] Validate title, meta description, canonical, breadcrumbs, and eligible schema.
+- [ ] Replace schema placeholders, then validate title, meta description, canonical, breadcrumbs, and eligible schema.
 - [ ] Confirm 21+ and responsible-play notice.
 - [ ] Confirm no registration, deposit, bonus, affiliate, or operator redirect.
 - [ ] Record publication URL and 24-hour/7-day performance.

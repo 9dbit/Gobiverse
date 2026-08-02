@@ -8,6 +8,9 @@
 **Parent hub:** `/poker/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a02-poker-ranking-v1.png`  
+**Hero alt:** GOBI menyusun hierarki kombinasi kartu poker generik pada panel holografik biru dan merah.
+
 Urutan kartu poker standar bergerak dari **High Card** sebagai kombinasi terendah, lalu One Pair, Two Pair, Three of a Kind, Straight, Flush, Full House, Four of a Kind, Straight Flush, hingga Royal Flush sebagai straight flush tertinggi. Namun aturan showdown, penggunaan kartu komunitas, dan penanganan tie harus selalu mengikuti varian yang sedang dimainkan.
 
 ## Ranking dari terendah ke tertinggi
@@ -60,3 +63,17 @@ Aturan resmi dapat berbeda antarjenis poker dan yurisdiksi. Gunakan dokumen vari
 Hand ranking adalah fondasi poker, tetapi bukan keseluruhan permainan. Position, struktur taruhan, informasi yang tersedia, dan aturan varian menentukan konteks keputusan. Tangan kuat pun tidak menjamin hasil satu deal.
 
 > **21+ | Konten edukasi | Tidak ada keputusan yang menjamin kemenangan.**
+
+## FAQ
+
+### Apakah Flush lebih tinggi daripada Straight?
+
+Ya. Dalam ranking poker standar, Flush berada di atas Straight.
+
+### Apakah Royal Flush kategori terpisah?
+
+Royal Flush adalah sebutan untuk straight flush tertinggi: 10-J-Q-K-A dengan suit sama.
+
+### Apakah suit memecahkan tie?
+
+Dalam banyak rules showdown standar, suit tidak menentukan pemenang. Selalu cek varian dan prosedur meja yang berlaku.

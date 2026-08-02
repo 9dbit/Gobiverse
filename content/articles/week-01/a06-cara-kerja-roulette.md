@@ -8,6 +8,9 @@
 **Parent hub:** `/spin-wheel/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a06-roulette-v1.png`  
+**Hero alt:** GOBI menunjukkan coverage pocket pada roulette dan barrier reset antara dua spin independen.
+
 Roulette menggunakan wheel dengan pocket bernomor dan layout taruhan. Bola berhenti pada satu pocket, lalu wager diselesaikan menurut posisi yang dipilih dan payout table. European roulette standar memiliki satu zero dan 37 pocket; American roulette standar menambahkan double zero sehingga memiliki 38 pocket. Tambahan pocket mengubah probabilitas dan house edge.
 
 ## Single zero dan double zero
@@ -50,3 +53,17 @@ Dokumen permainan resmi berbeda menurut yurisdiksi dan varian. [Massachusetts Ga
 Roulette dipahami melalui jumlah pocket, coverage wager, payout, dan rules varian. Tidak ada urutan warna yang menjamin hasil berikutnya, dan sistem taruhan tidak menghapus house edge.
 
 > **21+ | Konten edukasi | Jangan mengejar hasil atau meminjam untuk bermain.**
+
+## FAQ
+
+### Apa perbedaan European dan American roulette?
+
+European roulette standar memakai satu zero dan 37 pocket; American roulette standar menambahkan double zero sehingga memiliki 38 pocket.
+
+### Apakah rangkaian merah membuat hitam lebih mungkin berikutnya?
+
+Tidak pada wheel yang beroperasi normal. History warna tidak membuat outcome lawan menjadi “terutang”.
+
+### Apakah digital spin wheel selalu memiliki segmen berbobot sama?
+
+Belum tentu. Weighted probability dapat berbeda dari tampilan visual; cek rules dan information sheet.

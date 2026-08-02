@@ -8,6 +8,9 @@
 **Parent hub:** `/edukasi-casino/`  
 **Audience:** 21+
 
+**Hero:** `../../../assets/articles/week-01/hero-a05-casino-categories-v1.png`  
+**Hero alt:** GOBI mengelompokkan RNG game, card and table rules, physical wheel, dan live studio di GOBI Academy.
+
 Casino game adalah permainan dengan aturan formal yang menentukan bagaimana keputusan, peluang, dan payout bekerja. Sebagian besar hasilnya didominasi chance; sebagian lain memberi ruang bagi keputusan pemain tanpa menghapus variasi acak. Untuk memahami sebuah game, pisahkan empat lapisan: rules, matematika jangka panjang, hasil sesi individual, dan presentasi audiovisual.
 
 ## Kategori utama
@@ -61,3 +64,17 @@ Live dealer menggunakan meja, dealer, kamera, studio, dan prosedur operasional. 
 Nama game hanya titik awal. Pemahaman yang benar datang dari rules, struktur probabilitas, payout, dan batas keputusan. Edukasi tidak menghilangkan house edge atau randomness, tetapi membantu pembaca menolak klaim yang menyesatkan.
 
 > **21+ | Konten edukasi | Gambling bukan cara mencari penghasilan.**
+
+## FAQ
+
+### Apa perbedaan casino game dan poker antarpemain?
+
+Pada banyak casino game pemain berhadapan dengan aturan dan house. Dalam poker antarpemain, pemain bersaing satu sama lain sementara operator menyediakan struktur permainan.
+
+### Apa arti house edge?
+
+House edge adalah estimasi keuntungan matematis sistem dalam pola permainan normal dan volume besar, bukan hasil pasti setiap sesi.
+
+### Apakah live dealer berarti peluang lebih baik?
+
+Tidak otomatis. Live menjelaskan mode produksi. Rules, payout, dan varian tetap menentukan matematika game.

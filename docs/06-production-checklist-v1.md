@@ -76,6 +76,11 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Build the reviewed source register for casino, slot, poker, blackjack, wheel games, RTP, and responsible play.
 - [x] Produce the eight pillar-page briefs.
 - [x] Draft the first seven articles using the approved weekly rhythm.
+- [x] Add seven original 1672×941 Human GOBI article heroes and generation records.
+- [x] Add visible FAQ sections to the first seven articles.
+- [x] Prepare Article, BreadcrumbList, and FAQPage JSON-LD templates with deployment placeholders.
+- [x] Prepare short-video, carousel, caption, Threads, community-question, and alt-text derivatives.
+- [ ] Assign named human author and reviewer, replace schema placeholders, and validate structured data.
 - [ ] Run legal, platform, factual, and human editorial QA before publication.
 
 ## Next production — fan and community loop
