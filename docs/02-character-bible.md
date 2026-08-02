@@ -1,6 +1,6 @@
 # GOBI & B-88 Visual Character Bible
 
-**Status:** Human v3.2 official brand-color revision; identity-lock candidate pending final approval  
+**Status:** Human v3.2 canonical identity approved; expression and pose system approved; rollout in progress  
 **Version:** 3.2  
 **Started:** 2026-08-02  
 **Revised:** 2026-08-02  
@@ -42,7 +42,7 @@ The approved identity must remain the same adult woman across every image and vi
 - Confident, lighthearted expression with energetic eye contact.
 - No childlike face, school styling, celebrity likeness, bunny emblem, or recognizable franchise identity.
 
-The face, hair, and makeup shown in `gobi-human-identity-lock-v3.1.png` are the current primary identity candidate. The previous v3 face is historical.
+The face, hair, and makeup shown in `gobi-human-identity-lock-v3.2.png` are canonical. Earlier human and fox identities are historical.
 
 ## 4. Body and Silhouette
 
@@ -179,13 +179,13 @@ Owner-directed decisions already locked:
 
 Pending:
 
-- [ ] Approve `gobi-human-identity-lock-v3.2.png`.
+- [x] Approve `gobi-human-identity-lock-v3.2.png`.
 - [ ] Lock exact name presentation and voice.
-- [ ] Generate expression sheet v3.
-- [ ] Generate pose/presenter sheet v3.
+- [x] Generate and QA six-expression sheet v3.2.
+- [x] Generate and QA six-pose presenter sheet v3.2.
 - [ ] Generate GOBI/B-88 interaction and scale sheet v4.
 - [ ] Regenerate Academy, studio, and environment keyframes.
 - [ ] Regenerate P001 storyboard and thumbnail.
 - [ ] Complete mobile/9:16 continuity QA.
 
-Until the identity-lock is approved, all fox content and all downstream P001 visuals remain on hold.
+The identity, expression, and pose system is now approved. P001 remains on hold until the human/B-88 scale and interaction sheet plus regenerated v3.2 storyboard and thumbnail are approved.

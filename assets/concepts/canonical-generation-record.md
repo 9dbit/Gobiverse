@@ -2,7 +2,7 @@
 
 **Batch:** GOBI & B-88 Canonical Package v1  
 **Date:** 2026-08-02  
-**Status:** human v3.2 official-color candidate active; earlier human and fox revisions historical  
+**Status:** human v3.2 identity, expression, and pose package approved canonical; earlier revisions historical  
 **Parent manifest:** [manifest.md](manifest.md)
 
 
@@ -18,7 +18,7 @@
 **Logo dimensions:** 400×107  
 **Logo size:** 12,816 bytes  
 **Logo SHA-256:** `b8c37e331178848a3ef7ac7b1ce25819da332738bee7d1f3d8a29a7e6966b19a`  
-**Status:** active owner-directed candidate; approval pending
+**Status:** owner-approved canonical identity
 
 ### Locked revision
 
@@ -41,6 +41,57 @@
 
 ```text
 Preserve GOBI human v3.1's exact adult face, age 23, chestnut-brown hair, side-swept bangs, eye makeup, proportions, poses, four-view sheet layout, headset construction, and fitted high-neck suit construction. Use the official supplied GOBI88 wordmark as the sole brand-color source: deep navy, dominant pearl white, and signal red. Remove every pink, hot-pink, magenta, purple, lavender, cyan, turquoise, and bright royal-blue element. Change cheek marks to red. Recolor the suit to 50–55% white, 30–35% navy, and 10–15% red with minor graphite joints. Use an exact GOBI88 chest plate with white GOBI and red 88 on navy, plus exact red 88 on the arm. Present one identity portrait, front, side, and three-quarter host pose with a navy analytics panel, white data, and red highlights. No bunny symbol, franchise UI, minor coding, weapons, sexualized styling, casino imagery, anatomy errors, or pseudo-text.
+```
+
+## v3.2 Expression and Presenter-Pose Package
+
+**Date:** 2026-08-02  
+**Status:** owner-approved canonical supporting package  
+**Primary reference:** `gobi-human-identity-lock-v3.2.png`
+
+| Asset | Dimensions | Size | SHA-256 |
+|---|---:|---:|---|
+| `gobi-human-expression-sheet-v3.2.png` | 1672×941 | 2,431,758 bytes | `fb29b5c5848ee38a910baca5bee93cd0db1d08075ce635ca16ff39acbb7f387c` |
+| `gobi-human-pose-sheet-v3.2.png` | 1672×941 | 1,838,572 bytes | `671a452d71ef58f53d886e8ac99d89747ee50f53533000471c46a17fe2260cb7` |
+
+### Expression sequence
+
+1. Host Neutral.
+2. Lighthearted Laugh.
+3. Competitive Focus.
+4. Myth Detected.
+5. Discovery / Wow.
+6. Responsible Warning.
+
+### Pose sequence
+
+1. Host Welcome.
+2. Competitive Gamer.
+3. Myth vs Math.
+4. Community Poll.
+5. Knowledge Explainer.
+6. Responsible Warning.
+
+### QA record
+
+- Same adult face, hair, cheek marks, headset, and suit collar retained across expressions.
+- Navy, dominant white, and signal red palette retained; no pink detected.
+- First pose draft rejected because one panel cropped the feet, chest identifiers produced pseudo-text, and RNG graphics contained random percentages.
+- Approved pose sheet corrects all six figures to full-body head-to-toe.
+- Approved pose sheet intentionally uses clean blank navy chest plates for controlled official-logo compositing.
+- Knowledge graphics use unlabeled curves and dots; no numerical claims.
+- No casino imagery, commercial CTA, win claim, currency, or minor targeting.
+
+### Expression prompt
+
+```text
+Create a 3-by-2 head-and-shoulders sheet from canonical GOBI human v3.2. Preserve the same adult face, chestnut hair, side-swept bangs, red cheek marks, headset, suit collar, camera, and lighting. Expressions only: Host Neutral, Lighthearted Laugh, Competitive Focus, Myth Detected, Discovery/Wow, and Responsible Warning. Navy/white/red only; no pink, franchise symbols, child coding, casino imagery, text, or identity drift.
+```
+
+### Corrected pose prompt
+
+```text
+Create a 3-by-2 full-body presenter sheet from canonical GOBI human v3.2. Six head-to-toe poses: Host Welcome, Competitive Gamer, Myth vs Math, Community Poll, Knowledge Explainer, Responsible Warning. Preserve face, hair, proportions, suit, headset, navy/white/red palette, and complete shoes. Use blank navy chest plates for later official-logo compositing. Use only unlabeled probability curves and exact A/B poll cards. No numeric claims, pseudo-text, pink, casino imagery, weapons, child coding, or anatomy drift.
 ```
 
 ## Historical Revision v3.1 — Face, Makeup, Hair, and Blue Suit Lock
