@@ -1,6 +1,6 @@
 # GOBI & B-88 Visual Character Bible
 
-**Status:** Owner-directed canonical revision; v2 rollout in progress  
+**Status:** Core v2 canonical package approved; rollout in progress  
 **Version:** 2.0  
 **Started:** 2026-08-02  
 **Revised:** 2026-08-02  
@@ -110,14 +110,17 @@ Required v2 pose set:
 
 ## 3. B-88
 
-B-88's dual-loop geometry and 35 cm width remain provisionally locked from v1.
+B-88 v2's dual-loop geometry, 35 cm width, and expedition palette are canonical.
 
-### Current rule
+### Canonical v2 rule
 
-- Do not redesign B-88 until GOBI v2 identity is fully approved.
-- Existing graphite dual-loop form may be used as geometry reference only.
-- A v2 integration test must determine whether B-88 keeps cyan information light or adopts the red/white expedition palette.
-- B-88 must remain approximately 35 cm wide and visually subordinate to GOBI.
+- Preserve the original dual-loop “88” silhouette and central optical sensor.
+- Width remains approximately 35 cm and visually subordinate to GOBI.
+- Structural shell and underside: deep graphite.
+- Upper armor panels: expedition white / lunar silver.
+- Navigation, scanning, fact-check, and record interfaces: signal red with white information accents.
+- Alert state alone may use signal amber.
+- No cyan or blue lighting on B-88 v2.
 
 ### Role
 
@@ -190,6 +193,7 @@ Short-form video:
 - Safe space for subtitles and platform UI.
 - One dominant action or message per shot.
 - Verify “GOBI” and “88” after every generation.
+- For distant or multi-pose sheets, use blank emissive chest plates rather than accepting pseudo-text; add exact “GOBI” as a controlled typography layer during compositing.
 - Never crop both ears, chest identifier, and tail simultaneously in an identity-led shot.
 
 ## 8. Voice and Performance
@@ -250,10 +254,10 @@ No generated output becomes canonical until reviewed.
 - [x] Owner provides v2 visual direction.
 - [x] Canonical v2 identity-lock: close-up, front, side, and action view.
 - [ ] v2 back view and material callouts.
-- [ ] Six-expression sheet v2.
-- [ ] Six-pose sheet v2.
+- [x] Six-expression sheet v2.
+- [x] Six-pose sheet v2.
 - [ ] GOBI / Human Operator / B-88 scale chart v3.
-- [ ] B-88 palette integration decision.
+- [x] B-88 palette integration decision and five-state concept board.
 - [ ] GOBIVERSE environment character pass v2.
 - [ ] GOBI Academy character pass v2.
 - [ ] P001 storyboard and thumbnail regeneration.
@@ -273,7 +277,7 @@ Owner-directed decisions already locked:
 
 Pending production approval:
 
-- [ ] B-88 v2 color integration.
+- [x] B-88 v2 color integration.
 - [ ] Expression and pose continuity.
 - [ ] Regenerated P001 assets.
 
