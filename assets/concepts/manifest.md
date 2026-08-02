@@ -53,9 +53,9 @@ The supplied reference images define the face, fur, suit, tail, backpack, identi
 | GOBIVERSE-KEYFRAME-01-V1 | `gobiverse-environment-keyframe-01-v1.png` | 1625×968 | 1,965,112 bytes | `5bfdbee2e112e53cb3c90970225fc5e70c4fada24d1bdb20379ac05a2fc939b3` | Environment usable; GOBI pass superseded |
 | GOBI-ACADEMY-KEYFRAME-01-V1 | `gobi-academy-keyframe-01-v1.png` | 1627×967 | 1,960,561 bytes | `d16b4fd38c3bcabdc9ab50b83bd78e177b71194aeae7b63731bc7e749ff50dea` | Superseded; regenerate GOBI v2 pass |
 
-## Canonical Selection Record
+## Historical v1 Canonical Selection Record
 
-Approved execution direction:
+Previously approved v1 direction (superseded):
 
 1. Variant A facial structure, ears, fur pattern, eyes, and body are the canonical GOBI identity.
 2. Variant A clothing is the Explorer/Cinema outfit.
@@ -110,7 +110,7 @@ Watchouts:
 - Final scale with GOBI still needs a shared scale chart.
 - Propulsion and underside details need a turnaround pass.
 
-## Recommended Canonical Direction
+## Historical v1 Recommended Direction
 
 Recommended for approval:
 
@@ -120,7 +120,7 @@ Recommended for approval:
 4. Accept the current B-88 dual-loop form as the base design.
 5. Run an identity-lock pass before expressions, poses, and story scenes.
 
-The Hybrid recommendation was accepted through the project owner's continuation approval and is now canonical.
+The Hybrid recommendation was accepted for v1 and was superseded by the owner-directed GOBI v2 revision on 2026-08-02.
 
 ## Prompt Record — GOBI Variant A
 
@@ -176,9 +176,9 @@ Constraints: original adult-coded design, dual-loop 88-inspired geometry must be
 Avoid: child toy, cute robot face, cartoon eyes, slot reels, poker chips, coins, roulette, playing cards, jackpot symbols, copied sci-fi franchise droids, weapons, excessive neon, excessive gold, extra appendages, inconsistent geometry, unreadable clutter, plastic toy rendering.
 ```
 
-## Completion
+## Historical v1 Completion
 
-Character visual foundation v1 is complete.
+Character visual foundation v1 was completed and is now superseded where it contains GOBI.
 
 Completed:
 
