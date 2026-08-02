@@ -24,7 +24,7 @@ Primary tagline:
 |---|---|---|
 | Brand category | Adult gaming media and entertainment | Approved |
 | Core differentiator | Original universe + knowledge + audience participation | Approved |
-| Lead character | GOBI, premium cyber-desert fox | Approved |
+| Lead character | GOBI, original adult Asian female gaming entertainer, human v3.3 | Approved |
 | Side character | B-88, navigator drone | Approved |
 | Audience name | GOBI Crew | Approved |
 | Main knowledge zone | GOBI Academy | Approved |
@@ -76,14 +76,16 @@ A post that only says “register,” “claim,” or “play now” does not me
 
 ### GOBI
 
-- Species: stylized fennec/desert fox.
-- Role: explorer, host, and guide through the GOBIVERSE.
-- Age coding: adult.
-- Silhouette: tall ears, lean shape, explorer jacket, restrained armor/tech.
-- Palette: warm sand, charcoal, electric cyan.
-- Personality: intelligent, curious, calm under pressure, dry humor.
+- Identity: original fictional Asian woman, age 23 and clearly adult.
+- Role: gaming entertainer, streamer, host, tech presenter, and guide through the GOBIVERSE.
+- Face lock: warm adult Asian features, almond dark-brown eyes, refined natural makeup, and softly defined warm nude-red lips.
+- Hair lock: long deep chestnut-brown layered hair, soft full fringe, and face-framing bangs.
+- Mark lock: two parallel signal-red diagonal bars on each cheek.
+- Headset lock: navy/black metallic over-ear broadcast headset, red illuminated ring, and boom microphone.
+- Outfit lock: fitted high-neck operator jacket with balanced pearl-white/deep-navy angular panels, signal-red piping, metallic shoulder structure, GOBI88 chest badge, and red 88 upper-arm identifier.
+- Personality: intelligent, confident, competitive, lighthearted, calm under pressure, with dry humor.
 - Weakness: occasionally overconfident; B-88 corrects the facts.
-- Never: childish baby proportions, school setting, casino-sales mascot, or copied game character.
+- Never: fox/animal form, childlike proportions, school styling, pink/magenta, sexualized framing, copied character, or copied game UI.
 
 ### B-88
 
@@ -137,7 +139,7 @@ Before visual production scales, approve or revise:
 
 - [x] Positioning.
 - [x] Tagline.
-- [x] GOBI character direction.
+- [x] GOBI human v3.3 character and outfit direction.
 - [x] B-88 character direction.
 - [x] GOBI Crew community name.
 - [x] Visual palette.
