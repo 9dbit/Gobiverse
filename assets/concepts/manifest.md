@@ -1,6 +1,6 @@
 # GOBI88 Visual Concept Manifest
 
-**Batch:** Character System v2 rollout  
+**Batch:** Character System v3 human pivot  
 **Created:** 2026-08-02  
 **Character Bible:** [docs/02-character-bible.md](../../docs/02-character-bible.md)  
 **Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
@@ -8,12 +8,32 @@
 **Model/version:** Not exposed by the built-in generation route  
 **Input references:** Owner-supplied silver-white GOBI astronaut action image and front/side model sheet  
 **Human image edits:** None  
-**Canonical status:** GOBI v2 and B-88 v2 core visual system active; v1 GOBI superseded
+**Canonical status:** Human v3 is the active owner-directed candidate; fox v2 and v1 are historical; B-88 v2 retained provisionally
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
 
-## Active Canonical Revision v2
+## Active Owner-Directed Revision v3 — Human Gaming Entertainer
+
+**Direction received:** 2026-08-02  
+**Status:** Identity-lock candidate created; owner approval pending  
+**Source role:** owner-supplied image used for mood/genre only, not copied identity or franchise design
+
+| Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
+|---|---|---:|---:|---|---|
+| GOBI-HUMAN-IDENTITY-V3 | `gobi-human-identity-lock-v3.png` | 1672×941 | 2,033,849 bytes | `b95b7ab4c6e3b4a9959ec243a8cc10db53265a57610bdba455e59c029f5358a5` | Owner-directed candidate; approval pending |
+
+Canonical candidate: an original adult Asian woman, age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Signature styling is expedition white, deep graphite, and signal red with a cropped broadcast jacket, professional headset, exact `GOBI` chest plate, and `88` upper-arm identifier.
+
+### Immediate production consequence
+
+- Every fox image is historical and blocked from publishing.
+- Fox v2 is not deleted; it remains audit history.
+- B-88 v2 geometry and palette remain provisionally reusable.
+- P001 fox storyboard and thumbnail are on hold and must be regenerated after human v3 approval.
+- No human v3 asset may imitate D.Va, Overwatch, a bunny/rabbit insignia, a blue/pink bodysuit, copyrighted UI, or another recognizable franchise identity.
+
+## Historical Canonical Revision v2 — Silver-White Fox
 
 **Direction:** Cosmic Intelligence / Space Explorer  
 **Owner direction received:** 2026-08-02

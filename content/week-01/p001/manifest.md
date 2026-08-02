@@ -1,11 +1,23 @@
 # GOBI-P001 — Brand Reveal Asset Manifest
 
-Status: **Production-ready visual pre-production v2**  
+Status: **HOLD — fox v2 visuals superseded; regenerate after human v3 approval**  
 Format: **9:16 vertical**  
 Target runtime: **12–15 seconds**  
-Canonical system: **GOBI v2 / B-88 v2 / Cosmic Frontier**
+Canonical system: **Pending GOBI human v3 / B-88 v2**
 
-## Active v2 assets
+## Publishing Block
+
+Do not animate, edit, schedule, or publish the current storyboard or thumbnail. They contain the superseded fox v2 identity. Keep the files for audit history only.
+
+Unblock criteria:
+
+- Human identity-lock v3 approved.
+- Expression and presenter-pose continuity passed.
+- Human/B-88 scale and interaction approved.
+- Storyboard and thumbnail regenerated with the approved human identity.
+- 9:16, typography, adult-audience, and responsible-play QA passed.
+
+## Historical fox v2 assets
 
 | Asset | Dimensions | Size | SHA-256 | Status |
 |---|---:|---:|---|---|

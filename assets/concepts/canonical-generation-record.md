@@ -2,11 +2,47 @@
 
 **Batch:** GOBI & B-88 Canonical Package v1  
 **Date:** 2026-08-02  
-**Status:** v1 historical; GOBI v2 active  
+**Status:** human v3 active candidate; fox v2/v1 historical  
 **Parent manifest:** [manifest.md](manifest.md)
 
 
-## Revision v2 — Silver Space Explorer
+## Revision v3 — Human Gaming Entertainer
+
+**Date:** 2026-08-02  
+**Source:** one owner-supplied visual reference  
+**Reference role:** mood and genre only; no face, costume, logo, UI, pose, or franchise identity copied  
+**Asset:** `gobi-human-identity-lock-v3.png`  
+**Dimensions:** 1672×941  
+**Size:** 2,033,849 bytes  
+**SHA-256:** `b95b7ab4c6e3b4a9959ec243a8cc10db53265a57610bdba455e59c029f5358a5`  
+**Status:** owner-directed candidate; final identity approval pending
+
+### Identity decision
+
+The owner replaced the fox direction with an original adult Asian female gaming entertainer. GOBI is age 23 and carries gaming, streaming, AI/tech, casino-game knowledge, and slot-mechanics education through a confident, competitive, lighthearted presenter persona.
+
+The design deliberately departs from the supplied franchise-coded reference: white/graphite/red separates replace the blue/pink bodysuit; the face, hair, insignia, costume construction, pose language, and UI are original; no bunny/rabbit symbol is used.
+
+### Generation route
+
+- Built-in image generation.
+- Model/version not exposed.
+- Referenced-image path used for vibe only.
+- Human image edits: none.
+- QA passed: clearly adult appearance, face continuity, original costume, non-sexualized presentation, exact `GOBI`, exact `88`, consistent palette, four-view layout.
+- Remaining QA gate: owner approval.
+
+### Full prompt
+
+```text
+Create a definitive ORIGINAL character identity-lock concept sheet for the GOBI 88 brand. Use the supplied image only as mood and genre reference for an adult Asian gaming entertainer in a neon arcade; do not copy its face, costume, pose, interface, bunny symbol, colors, name, or franchise identity. Create GOBI as a clearly adult 23-year-old Asian woman, an original fictional gaming entertainer, streamer, tech presenter and playful analyst. Personality: confident, competitive, lighthearted, intelligent, welcoming and slightly mischievous. Preserve one consistent original adult face, warm medium-light skin, almond dark-brown eyes, expressive brows, long layered dark-espresso hair with a subtle deep-crimson inner streak. Outfit: premium practical non-sexualized broadcast rig—expedition-white cropped structured tech jacket, graphite high-neck performance top, tailored graphite utility trousers with white panels, deep-crimson piping, compact broadcast headset, fingerless presentation gloves, red holographic wrist interface, exact GOBI chest plate and 88 upper-arm identifier. Layout: 16:9 identity portrait, full front, full side, and three-quarter host pose. Premium semi-photorealistic cinematic 3D, charcoal studio and restrained red accents. Avoid D.Va, Overwatch, bunny/rabbit logo, blue/pink bodysuit, franchise replication, schoolgirl, child, minor, chibi, lingerie, cleavage emphasis, casino imagery, weapons, copied UI, inconsistent faces, extra limbs, and illegible typography.
+```
+
+### Rollout consequence
+
+Fox v2 and v1 assets remain historical and must not be published. B-88 v2 remains provisionally valid. Expression, pose, human/B-88 scale, environment, Academy, and P001 assets must be regenerated only after v3 identity approval.
+
+## Historical Revision v2 — Silver Space Explorer
 
 **Date:** 2026-08-02  
 **Source:** two owner-supplied visual references  
