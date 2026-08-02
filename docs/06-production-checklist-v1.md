@@ -34,10 +34,12 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Lock sonic cue system: portal, logo mnemonic, B88 chirp, data scan, myth-busted, knowledge lock, and responsible close.
 - [x] Prepare final recording scripts for P001–P003.
 - [x] Prepare timestamped audio cue sheet for P001–P003.
+- [x] Prepare three-way GOBI voice casting brief, identical test passage, provider handoff, and weighted scorecard.
 
 ## In progress / next approval gates
 
-- [ ] Generate and compare three GOBI voice samples using the same test passage.
+- [ ] Render three GOBI voice WAV samples using the approved casting pack.
+- [ ] Compare samples A/B/C using the weighted scorecard.
 - [ ] Select the final human voice actor or approved TTS voice.
 - [ ] Record/render final Indonesian voice-over for P001–P003.
 - [ ] Replace guide tone with licensed music and final sound design.
