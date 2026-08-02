@@ -2,10 +2,48 @@
 
 **Batch:** GOBI & B-88 Canonical Package v1  
 **Date:** 2026-08-02  
-**Status:** Approved  
+**Status:** v1 historical; GOBI v2 active  
 **Parent manifest:** [manifest.md](manifest.md)
 
-## Reference Chain
+
+## Revision v2 — Silver Space Explorer
+
+**Date:** 2026-08-02  
+**Source:** two owner-supplied visual references  
+**Asset:** `gobi-canonical-identity-lock-v2.png`  
+**Dimensions:** 1672×941  
+**SHA-256:** `c7f46eabf4936209ec18090c36723c0fdafb338079bb8aa8af3b8c9a908acce9`
+
+### Identity decision
+
+The v2 identity fully replaces the sand-furred fennec and dark techwear costume. Canonical GOBI is now a mature realistic silver-white cyber fox with red-amber eyes, red temple modules, one large tail, and a white/silver engineered astronaut suit.
+
+Exact identity markings:
+
+- Red LED `GOBI` centered above the chest core.
+- Red LED `88` on the upper arm.
+- Red emissive geometric chest core.
+- Fine red suit piping and restrained graphite joints.
+- Compact life-support backpack and open helmet collar.
+
+### Reference roles
+
+1. Owner reference 1 established face, realistic fur, suit materials, holographic interaction, lunar environment, chest core, and action attitude.
+2. Owner reference 2 established full-body front/side proportions, backpack, tail, suit construction, and identifier placement.
+
+### Generation route
+
+- Built-in image generation.
+- Referenced-image paths used for both owner-supplied references.
+- Model/version not exposed.
+- Human image edits: none.
+- QA: face, fur, one-tail silhouette, full-body continuity, exact `GOBI`, and exact `88` verified.
+
+### Rollout consequence
+
+Every prior asset containing GOBI v1 must be regenerated. B-88 geometry remains provisionally valid pending a palette-integration decision.
+
+## Historical v1 Reference Chain
 
 1. `gobi-variant-a-cinematic-explorer-v1.png` established canonical facial structure, ears, fur, body, and Explorer outfit.
 2. `gobi-variant-b-techwear-presenter-v1.png` supplied the Academy outfit direction only.
