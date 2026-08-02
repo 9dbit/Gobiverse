@@ -4,14 +4,14 @@
 **Version:** 3.1  
 **Started:** 2026-08-02  
 **Revised:** 2026-08-02  
-**Issue:** [#2 — Roll out GOBI human entertainer v3](https://github.com/9dbit/Gobiverse/issues/2)  
+**Issue:** [#2 — Roll out GOBI human entertainer v3.1](https://github.com/9dbit/Gobiverse/issues/2)  
 **Guardrail:** [GOBI.md](../GOBI.md)
 
 ## 1. Canonical Direction
 
 GOBI is now an **original adult Asian woman, age 23**, built as the face and daily host of GOBI 88. She is a gaming entertainer, streamer, tech presenter, and playful analyst—not a fox mascot and not a replica of an existing game character.
 
-The owner-supplied image defines only the desired energy: confident, competitive, lighthearted, neon gaming culture, and direct-to-camera entertainment. It does not authorize copying a face, costume, logo, pose, interface, or franchise identity.
+The owner-supplied image is the primary appearance reference for GOBI's face, makeup, hair, adult proportions, and blue/white/pink suit direction. GOBI branding replaces the franchise name, bunny/rabbit symbol, and copied interface elements.
 
 The silver-white fox v2 and all earlier fox assets are historical only and must not be published or mixed with v3.
 
