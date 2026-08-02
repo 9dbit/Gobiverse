@@ -6,8 +6,9 @@ The operating repository for the GOBI88 adult gaming, entertainment, and game-kn
 
 1. Read [GOBI.md](GOBI.md) before creating any content or campaign.
 2. Review [Step 1 — Brand Foundation](docs/01-brand-foundation.md).
-3. Execute the [30-Day Organic Content Pilot](content/30-day-pilot.md).
-4. Use the [Content Brief Template](templates/content-brief.md) for every production item.
+3. Develop [GOBI & B-88 Visual Character Bible](docs/02-character-bible.md).
+4. Execute the [30-Day Organic Content Pilot](content/30-day-pilot.md).
+5. Use the [Content Brief Template](templates/content-brief.md) for every production item.
 
 ## Current Phase
 
