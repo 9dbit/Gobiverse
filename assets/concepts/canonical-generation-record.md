@@ -43,6 +43,38 @@ Exact identity markings:
 
 Every prior asset containing GOBI v1 must be regenerated. B-88 geometry remains provisionally valid pending a palette-integration decision.
 
+
+## v2 Expression, Pose, and B-88 Integration
+
+**Date:** 2026-08-02  
+**Generation route:** built-in image generation  
+**Model/version:** not exposed  
+**Primary reference:** `gobi-canonical-identity-lock-v2.png`
+
+### Approved assets
+
+| Asset | Dimensions | SHA-256 |
+|---|---:|---|
+| `gobi-canonical-expression-sheet-v2.png` | 1536×1024 | `d31a992bb6a84c7b4690f565adc7217b25d23a8e3fb7f7f2769835f3d6ab21b9` |
+| `gobi-canonical-pose-sheet-v2.png` | 1536×1024 | `a52dce759b49c0707338d47f4d1fa6560cf7336bb9666f6c17dca7d84de30e2e` |
+| `b88-canonical-concept-board-v2.png` | 1536×1024 | `e0bcd9af1c5b12fa489f084c297c750a020b27c7b5313dd3fe423a33ddf0fbc7` |
+
+### Expression prompt summary
+
+Create six consistent head-and-shoulders portraits: Explorer Neutral, Curious Analysis, Dry Amusement, Myth Detected, Discovery, and Responsible Warning. Preserve face, fur, red-amber eyes, temple modules, suit collar, camera, and lighting exactly.
+
+### Pose prompt summary
+
+Create six full-body views: Navigator, Explorer, Decision, Myth vs Math, Community CTA, and Responsible Warning. Preserve the canonical identity, white/silver suit, one tail, backpack, red core, and full-body framing.
+
+### Typography correction record
+
+The first pose render produced incorrect small pseudo-text on several chest plates. A direct text-correction pass remained unreliable. The approved pose sheet therefore uses clean blank emissive chest modules with no pseudo-text. Exact `GOBI` typography must be applied as a controlled layout/compositing layer in final content. The canonical identity-lock remains the exact visual reference for the `GOBI` and `88` placements.
+
+### B-88 v2 decision
+
+Preserve the dual-loop silhouette and 35 cm width. Replace the v1 sand/cyan palette with graphite structure, expedition-white/light-silver upper panels, signal-red navigation and record interfaces, and signal amber for alert state only. No cyan or blue lighting.
+
 ## Historical v1 Reference Chain
 
 1. `gobi-variant-a-cinematic-explorer-v1.png` established canonical facial structure, ears, fur, body, and Explorer outfit.
