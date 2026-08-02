@@ -24,6 +24,7 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] P001 `Enter the Gobiverse`: storyboard v4, thumbnail v4, 34-second animatic v2, subtitles, poster, contact-sheet QA, manifest, and render script.
 - [x] P002 `Slot Myth Lab 01`: RNG, RTP, volatility, myths, responsible limits; storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] P003 `RTP vs Volatility / Myth Lab 02`: comparison storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
+- [x] P004 `RNG Tidak Punya Ingatan / Myth Lab 03`: independence storyboard, thumbnail, 34-second animatic, script/caption, subtitles, QA, manifest, and render script.
 - [x] Record image-generation references, prompts, correction passes, and asset hashes.
 - [x] Keep guide tones clearly marked as temporary and unapproved final music.
 
@@ -36,14 +37,12 @@ This checklist is the operational source of truth. Completed items are productio
 - [x] Prepare timestamped audio cue sheet for P001–P003.
 - [x] Prepare three-way GOBI voice casting brief, identical test passage, provider handoff, and weighted scorecard.
 
-## In progress / next approval gates
+## Deferred — audio
 
-- [ ] Render three GOBI voice WAV samples using the approved casting pack.
-- [ ] Compare samples A/B/C using the weighted scorecard.
-- [ ] Select the final human voice actor or approved TTS voice.
-- [ ] Record/render final Indonesian voice-over for P001–P003.
-- [ ] Replace guide tone with licensed music and final sound design.
-- [ ] Export clean final masters after audio approval.
+- [ ] Render three GOBI voice WAV samples using the approved casting pack. Deferred by owner for faster rollout.
+- [ ] Compare samples A/B/C and select the final voice. Deferred.
+- [ ] Record/render final Indonesian voice-over for P001–P004. Deferred.
+- [ ] Replace guide tone with licensed music and final sound design. Deferred.
 
 ## Next production — platform package
 
@@ -56,7 +55,7 @@ This checklist is the operational source of truth. Completed items are productio
 
 ## Next production — knowledge series
 
-- [ ] P004 `RNG: Kenapa Setiap Hasil Independen?`
+- [x] P004 `RNG: Kenapa Setiap Hasil Independen?`
 - [ ] P005 `Near Miss Bukan Sinyal`.
 - [ ] P006 `House Edge vs RTP`.
 - [ ] P007 `Bonus Feature: Cara Kerja, Bukan Janji`.
