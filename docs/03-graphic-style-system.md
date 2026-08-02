@@ -1,7 +1,7 @@
 # GOBI88 Organic Social Graphic Style System
 
-**Status:** Visual-direction candidate v1; owner approval pending  
-**Version:** 1.0  
+**Status:** Owner-approved production system  
+**Version:** 1.1  
 **Created:** 2026-08-02  
 **Canonical character:** [GOBI human v3.2](../assets/concepts/gobi-human-identity-lock-v3.2.png)  
 **Official logo:** [GOBI88 wordmark](../assets/brand/gobi88-logo-official.webp)  
@@ -254,9 +254,12 @@ Owner decisions received:
 - [x] No pink.
 - [x] Keep canonical GOBI human v3.2.
 
-Pending:
+Completed:
 
-- [ ] Approve the four graphic modes.
-- [ ] Approve style board v1.
-- [ ] Build deterministic 9:16, 4:5, and 1:1 templates.
-- [ ] Apply the approved system to P001.
+- [x] Four graphic modes approved.
+- [x] Style Board v1 approved.
+- [x] Deterministic 9:16, 4:5, and 1:1 SVG masters shipped.
+- [x] GOBI–B88 human scale and interaction board v4 approved.
+- [x] Approved system applied to human-character P001 v3.
+
+See [Production Rollout v1](04-production-rollout-v1.md).
