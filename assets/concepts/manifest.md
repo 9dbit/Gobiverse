@@ -36,7 +36,7 @@ The supplied reference images define the face, fur, suit, tail, backpack, identi
 
 - GOBI v1 identity, expression, pose, scale, Academy, environment-character, storyboard, and thumbnail renders are historical only.
 - B-88 v2 dual-loop geometry, 35 cm scale, and white/graphite/red expedition palette are approved.
-- P001 must be regenerated before publishing.
+- P001 visual pre-production v2 is regenerated and approved; final animatic/edit remains pending before publishing.
 - No v1 and v2 GOBI assets may appear in the same campaign.
 
 ## Historical v1 Asset Registry
