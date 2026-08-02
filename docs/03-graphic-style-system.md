@@ -1,11 +1,12 @@
 # GOBI88 Organic Social Graphic Style System
 
-**Status:** Owner-approved production system  
-**Version:** 1.1  
+**Status:** Approved structural foundation; palette/material treatment superseded by Dark Neon Tech v2  
+**Version:** 1.2  
 **Created:** 2026-08-02  
 **Canonical character:** [GOBI human v3.2](../assets/concepts/gobi-human-identity-lock-v3.2.png)  
 **Official logo:** [GOBI88 wordmark](../assets/brand/gobi88-logo-official.webp)  
-**Concept board:** [Graphic Style Board v1](../assets/concepts/gobi88-social-graphic-style-board-v1.png)
+**Concept board:** [Graphic Style Board v1](../assets/concepts/gobi88-social-graphic-style-board-v1.png)  
+**Active visual override:** [Dark Neon Tech System v2](05-dark-neon-tech-system-v2.md)
 
 ## 1. Design Idea
 
