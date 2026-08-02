@@ -2,11 +2,48 @@
 
 **Batch:** GOBI & B-88 Canonical Package v1  
 **Date:** 2026-08-02  
-**Status:** human v3.1 active candidate; human v3 and fox revisions historical  
+**Status:** human v3.2 official-color candidate active; earlier human and fox revisions historical  
 **Parent manifest:** [manifest.md](manifest.md)
 
 
-## Revision v3.1 — Face, Makeup, Hair, and Blue Suit Lock
+## Revision v3.2 — Official Navy / White / Red Brand Lock
+
+**Date:** 2026-08-02  
+**Sources:** human identity v3.1 plus owner-supplied official GOBI88 logo  
+**Identity asset:** `gobi-human-identity-lock-v3.2.png`  
+**Identity dimensions:** 1672×941  
+**Identity size:** 2,189,985 bytes  
+**Identity SHA-256:** `70bcc1b4475ee996bc273c5ee01425c922b04566e75ee102ac1308f8f1ea7b43`  
+**Logo asset:** `assets/brand/gobi88-logo-official.webp`  
+**Logo dimensions:** 400×107  
+**Logo size:** 12,816 bytes  
+**Logo SHA-256:** `b8c37e331178848a3ef7ac7b1ce25819da332738bee7d1f3d8a29a7e6966b19a`  
+**Status:** active owner-directed candidate; approval pending
+
+### Locked revision
+
+- Official palette is deep navy, dominant white, and signal red.
+- All pink, magenta, purple, cyan, turquoise, and bright royal blue are prohibited.
+- Cheek marks are signal red.
+- Suit is dominant white with navy structure and red technical accents.
+- Chest branding reads `GOBI88`: white `GOBI`, red `88`, navy plate.
+- Exact red `88` remains on the upper arm.
+- Adult face, hair, makeup, proportions, and four-view continuity are preserved from v3.1.
+
+### Generation route
+
+- Built-in image generation.
+- Model/version not exposed.
+- Human image edits: none.
+- Remaining gate: owner approval.
+
+### Full prompt
+
+```text
+Preserve GOBI human v3.1's exact adult face, age 23, chestnut-brown hair, side-swept bangs, eye makeup, proportions, poses, four-view sheet layout, headset construction, and fitted high-neck suit construction. Use the official supplied GOBI88 wordmark as the sole brand-color source: deep navy, dominant pearl white, and signal red. Remove every pink, hot-pink, magenta, purple, lavender, cyan, turquoise, and bright royal-blue element. Change cheek marks to red. Recolor the suit to 50–55% white, 30–35% navy, and 10–15% red with minor graphite joints. Use an exact GOBI88 chest plate with white GOBI and red 88 on navy, plus exact red 88 on the arm. Present one identity portrait, front, side, and three-quarter host pose with a navy analytics panel, white data, and red highlights. No bunny symbol, franchise UI, minor coding, weapons, sexualized styling, casino imagery, anatomy errors, or pseudo-text.
+```
+
+## Historical Revision v3.1 — Face, Makeup, Hair, and Blue Suit Lock
 
 **Date:** 2026-08-02  
 **Source:** owner-supplied adult gaming-entertainer close-up plus human v3 identity board  

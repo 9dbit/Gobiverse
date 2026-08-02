@@ -1,30 +1,32 @@
 # GOBI88 Visual Concept Manifest
 
-**Batch:** Character System v3.1 appearance revision  
+**Batch:** Character System v3.2 official brand-color revision  
 **Created:** 2026-08-02  
 **Character Bible:** [docs/02-character-bible.md](../../docs/02-character-bible.md)  
 **Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
 **Generation route:** Built-in image generation  
 **Model/version:** Not exposed by the built-in generation route  
-**Input references:** Current v3.1 uses the owner-supplied adult Asian gaming-entertainer close-up for face, makeup, hair, and blue/white/pink costume direction, plus v3 for board layout; franchise names, bunny symbol, and UI are excluded  
+**Input references:** Human v3.1 supplies face/hair/layout; owner-supplied official GOBI88 logo supplies the exclusive navy/white/red color system  
 **Human image edits:** None  
-**Canonical status:** Human v3.1 is the active owner-directed candidate; human v3 and fox revisions are historical; B-88 v2 retained provisionally
+**Canonical status:** Human v3.2 is the active owner-directed candidate; v3.1 and earlier revisions are historical; B-88 requires no-pink palette confirmation
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
 
-## Active Owner-Directed Revision v3.1 — Human Gaming Entertainer
+## Active Owner-Directed Revision v3.2 — Official GOBI88 Palette
 
 **Direction received:** 2026-08-02  
-**Status:** Revised identity-lock v3.1 created; owner approval pending  
-**Source role:** owner-supplied image used for mood/genre only, not copied identity or franchise design
+**Status:** Official-color identity-lock v3.2 created; owner approval pending  
+**Source role:** official GOBI88 logo controls brand colors; v3.1 controls adult face, hair, proportions, and four-view layout
 
 | Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
 |---|---|---:|---:|---|---|
-| GOBI-HUMAN-IDENTITY-V3.1 | `gobi-human-identity-lock-v3.1.png` | 1672×941 | 2,134,173 bytes | `09ed851e32f5904d1f371c33b57817e4e872c41ca1bfbb783778eb148afffe1d` | Active owner-directed candidate; approval pending |
+| GOBI-HUMAN-IDENTITY-V3.2 | `gobi-human-identity-lock-v3.2.png` | 1672×941 | 2,189,985 bytes | `70bcc1b4475ee996bc273c5ee01425c922b04566e75ee102ac1308f8f1ea7b43` | Active official-color candidate; approval pending |
+| GOBI88-LOGO-OFFICIAL | `../brand/gobi88-logo-official.webp` | 400×107 | 12,816 bytes | `b8c37e331178848a3ef7ac7b1ce25819da332738bee7d1f3d8a29a7e6966b19a` | Official brand source |
+| GOBI-HUMAN-IDENTITY-V3.1 | `gobi-human-identity-lock-v3.1.png` | 1672×941 | 2,134,173 bytes | `09ed851e32f5904d1f371c33b57817e4e872c41ca1bfbb783778eb148afffe1d` | Historical candidate; superseded by v3.2 |
 | GOBI-HUMAN-IDENTITY-V3 | `gobi-human-identity-lock-v3.png` | 1672×941 | 2,033,849 bytes | `b95b7ab4c6e3b4a9959ec243a8cc10db53265a57610bdba455e59c029f5358a5` | Historical candidate; superseded by v3.1 |
 
-Canonical candidate: an original adult Asian woman, age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Signature styling is long chestnut-brown hair with side-swept bangs, hot-pink cheek marks, a royal-blue/white/graphite fitted broadcast suit, hot-pink technical accents, professional headset, exact `GOBI` chest plate, and `88` upper-arm identifier.
+Canonical candidate: an original adult Asian woman, age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Signature styling is long chestnut-brown hair with side-swept bangs, red cheek marks, a dominant-white fitted broadcast suit with deep-navy structure and signal-red technical accents, navy headset, exact `GOBI88` chest plate, and red `88` upper-arm identifier. Pink, magenta, purple, cyan, turquoise, and bright royal blue are prohibited.
 
 ### Immediate production consequence
 
