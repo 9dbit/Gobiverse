@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <title>GOBI88 4x5 Type Strike Master</title>
+  <defs><pattern id="dots45" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#071B2E" opacity=".16"/></pattern></defs>
+  <g id="BACKGROUND"><rect width="1080" height="1350" fill="#F2F4F5"/><rect x="0" y="0" width="22" height="1350" fill="#D92720"/><rect width="1080" height="1350" fill="url(#dots45)" opacity=".18"/></g>
+  <g id="HEADLINE" font-family="Arial Narrow,Arial,sans-serif" font-weight="900" fill="#071B2E">
+    <text x="60" y="225" font-size="206" letter-spacing="-9">MYTH</text>
+    <text x="60" y="410" font-size="206" letter-spacing="-9">VS</text>
+    <text x="60" y="595" font-size="206" letter-spacing="-9">MATH</text>
+    <rect x="62" y="630" width="310" height="15" fill="#D92720"/>
+    <text x="62" y="700" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="4">TYPE STRIKE / 4:5</text>
+  </g>
+  <g id="SUBJECT">
+    <path d="M490 90H1025V1170H350V870H490Z" fill="#071B2E"/>
+    <path d="M530 130H985V1130H390V900H530Z" fill="#E9EDF0" stroke="#D92720" stroke-width="8"/>
+    <circle cx="710" cy="660" r="240" fill="none" stroke="#D92720" stroke-width="8" opacity=".7"/>
+    <text x="710" y="650" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="800" fill="#071B2E">SUBJECT IMAGE</text>
+    <text x="710" y="696" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#D92720">OVERLAP TYPE</text>
+  </g>
+  <g id="UI" font-family="Arial,sans-serif">
+    <rect x="56" y="845" width="290" height="128" rx="18" fill="#071B2E"/>
+    <circle cx="92" cy="885" r="9" fill="#D92720"/><text x="118" y="894" font-size="20" font-weight="700" fill="#F2F4F5">ONE FACT ONLY</text>
+    <rect x="92" y="925" width="190" height="7" fill="#F2F4F5" opacity=".7"/>
+  </g>
+  <g id="LOGO"><image x="750" y="1217" width="255" height="86" preserveAspectRatio="xMidYMid meet" xlink:href="../../assets/brand/gobi88-logo-official.png"/><text x="60" y="1270" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#071B2E">CTA / SERIES LABEL</text></g>
+  <g id="GUIDES" fill="none" stroke="#D92720" stroke-width="2" stroke-dasharray="12 12" opacity=".45"><rect x="76" y="76" width="928" height="1198" rx="8"/></g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <title>GOBI88 1x1 Signal Cinema Master</title>
+  <defs>
+    <radialGradient id="glow11" cx="70%" cy="45%" r="58%"><stop stop-color="#D92720" stop-opacity=".24"/><stop offset=".55" stop-color="#071B2E" stop-opacity=".2"/><stop offset="1" stop-color="#030A12" stop-opacity="0"/></radialGradient>
+    <pattern id="scan11" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 7H8" stroke="#F2F4F5" stroke-opacity=".05"/></pattern>
+  </defs>
+  <g id="BACKGROUND"><rect width="1080" height="1080" fill="#030A12"/><rect width="1080" height="1080" fill="url(#glow11)"/><rect width="1080" height="1080" fill="url(#scan11)"/></g>
+  <g id="SUBJECT">
+    <path d="M420 115H1010V1010H330V840H420Z" fill="#071B2E" stroke="#F2F4F5" stroke-opacity=".25" stroke-width="3"/>
+    <circle cx="705" cy="560" r="265" fill="none" stroke="#D92720" stroke-width="8" opacity=".75"/>
+    <text x="705" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#F2F4F5">CINEMATIC SUBJECT</text>
+    <text x="705" y="598" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#D92720">GOBI + B-88</text>
+  </g>
+  <g id="HEADLINE" font-family="Arial Narrow,Arial,sans-serif" font-weight="900">
+    <text x="58" y="178" font-size="126" letter-spacing="-4" fill="#F2F4F5">PLAY</text>
+    <text x="58" y="292" font-size="126" letter-spacing="-4" fill="#F2F4F5">SMARTER.</text>
+    <rect x="60" y="328" width="280" height="14" fill="#D92720"/>
+    <text x="60" y="392" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#F2F4F5">SIGNAL CINEMA / 1:1</text>
+  </g>
+  <g id="UI" font-family="Arial,sans-serif">
+    <rect x="58" y="528" width="280" height="120" rx="18" fill="#071B2E" stroke="#F2F4F5" stroke-opacity=".25"/>
+    <circle cx="94" cy="567" r="9" fill="#D92720"/><text x="120" y="576" font-size="20" font-weight="700" fill="#F2F4F5">DATA CARD 01</text>
+    <path d="M94 610H290" stroke="#D92720" stroke-width="6"/>
+    <rect x="720" y="780" width="290" height="120" rx="18" fill="#F2F4F5" fill-opacity=".94"/>
+    <circle cx="756" cy="820" r="9" fill="#D92720"/><text x="782" y="829" font-size="20" font-weight="700" fill="#071B2E">DATA CARD 02</text>
+    <path d="M756 862H952" stroke="#071B2E" stroke-width="6"/>
+  </g>
+  <g id="LOGO"><image x="58" y="942" width="235" height="79" preserveAspectRatio="xMidYMid meet" xlink:href="../../assets/brand/gobi88-logo-official.png"/><text x="806" y="995" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#F2F4F5">CTA / 21+</text></g>
+  <g id="GUIDES" fill="none" stroke="#D92720" stroke-width="2" stroke-dasharray="12 12" opacity=".45"><rect x="86" y="86" width="908" height="908" rx="8"/></g>
+</svg>

@@ -1,65 +1,54 @@
-# GOBI-P001 — Brand Reveal Asset Manifest
+# GOBI-P001 — Human Brand Reveal Asset Manifest
 
-Status: **HOLD — fox v2 visuals superseded; regenerate after human v3 approval**  
-Format: **9:16 vertical**  
-Target runtime: **12–15 seconds**  
-Canonical system: **Pending GOBI human v3 / B-88 v2**
+**Status:** Production-ready visual baseline v3  
+**Format:** 9:16 vertical  
+**Target runtime:** 30–35 seconds  
+**Graphic modes:** Breakout Frame + Signal Cinema
 
-## Publishing Block
+## Approved assets
 
-Do not animate, edit, schedule, or publish the current storyboard or thumbnail. They contain the superseded fox v2 identity. Keep the files for audit history only.
+| Asset | Dimensions | SHA-256 | Status |
+|---|---:|---|---|
+| `gobi-p001-storyboard-v3.png` | 941×1672 | `7a177f6b3a2cfd46e4bcf22a844a129c5a8cd7d0c41faecb2880d03bba6404fe` | Approved production storyboard |
+| `gobi-p001-thumbnail-v3.png` | 941×1672 | `91b71053eceb840ae8aba56c58a77f419a3f868c79eefb8f15ca5dc85eb74c81` | Approved organic-test thumbnail |
 
-Unblock criteria:
-
-- Human identity-lock v3 approved.
-- Expression and presenter-pose continuity passed.
-- Human/B-88 scale and interaction approved.
-- Storyboard and thumbnail regenerated with the approved human identity.
-- 9:16, typography, adult-audience, and responsible-play QA passed.
-
-## Historical fox v2 assets
-
-| Asset | Dimensions | Size | SHA-256 | Status |
-|---|---:|---:|---|---|
-| `gobi-p001-storyboard-v2.png` | 941×1672 | 2,463,075 bytes | `8f695dae2b5b2347e3cf39e3458cf83758b69a81bccd8fd717ba975a2ee0577b` | Historical; do not animate or publish |
-| `gobi-p001-thumbnail-v2.png` | 941×1672 | 2,620,686 bytes | `9a25b821f4f2f8a6867bb212181507f065211ab89727036fc66d6bcaeb38a6b2` | Historical; do not publish |
+The v1 and v2 fox assets are historical only and must not be published.
 
 ## Storyboard sequence
 
-1. Signal-red portal line awakens in deep space.
-2. Wide Cosmic Frontier world reveal.
-3. GOBI v2 and correctly scaled B-88 v2 enter through the portal.
-4. Academy, orbital city/arena, and alien temple montage.
-5. GOBI turns toward camera; B-88 remains at canonical scale.
-6. Final hero composition with clean end-card space.
+1. Thin red portal line wakes up in a deep-navy field.
+2. Clean white/navy/red GOBIVERSE operations city is revealed.
+3. Human GOBI steps through a device/portal frame; B-88 follows at shoulder height.
+4. Academy, Arena, and Lab appear as a rapid three-panel montage.
+5. GOBI turns to camera while B-88 projects a compact route map.
+6. GOBI and B-88 stand at the portal with controlled end-card space.
 
-## Thumbnail copy
+## Controlled copy
 
-`ENTER THE GOBIVERSE`
+- Thumbnail: `ENTER THE GOBIVERSE`
+- Sequence: `PLAY.` → `LEARN.` → `EXPLORE.`
+- CTA: `FOLLOW DAN PILIH MISI PERTAMA.`
 
-## Typography rule
+## Identity and scale locks
 
-Small character nameplates remain blank in generative frames. Add exact `GOBI` as a controlled typography layer during compositing. Never publish pseudo-text. The thumbnail headline is already correctly rendered.
+- Canonical GOBI human v3.2 only.
+- B-88 total width: 35 cm; visual size approximately one-fifth of GOBI's height.
+- Default position: GOBI's right shoulder, between eye and chest height.
+- B-88 remains behind or beside GOBI and never becomes the primary subject.
+- Dominant pearl white, deep navy, and signal red only.
 
 ## QA record
 
-- Canonical GOBI v2 face, fur, suit, tail, and red/white/graphite palette retained.
-- B-88 v2 geometry and scale corrected across all storyboard frames.
-- Headline spelling verified.
-- Six storyboard beats and mobile-readable composition verified.
-- No casino imagery, currency, win claim, minors, Roblox styling, weapon, or commercial CTA.
-- Run a final platform UI overlay check on exported edit before publishing.
+- Canonical adult human face, hair, cheek marks, headset, suit, and `88` retained.
+- B-88 scale and interaction match the approved v4 interaction board.
+- Headline spelling verified exactly.
+- No pink or other prohibited campaign accent.
+- No casino apparatus, currency, win claim, minor targeting, franchise reference, or commercial deposit CTA.
+- Final subtitles, logo, and CTA must remain controlled compositing layers.
 
-## Historical v1 assets
+## Generation route
 
-| Asset | Status |
-|---|---|
-| `gobi-p001-storyboard-v1.png` | Superseded; do not publish |
-| `gobi-p001-thumbnail-v1.png` | Superseded; do not publish |
+- Built-in image generation; model/version not exposed.
+- References: canonical GOBI v3.2, B-88 scale/interaction board v4, Graphic Style Board v1, and official logo.
+- The complete prompt set is recorded in `assets/concepts/generation-record-2026-08-02-rollout-v1.md`.
 
-## Production handoff
-
-- Use the storyboard as an animatic guide, not as final continuous footage.
-- Apply exact `GOBI` typography, final wordmark, subtitles, sound design, and legal/responsible-play footer during editing.
-- Follow the voiceover, caption, and CTA in [`../../week-01-production-pack.md`](../../week-01-production-pack.md).
-- Commercial publishing remains subject to the market/compliance decision tracked in Issue #4.

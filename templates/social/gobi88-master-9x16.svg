@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <title>GOBI88 9x16 Breakout Frame Master</title>
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F7F8F8"/><stop offset="1" stop-color="#E9EDF0"/></linearGradient>
+    <filter id="shadow9"><feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#071B2E" flood-opacity=".18"/></filter>
+    <pattern id="dots9" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#071B2E" opacity=".16"/></pattern>
+  </defs>
+  <g id="BACKGROUND">
+    <rect width="1080" height="1920" fill="url(#bg9)"/>
+    <rect x="0" y="0" width="1080" height="12" fill="#D92720"/>
+    <rect x="0" y="0" width="1080" height="1920" fill="url(#dots9)" opacity=".2"/>
+  </g>
+  <g id="HEADLINE" font-family="Arial Narrow,Arial,sans-serif" font-weight="900" fill="#071B2E">
+    <text x="72" y="210" font-size="190" letter-spacing="-8">PRIMARY</text>
+    <text x="72" y="380" font-size="190" letter-spacing="-8">HEADLINE</text>
+    <rect x="72" y="430" width="360" height="16" fill="#D92720"/>
+    <text x="74" y="500" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">BREAKOUT FRAME / 9:16</text>
+  </g>
+  <g id="SUBJECT" filter="url(#shadow9)">
+    <rect x="138" y="620" width="804" height="1050" rx="78" fill="#071B2E"/>
+    <rect x="178" y="660" width="724" height="970" rx="54" fill="#F2F4F5" stroke="#D92720" stroke-width="10"/>
+    <circle cx="540" cy="1130" r="300" fill="none" stroke="#D92720" stroke-width="12" opacity=".75"/>
+    <circle cx="540" cy="1130" r="230" fill="none" stroke="#071B2E" stroke-width="3" opacity=".25"/>
+    <text x="540" y="1108" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#071B2E">SUBJECT IMAGE</text>
+    <text x="540" y="1158" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#D92720">GOBI + B-88 / MASK HERE</text>
+  </g>
+  <g id="UI" font-family="Arial,sans-serif">
+    <rect x="58" y="788" width="250" height="118" rx="20" fill="#071B2E" opacity=".94"/>
+    <circle cx="92" cy="826" r="9" fill="#D92720"/><text x="116" y="835" font-size="20" font-weight="700" fill="#F2F4F5">DATA CARD 01</text>
+    <rect x="116" y="858" width="140" height="6" fill="#F2F4F5" opacity=".75"/>
+    <rect x="772" y="1370" width="250" height="118" rx="20" fill="#F2F4F5" stroke="#071B2E" stroke-width="3"/>
+    <circle cx="806" cy="1408" r="9" fill="#D92720"/><text x="830" y="1417" font-size="20" font-weight="700" fill="#071B2E">DATA CARD 02</text>
+    <rect x="830" y="1440" width="140" height="6" fill="#D92720"/>
+  </g>
+  <g id="LOGO">
+    <image x="735" y="1738" width="270" height="91" preserveAspectRatio="xMidYMid meet" xlink:href="../../assets/brand/gobi88-logo-official.png"/>
+    <text x="74" y="1808" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#071B2E">CTA / FOOTER</text>
+  </g>
+  <g id="GUIDES" fill="none" stroke="#D92720" stroke-width="2" stroke-dasharray="12 12" opacity=".45">
+    <rect x="65" y="230" width="950" height="1460" rx="8"/>
+    <line x1="0" y1="230" x2="1080" y2="230"/><line x1="0" y1="1690" x2="1080" y2="1690"/>
+  </g>
+</svg>
