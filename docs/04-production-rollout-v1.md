@@ -68,6 +68,16 @@ P002 opens the `Myth Lab` recurring series. It explains probability concepts wit
 
 P003 explains that RTP and volatility describe different properties. It avoids session promises, recommendations, fabricated percentages, and outcome prediction.
 
+## Voice and sonic pre-production
+
+- [Voice & Sonic Bible v0.1](07-voice-sonic-bible-v0.1.md)
+- [P001 final voice-over](../content/week-01/p001/voiceover-final-v1.md)
+- [P002 final voice-over](../content/week-01/p002/voiceover-final-v1.md)
+- [P003 final voice-over](../content/week-01/p003/voiceover-final-v1.md)
+- [Audio cue sheet P001–P003](../audio/cue-sheet-p001-p003-v1.md)
+
+GOBI is locked as an adult Indonesian tech-entertainment host. B88 uses short analytical inserts. Final casting/TTS selection, voice generation, licensed music, and final mixing remain pending.
+
 ## Next production queue
 
 1. [x] Convert P001 storyboard frames into a 34-second guide animatic.
@@ -77,5 +87,7 @@ P003 explains that RTP and volatility describe different properties. It avoids s
 5. [ ] Replace guide audio with approved GOBI voice, music, and final sound design.
 6. [ ] Export final P001 and P002 platform variants after audio approval.
 7. [x] Produce P003 `RTP vs Volatility` as a focused comparison episode.
-8. [ ] Approve GOBI voice identity and sonic system.
-9. [ ] Produce P004 `RNG: Kenapa Setiap Hasil Independen?`.
+8. [x] Approve GOBI voice identity and sonic system v0.1.
+9. [ ] Generate three GOBI voice samples and select final casting/TTS voice.
+10. [ ] Record/render P001–P003 final voice tracks and sound design.
+11. [ ] Produce P004 `RNG: Kenapa Setiap Hasil Independen?`.
