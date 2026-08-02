@@ -6,7 +6,7 @@
 **Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
 **Generation route:** Built-in image generation  
 **Model/version:** Not exposed by the built-in generation route  
-**Input references:** Owner-supplied silver-white GOBI astronaut action image and front/side model sheet  
+**Input references:** Current v3 uses one owner-supplied adult Asian gaming-entertainer image for mood/genre only; earlier fox references are historical  
 **Human image edits:** None  
 **Canonical status:** Human v3 is the active owner-directed candidate; fox v2 and v1 are historical; B-88 v2 retained provisionally
 
