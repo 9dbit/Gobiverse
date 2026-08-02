@@ -1,29 +1,30 @@
 # GOBI88 Visual Concept Manifest
 
-**Batch:** Character System v3 human pivot  
+**Batch:** Character System v3.1 appearance revision  
 **Created:** 2026-08-02  
 **Character Bible:** [docs/02-character-bible.md](../../docs/02-character-bible.md)  
 **Issue:** [#2](https://github.com/9dbit/Gobiverse/issues/2)  
 **Generation route:** Built-in image generation  
 **Model/version:** Not exposed by the built-in generation route  
-**Input references:** Current v3 uses one owner-supplied adult Asian gaming-entertainer image for mood/genre only; earlier fox references are historical  
+**Input references:** Current v3.1 uses the owner-supplied adult Asian gaming-entertainer close-up for face, makeup, hair, and blue/white/pink costume direction, plus v3 for board layout; franchise names, bunny symbol, and UI are excluded  
 **Human image edits:** None  
-**Canonical status:** Human v3 is the active owner-directed candidate; fox v2 and v1 are historical; B-88 v2 retained provisionally
+**Canonical status:** Human v3.1 is the active owner-directed candidate; human v3 and fox revisions are historical; B-88 v2 retained provisionally
 
 The PNG binaries are delivered as project assets with the filenames and hashes below. A hash mismatch means the binary is not the reviewed candidate.
 
 
-## Active Owner-Directed Revision v3 — Human Gaming Entertainer
+## Active Owner-Directed Revision v3.1 — Human Gaming Entertainer
 
 **Direction received:** 2026-08-02  
-**Status:** Identity-lock candidate created; owner approval pending  
+**Status:** Revised identity-lock v3.1 created; owner approval pending  
 **Source role:** owner-supplied image used for mood/genre only, not copied identity or franchise design
 
 | Asset ID | Filename | Dimensions | Size | SHA-256 | Status |
 |---|---|---:|---:|---|---|
-| GOBI-HUMAN-IDENTITY-V3 | `gobi-human-identity-lock-v3.png` | 1672×941 | 2,033,849 bytes | `b95b7ab4c6e3b4a9959ec243a8cc10db53265a57610bdba455e59c029f5358a5` | Owner-directed candidate; approval pending |
+| GOBI-HUMAN-IDENTITY-V3.1 | `gobi-human-identity-lock-v3.1.png` | 1672×941 | 2,134,173 bytes | `09ed851e32f5904d1f371c33b57817e4e872c41ca1bfbb783778eb148afffe1d` | Active owner-directed candidate; approval pending |
+| GOBI-HUMAN-IDENTITY-V3 | `gobi-human-identity-lock-v3.png` | 1672×941 | 2,033,849 bytes | `b95b7ab4c6e3b4a9959ec243a8cc10db53265a57610bdba455e59c029f5358a5` | Historical candidate; superseded by v3.1 |
 
-Canonical candidate: an original adult Asian woman, age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Signature styling is expedition white, deep graphite, and signal red with a cropped broadcast jacket, professional headset, exact `GOBI` chest plate, and `88` upper-arm identifier.
+Canonical candidate: an original adult Asian woman, age 23, positioned as gaming entertainer, streamer, tech presenter, and playful analyst. Signature styling is long chestnut-brown hair with side-swept bangs, hot-pink cheek marks, a royal-blue/white/graphite fitted broadcast suit, hot-pink technical accents, professional headset, exact `GOBI` chest plate, and `88` upper-arm identifier.
 
 ### Immediate production consequence
 

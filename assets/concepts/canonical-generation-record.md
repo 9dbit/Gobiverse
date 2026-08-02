@@ -2,11 +2,44 @@
 
 **Batch:** GOBI & B-88 Canonical Package v1  
 **Date:** 2026-08-02  
-**Status:** human v3 active candidate; fox v2/v1 historical  
+**Status:** human v3.1 active candidate; human v3 and fox revisions historical  
 **Parent manifest:** [manifest.md](manifest.md)
 
 
-## Revision v3 — Human Gaming Entertainer
+## Revision v3.1 — Face, Makeup, Hair, and Blue Suit Lock
+
+**Date:** 2026-08-02  
+**Source:** owner-supplied adult gaming-entertainer close-up plus human v3 identity board  
+**Asset:** `gobi-human-identity-lock-v3.1.png`  
+**Dimensions:** 1672×941  
+**Size:** 2,134,173 bytes  
+**SHA-256:** `09ed851e32f5904d1f371c33b57817e4e872c41ca1bfbb783778eb148afffe1d`  
+**Status:** active owner-directed candidate; approval pending
+
+### Locked revision
+
+- Soft oval adult Asian face, large almond dark-brown eyes, refined nose, and softly full pink lips.
+- Korean-inspired eye makeup and three hot-pink triangular marks on each cheek.
+- Long straight chestnut-brown hair with long side-swept bangs.
+- Royal-blue fitted high-neck gaming broadcast suit with white, graphite, and hot-pink panels.
+- Exact `GOBI` chest plate and exact `88` arm marking.
+- Bunny/rabbit emblem, D.Va name, Overwatch identity, and copied UI removed.
+- Four-view identity continuity verified.
+
+### Generation route
+
+- Built-in image generation.
+- Model/version not exposed.
+- Human image edits: none.
+- Remaining gate: owner approval.
+
+### Full prompt
+
+```text
+Use the owner-supplied adult Asian gaming-entertainer image as the primary appearance reference and match the adult facial structure, soft oval face, large almond dark-brown eyes, slim refined nose, softly full pink lips, long chestnut-brown hair with side-swept bangs, Korean-inspired makeup, and three hot-pink triangular marks on each cheek closely. Use the previous GOBI v3 board only for the professional 16:9 four-view layout and brand continuity. Create a clearly adult 23-year-old original GOBI gaming entertainer in a sleek royal-blue fitted high-neck suit with white shoulder/outer-leg panels, deep-graphite collar/waist structure, hot-pink piping, professional headset, exact GOBI chest plate, and exact 88 arm identifier. Replace all bunny/rabbit and D.Va/Overwatch identity. Show identity portrait, front, side, and three-quarter host pose. Premium semi-photorealistic cinematic 3D. No minor coding, school styling, bunny symbol, franchise logo, copied UI, weapons, lingerie, casino imagery, anatomy errors, or pseudo-text.
+```
+
+## Historical Revision v3 — Human Gaming Entertainer
 
 **Date:** 2026-08-02  
 **Source:** one owner-supplied visual reference  

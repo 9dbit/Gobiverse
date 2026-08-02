@@ -1,7 +1,7 @@
 # GOBI & B-88 Visual Character Bible
 
-**Status:** Human v3 owner-directed pivot; identity-lock candidate pending final approval  
-**Version:** 3.0  
+**Status:** Human v3.1 owner-directed visual revision; identity-lock candidate pending final approval  
+**Version:** 3.1  
 **Started:** 2026-08-02  
 **Revised:** 2026-08-02  
 **Issue:** [#2 — Roll out GOBI human entertainer v3](https://github.com/9dbit/Gobiverse/issues/2)  
@@ -26,19 +26,23 @@ The silver-white fox v2 and all earlier fox assets are historical only and must 
 - **Narrative flaw:** overconfidence can make her jump to conclusions; evidence and B-88 correct her.
 - **Core promise:** turn complexity into fun, practical insight.
 
-## 3. Face and Hair Lock
+## 3. Face, Hair, and Makeup Lock
 
-The approved identity must remain the same person across every image and video:
+The approved identity must remain the same adult woman across every image and video:
 
-- Adult East/Southeast Asian facial proportions.
-- Warm medium-light skin.
-- Almond-shaped dark-brown eyes and expressive brows.
-- Natural, polished features; premium but relatable.
-- Long layered dark-espresso hair with a subtle deep-crimson inner streak.
-- Confident neutral smile as the baseline.
-- No childlike face, school styling, exaggerated anime anatomy, or resemblance to a known celebrity or game character.
+- Clearly adult Asian facial proportions, age 23.
+- Soft oval face with a refined jawline.
+- Fair-to-medium smooth skin with natural texture.
+- Large almond-shaped dark-brown eyes.
+- Fine black eyeliner, long lashes, softly defined brows, and polished Korean-inspired eye makeup.
+- Slim refined nose and softly full pink lips.
+- Three vivid hot-pink triangular gaming marks on each cheek.
+- Long straight chestnut-brown hair with subtle warm-red undertones.
+- Long side-swept bangs partially covering the forehead.
+- Confident, lighthearted expression with energetic eye contact.
+- No childlike face, school styling, celebrity likeness, bunny emblem, or recognizable franchise identity.
 
-The face shown in `gobi-human-identity-lock-v3.png` is the current identity candidate. It becomes canonical only after owner approval.
+The face, hair, and makeup shown in `gobi-human-identity-lock-v3.1.png` are the current primary identity candidate. The previous v3 face is historical.
 
 ## 4. Body and Silhouette
 
@@ -46,29 +50,31 @@ The face shown in `gobi-human-identity-lock-v3.png` is the current identity cand
 - Approximately 165–170 cm unless later production establishes a precise height.
 - Relaxed presenter stance; energetic without superhero exaggeration.
 - Hands must support hosting gestures, touchscreens, handheld devices, and B-88 interaction.
-- Mobile silhouette anchors: long dark hair with crimson streak, white cropped jacket, graphite high-neck top and trousers, red interface accents, headset.
+- Mobile silhouette anchors: chestnut-brown hair with long side-swept bangs, pink cheek marks, blue/white/graphite fitted suit, hot-pink interface accents, and headset.
 
 ## 5. Signature Outfit
 
-Default outfit: **GOBI Broadcast Rig v3**
+Default outfit: **GOBI Gaming Broadcast Suit v3.1**
 
-- Expedition-white cropped structured tech jacket.
-- Graphite high-neck performance top.
-- Tailored graphite utility trousers with white technical panels.
-- Restrained deep-crimson piping and red holographic details.
-- Compact professional broadcast headset.
+- Sleek fitted high-neck futuristic gaming-presenter suit.
+- Luminous royal-blue torso, sleeves, and primary leg panels.
+- White shoulders, upper arms, hips, and outer-leg panels.
+- Deep-graphite collar, upper chest, waist, and side-body structure.
+- Restrained hot-pink piping and geometric technical accents.
+- Small brushed-metal fasteners and premium engineered seams.
+- White/graphite/hot-pink professional broadcast headset.
 - Fingerless presentation gloves.
-- Wrist-mounted translucent red interface.
-- Exact `GOBI` chest nameplate.
+- Exact illuminated `GOBI` chest plate.
 - Exact `88` upper-arm identifier.
-- Athletic shoes or practical tech boots in white, graphite, and red.
+- White/graphite/blue athletic tech shoes.
 
 Rules:
 
-- Premium gaming-host styling, practical and non-sexualized.
-- No blue/pink franchise bodysuit, bunny/rabbit insignia, school uniform, lingerie styling, cleavage emphasis, weapons, or copied costume geometry.
-- Red is a controlled signal color, not neon overload.
-- If generative typography is incorrect, use a blank nameplate and add exact `GOBI` and `88` during compositing.
+- Stylish and athletic, clearly adult, polished, and suitable for a gaming entertainer.
+- The blue/white/pink combination is now an approved GOBI palette.
+- No bunny/rabbit chest symbol, D.Va name, Overwatch logo, or copied game UI.
+- No lingerie construction, exposed cleavage emphasis, weapons, or school uniform styling.
+- If generative typography is incorrect, use a blank plate and add exact `GOBI` and `88` during compositing.
 
 ## 6. B-88 Companion
 
@@ -123,29 +129,30 @@ Casino and slot content is educational/editorial for adults 21+. It must not pro
 - Use close-up, medium host shot, full-body presenter, over-shoulder interface, and GOBI/B-88 two-shot as the standard grammar.
 - Neon arcade/studio environments must remain original and contain no copied game cabinets, logos, or copyrighted interface.
 
-## 10. Palette
+## 10. Palette v3.1
 
 | Role | Color | Hex |
 |---|---|---|
-| Broadcast White | Jacket and identity field | `#E9ECEC` |
-| Deep Graphite | Top, trousers, hardware | `#171A1F` |
-| Signal Red | Interface and identifiers | `#E23832` |
-| Dark Crimson | Hair streak and technical depth | `#7A181B` |
+| GOBI Royal Blue | Primary suit field | `#176FD1` |
+| Broadcast White | Shoulders and technical panels | `#E9ECEC` |
+| Deep Graphite | Collar, waist, and hardware | `#171A1F` |
+| Hot Pink | Cheek marks and technical accents | `#F03B9D` |
+| Dark Magenta | Interface depth | `#8E205F` |
 | Studio Black | Background separation | `#080A0E` |
 | Interface White | Editorial information | `#F5F7F7` |
 
-Signal red should normally occupy less than 10% of the character area.
+Royal blue is the dominant suit color. White maintains readability, graphite structures the silhouette, and hot pink should remain a controlled accent.
 
-## 11. Master Visual Prompt v3
+## 11. Master Visual Prompt v3.1
 
-> Production-ready original character design of GOBI, one clearly adult 23-year-old Asian woman and charismatic gaming entertainer, streamer, tech presenter and playful analyst; original East/Southeast Asian face, warm medium-light skin, almond dark-brown eyes, expressive brows, long layered dark-espresso hair with subtle deep-crimson inner streak; confident, competitive, lighthearted, intelligent and welcoming; expedition-white cropped structured tech jacket over graphite high-neck performance top, tailored graphite utility trousers with white technical panels, restrained deep-crimson piping, compact broadcast headset, fingerless presentation gloves, red holographic wrist interface, exact readable GOBI chest nameplate and exact readable 88 upper-arm identifier; premium semi-photorealistic cinematic 3D, neutral key light, restrained red rim, original futuristic streaming studio, practical non-sexualized adult brand character.
+> Production-ready original character design of GOBI, one clearly adult 23-year-old Asian woman and charismatic gaming entertainer, streamer, tech presenter and playful analyst; soft oval adult face, fair-to-medium skin, large almond dark-brown eyes, fine eyeliner, long lashes, slim refined nose, softly full pink lips, three vivid hot-pink triangular gaming marks on each cheek, long straight chestnut-brown hair with warm-red undertones and long side-swept bangs; confident, competitive, lighthearted and welcoming; sleek high-neck royal-blue futuristic broadcast suit with white shoulder and outer-leg panels, deep-graphite collar and waist structure, restrained hot-pink piping, white/graphite/pink professional headset, fingerless gloves, exact readable GOBI chest plate and exact readable 88 upper-arm identifier; premium semi-photorealistic cinematic 3D, neutral key light, restrained blue and magenta rim, original futuristic gaming studio, stylish non-explicit adult brand character.
 
 ## 12. Negative Constraints
 
 Do not generate:
 
 - Fox, animal mascot, child, minor, teen-coded school styling, chibi, baby face, or childlike proportions.
-- D.Va, Overwatch, bunny/rabbit logo, blue-and-pink bodysuit, recognizable franchise costume, celebrity likeness, or copied UI.
+- D.Va name, Overwatch logo, bunny/rabbit symbol, recognizable franchise replica, celebrity likeness, or copied game UI.
 - Lingerie, exposed cleavage emphasis, fetish styling, or sexualized camera framing.
 - Weapons, casino-sales host styling, slot reels, jackpot text, chips, roulette, money rain, or guaranteed-win language.
 - Roblox, Minecraft, Disney, Pixar, Fortnite, Pokémon, or copied game-franchise styling.
@@ -159,12 +166,12 @@ Owner-directed decisions already locked:
 - [x] Clearly adult Asian woman, age 23.
 - [x] Gaming entertainer / streamer / presenter energy.
 - [x] Confident, competitive, lighthearted personality.
-- [x] White, graphite, and signal-red GOBI palette.
+- [x] Royal-blue, white, graphite, and hot-pink GOBI palette.
 - [x] Original IP; reference is vibe only.
 
 Pending:
 
-- [ ] Approve `gobi-human-identity-lock-v3.png`.
+- [ ] Approve `gobi-human-identity-lock-v3.1.png`.
 - [ ] Lock exact name presentation and voice.
 - [ ] Generate expression sheet v3.
 - [ ] Generate pose/presenter sheet v3.
