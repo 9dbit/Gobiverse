@@ -21,8 +21,8 @@ Unblock criteria:
 
 | Asset | Dimensions | Size | SHA-256 | Status |
 |---|---:|---:|---|---|
-| `gobi-p001-storyboard-v2.png` | 941×1672 | 2,463,075 bytes | `8f695dae2b5b2347e3cf39e3458cf83758b69a81bccd8fd717ba975a2ee0577b` | Approved for animatic |
-| `gobi-p001-thumbnail-v2.png` | 941×1672 | 2,620,686 bytes | `9a25b821f4f2f8a6867bb212181507f065211ab89727036fc66d6bcaeb38a6b2` | Approved for organic thumbnail test |
+| `gobi-p001-storyboard-v2.png` | 941×1672 | 2,463,075 bytes | `8f695dae2b5b2347e3cf39e3458cf83758b69a81bccd8fd717ba975a2ee0577b` | Historical; do not animate or publish |
+| `gobi-p001-thumbnail-v2.png` | 941×1672 | 2,620,686 bytes | `9a25b821f4f2f8a6867bb212181507f065211ab89727036fc66d6bcaeb38a6b2` | Historical; do not publish |
 
 ## Storyboard sequence
 
