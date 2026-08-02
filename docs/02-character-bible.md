@@ -4,7 +4,7 @@
 **Version:** 3.3  
 **Started:** 2026-08-02  
 **Revised:** 2026-08-02  
-**Issue:** [#2 — Roll out GOBI human entertainer v3.2](https://github.com/9dbit/Gobiverse/issues/2)  
+**Issue:** [#2 — Roll out GOBI human entertainer v3.3](https://github.com/9dbit/Gobiverse/issues/2)  
 **Guardrail:** [GOBI.md](../GOBI.md)
 
 ## 1. Canonical Direction
@@ -110,7 +110,7 @@ B-88 remains valid as GOBI's companion:
 - Precise, literal, and reliable.
 - No child-toy behavior, cartoon eyes, or casino-sales behavior.
 
-A new human/B-88 scale and interaction sheet is required before B-88 appears in final v3 content.
+A new human/B-88 scale and interaction sheet is required before B-88 appears in final v3.3 content.
 
 ## 7. Voice and Performance
 
@@ -166,7 +166,7 @@ Official source: [`assets/brand/gobi88-logo-official.webp`](../assets/brand/gobi
 
 These are working digital values sampled visually from the supplied raster logo. Production design should reference the original logo asset for final matching.
 
-**Absolute color prohibition:** pink, hot pink, magenta, purple, lavender, cyan, turquoise, and bright royal blue.
+**Absolute character/outfit color prohibition:** pink, hot pink, magenta, purple, lavender, cyan, turquoise, and bright royal blue. Restrained cyan/electric-blue environmental light remains allowed under Section 1 and Dark Neon Tech v2.
 
 ## 11. Master Visual Prompt v3.3
 
