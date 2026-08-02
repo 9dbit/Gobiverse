@@ -1,7 +1,7 @@
 # GOBI.md — GOBI88 Brand & Editorial Guardrail
 
 > **Status:** Active guardrail  
-> **Version:** 0.3  
+> **Version:** 0.4  
 > **Effective date:** 2026-08-02  
 > **Owner:** GOBI88 Brand Team
 
@@ -173,25 +173,28 @@ Preferred vocabulary: quest, arena, explore, mechanics, universe, crew, mission,
 
 ## 9. Visual Direction
 
-Official system:
+Active system: **Dark Neon Tech v2**.
 
-- Canonical GOBI human v3.2.
-- Official GOBI88 logo.
-- Deep navy, dominant pearl white, and signal red.
+- Canonical GOBI human v3.2 and approved B-88 scale.
+- Official GOBI88 logo and permanent red/white/navy anchors.
+- Deep navy or near-black remains 65–75% of the visual.
+- Colorful gradients may use electric blue, cobalt, cyan, teal, amber, and restrained orange as luminous secondary accents.
+- Color appears primarily as neon light, glow, glass refraction, status indicator, chart line, or emissive seam.
 - Premium cinematic character imagery plus bold editorial typography.
-- Four repeatable modes: Signal Cinema, Type Strike, Breakout Frame, and Editorial Mask.
-- Oversized type, asymmetric crops, intentional overlap, floating UI, masking panels, and controlled negative space.
-- Subtle grain, halftone, scanline, and restrained glitch.
+- Translucent glass pill UI, rounded controls, brushed gunmetal portals, satin chrome bevels, and anodized navy metal.
+- Active modes: Neon Cinema, Glow UI, Metal Pulse, and Holo Editorial.
+- Oversized type, asymmetric crops, controlled overlap, subtle grain, scanline, halftone, and restrained glitch.
 
-See [Graphic Style System](docs/03-graphic-style-system.md), the [Style Board](assets/concepts/gobi88-social-graphic-style-board-v1.png), and [Production Rollout v1](docs/04-production-rollout-v1.md).
+See [Dark Neon Tech System v2](docs/05-dark-neon-tech-system-v2.md), the [v2 Style Board](assets/concepts/gobi88-dark-neon-tech-style-board-v2.png), and [v2 Template Kit](templates/social-v2/README.md).
 
 Avoid:
 
-- Pink, magenta, purple, cyan, turquoise, bright royal blue, orange, yellow, gold, or green campaign accents.
+- Pink, hot pink, magenta, pastel candy palettes, and flat rainbow backgrounds.
+- More than two dominant glow hues plus signal red in one frame.
+- Glow that obscures eyes, cheek marks, logo, subtitles, or verified information.
+- Invented balances, percentages, win rates, performance claims, or pseudo-text.
 - Direct copies of copyrighted characters, brands, logos, layouts, or UI.
-- Childlike mascots or toy-like presentation.
-- Visual overload and unreadable promotional text.
-- Pseudo-text, fake balances, fabricated win effects, money rain, or generic casino-gold clichés.
+- Childlike mascots, toy-like presentation, generic casino gold, fire, money rain, or jackpot clichés.
 - More than one primary message per frame.
 
 All assets must record their source, license, prompt, model/tool, edit status, and approval status.
