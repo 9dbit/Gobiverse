@@ -74,6 +74,8 @@ async function captureViewport(page: Page, screenshotPath: string) {
   await page.evaluate(() => {
     delete document.documentElement.dataset.screenshotFullPage;
   });
+  await page.mouse.move(1, 1);
+  await page.waitForTimeout(50);
   await page.screenshot({ path: screenshotPath, fullPage: false });
 }
 
