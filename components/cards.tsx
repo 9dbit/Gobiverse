@@ -110,3 +110,46 @@ export function GearCard({ product }: { product: GearProduct }) {
     </Link>
   );
 }
+
+export function EditorialCard({
+  href,
+  category,
+  title,
+  summary,
+  author,
+  verifiedAt,
+}: {
+  href: string;
+  category: string;
+  title: string;
+  summary: string;
+  author: string;
+  verifiedAt: string;
+}) {
+  return (
+    <Link className="content-card editorial-card" href={href}>
+      <Image
+        className="editorial-image"
+        src="/assets/gobiverse/web/gobiverse-editorial-fallback-square.webp"
+        alt=""
+        width={1200}
+        height={1200}
+      />
+      <div className="card-body">
+        <p className="eyebrow">{category}</p>
+        <h3>{title}</h3>
+        <p>{summary}</p>
+        <dl className="editorial-meta">
+          <div>
+            <dt>Penanggung jawab</dt>
+            <dd>{author}</dd>
+          </div>
+          <div>
+            <dt>Terakhir dicek</dt>
+            <dd>{verifiedAt}</dd>
+          </div>
+        </dl>
+      </div>
+    </Link>
+  );
+}

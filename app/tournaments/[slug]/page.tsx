@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { formatDate, formatVerified, getTournament, tournaments } from "@/lib/data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
@@ -33,6 +34,13 @@ export default async function TournamentDetailPage({
   if (!tournament) notFound();
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Turnamen", path: "/tournaments" },
+          { name: tournament.name, path: `/tournaments/${tournament.slug}` },
+        ]}
+      />
       <section className="page-hero tournaments-art">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">

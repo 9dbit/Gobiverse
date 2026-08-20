@@ -7,9 +7,9 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 - public homepage, Mobile Legends demo hub, three fictional hero detail pages, Counter Picker, tournament listing/detail, gear hub/detail, About, and Editorial Policy;
 - mobile-first dark gaming discovery UI using only the approved Gobiverse asset pack;
 - deterministic Counter Picker interaction using clearly labelled fictional demo data;
-- tournament filters with desktop panel and mobile drawer;
-- global header, searchable destination overlay, footer, breadcrumbs, loading, error, empty, and 404 states;
-- noindex metadata for all demo content, route-specific canonical and Open Graph URLs, robots controls, sitemap, and site-level Organization JSON-LD;
+- tournament filters with game, city, format, month, and status controls, removable active-filter chips, a desktop panel, and an accessible mobile drawer;
+- global header, working destination search, active navigation, editorial rail, role/category shortcuts, footer, breadcrumbs, loading, error, empty, and 404 states;
+- noindex metadata for all demo content, host-level preview protection, route-specific canonical and Open Graph URLs, robots controls, sitemap, and Organization, WebSite, and BreadcrumbList structured data;
 - Drizzle PostgreSQL schema, generated migrations, safe `.env.example`, and a transactional, idempotent DEMO seed workflow with persisted-row verification and seed-only conflict identities;
 - Vitest unit coverage, Playwright route/interaction smoke coverage, and desktop/mobile screenshot capture.
 
@@ -40,6 +40,23 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 
 ## Validation results
 
+### Hardening validation
+
+| Command/check | Result |
+|---|---|
+| `pnpm install --frozen-lockfile` | Passed with pnpm 10.26.1 and the reviewed lockfile |
+| `pnpm format:check` | Passed |
+| `pnpm lint` | Passed |
+| `pnpm typecheck` | Passed |
+| `pnpm test` | Passed: 5 unit/config tests |
+| `pnpm build` | Passed: 20 static/SSG pages generated |
+| Production HTTP smoke | Passed: representative public routes returned 200 and an unknown route returned 404 |
+| `pnpm perf:check` | Passed locally: representative HTML responses were 20–45 KB and 8–14 ms after server warm-up; hosted Core Web Vitals remain deferred |
+| `pnpm test:e2e` | 44 desktop/mobile tests configured; final GitHub-hosted Chromium run pending for this hardening commit |
+| `pnpm screenshots` | 36 desktop/mobile captures configured; exact-commit CI regeneration pending for this hardening commit |
+
+### Original foundation validation
+
 | Command | Result |
 |---|---|
 | `pnpm install --frozen-lockfile` | Passed |
@@ -67,6 +84,8 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 - Replit operating instructions and durable environment note: `replit.md`, `.agents/memory/**`
 
 ## Screenshot index
+
+The paths below are the original foundation captures. They must be regenerated from the exact hardening commit before review; the CI workflow publishes the replacement set as a short-lived artifact, after which the approved files replace these paths.
 
 Desktop 1440×900:
 
@@ -119,6 +138,7 @@ Mobile 390×844:
 - Data is intentionally limited to three fictional heroes, three tournament examples, and three gear examples.
 - Analytics remains disabled; no analytics identifier or external tracking script has been configured.
 - The visual system is a foundation implementation; production editorial content still needs verified sources, authorship, and moderation.
+- Browser tests and replacement screenshots for the hardening diff require the GitHub-hosted Chromium run; local browser installation was blocked by the execution environment, while lint, type-check, unit tests, build, HTTP smoke, and response budgets passed locally.
 
 ## Rollback
 
@@ -126,4 +146,4 @@ All work is isolated to `agent/foundation-slice`. Review and revert the mileston
 
 ## Proposed next step
 
-After approval, provision the managed PostgreSQL connection through Replit, run `pnpm db:migrate` followed by `pnpm db:seed`, then replace demo content only with verified editorial records that satisfy the publishing and indexing contract.
+Complete the hardening CI run, replace the screenshot set with exact-commit captures, and review the draft pull request without merging or deploying. After explicit approval, provision the managed PostgreSQL connection through Replit, run `pnpm db:migrate` followed by `pnpm db:seed`, then replace demo content only with verified editorial records that satisfy the publishing and indexing contract.

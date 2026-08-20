@@ -1,5 +1,11 @@
 import Link from "next/link";
-import { GearCard, HeroCard, SectionHeading, TournamentCard } from "@/components/cards";
+import {
+  EditorialCard,
+  GearCard,
+  HeroCard,
+  SectionHeading,
+  TournamentCard,
+} from "@/components/cards";
 import { gearProducts, heroes, tournaments } from "@/lib/data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
@@ -146,9 +152,43 @@ export default function HomePage() {
           <div>
             <h3>Commerce tertunda</h3>
             <p>
-              Review editoral belum berubah menjadi checkout, harga, atau affiliate CTA.
+              Review editorial belum berubah menjadi checkout, harga, atau affiliate CTA.
             </p>
           </div>
+        </div>
+      </section>
+
+      <section className="section-tight page-shell">
+        <SectionHeading
+          eyebrow="PANDUAN & TRANSPARANSI"
+          title="Baca sebelum mengambil keputusan"
+          action={{ href: "/editorial-policy", label: "Lihat kebijakan" }}
+        />
+        <div className="rail editorial-rail">
+          <EditorialCard
+            href="/editorial-policy"
+            category="KEBIJAKAN"
+            title="Bagaimana Gobiverse memeriksa sumber dan status data"
+            summary="Standar untuk data DEMO, verifikasi, koreksi, serta disclosure editorial."
+            author="Tim Editorial Gobiverse"
+            verifiedAt="20 Agu 2026"
+          />
+          <EditorialCard
+            href="/about"
+            category="TENTANG"
+            title="Utility sebelum commerce"
+            summary="Mengapa foundation dimulai dari alat bantu, transparansi, dan batasan produk."
+            author="Tim Produk Gobiverse"
+            verifiedAt="20 Agu 2026"
+          />
+          <EditorialCard
+            href="/gear"
+            category="METODOLOGI GEAR"
+            title="Kerangka review yang tidak dimulai dari diskon"
+            summary="Harga dan affiliate tetap ditunda sampai sumber serta metodologi tersedia."
+            author="Tim Editorial Gobiverse"
+            verifiedAt="20 Agu 2026"
+          />
         </div>
       </section>
     </>

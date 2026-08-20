@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JsonLd } from "@/components/structured-data";
 import { SiteChrome } from "@/components/site-chrome";
 import { absoluteUrl, siteConfig } from "@/lib/site";
 import "./globals.css";
@@ -35,6 +36,29 @@ export default function RootLayout({
   return (
     <html lang="id">
       <body>
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "@id": absoluteUrl("/#organization"),
+                name: siteConfig.name,
+                url: absoluteUrl("/"),
+                logo: absoluteUrl("/assets/gobiverse/icons/gobiverse-emblem-512.png"),
+                description: siteConfig.description,
+              },
+              {
+                "@type": "WebSite",
+                "@id": absoluteUrl("/#website"),
+                name: siteConfig.name,
+                url: absoluteUrl("/"),
+                inLanguage: "id-ID",
+                publisher: { "@id": absoluteUrl("/#organization") },
+              },
+            ],
+          }}
+        />
         <SiteChrome>{children}</SiteChrome>
       </body>
     </html>

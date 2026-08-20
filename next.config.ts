@@ -12,6 +12,21 @@ const nextConfig: NextConfig = {
   images: {
     formats: ["image/avif", "image/webp"],
   },
+  ...(replitDevDomain
+    ? {
+        headers: async () => [
+          {
+            source: "/:path*",
+            headers: [
+              {
+                key: "X-Robots-Tag",
+                value: "noindex, nofollow, noarchive",
+              },
+            ],
+          },
+        ],
+      }
+    : {}),
 };
 
 export default nextConfig;

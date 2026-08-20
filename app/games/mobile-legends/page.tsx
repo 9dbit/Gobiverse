@@ -1,6 +1,7 @@
 import Link from "next/link";
-import { HeroCard, SectionHeading } from "@/components/cards";
-import { heroes } from "@/lib/data";
+import { SectionHeading } from "@/components/cards";
+import { HeroRoleFilter } from "@/components/hero-role-filter";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
 export const metadata = createPageMetadata({
@@ -13,6 +14,12 @@ export const metadata = createPageMetadata({
 export default function GameHubPage() {
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Mobile Legends demo", path: "/games/mobile-legends" },
+        ]}
+      />
       <section className="page-hero with-art">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">
@@ -38,11 +45,7 @@ export default function GameHubPage() {
       </section>
       <section id="hero-demo" className="section page-shell">
         <SectionHeading eyebrow="PROFIL FIKTIF" title="Hero demo &amp; shortcut role" />
-        <div className="rail">
-          {heroes.map((hero) => (
-            <HeroCard key={hero.slug} hero={hero} />
-          ))}
-        </div>
+        <HeroRoleFilter />
       </section>
       <section className="section-tight page-shell">
         <div className="trust-strip">

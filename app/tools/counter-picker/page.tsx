@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { CounterPicker } from "@/components/counter-picker";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
 export const metadata = createPageMetadata({
@@ -12,6 +13,12 @@ export const metadata = createPageMetadata({
 export default function CounterPickerPage() {
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Counter Picker", path: "/tools/counter-picker" },
+        ]}
+      />
       <section className="page-hero">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">

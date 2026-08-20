@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { HeroCard, SectionHeading } from "@/components/cards";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { formatVerified, getHero, heroes } from "@/lib/data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
@@ -36,6 +37,16 @@ export default async function HeroDetailPage({
 
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Mobile Legends demo", path: "/games/mobile-legends" },
+          {
+            name: hero.name,
+            path: `/games/mobile-legends/heroes/${hero.slug}`,
+          },
+        ]}
+      />
       <section className="page-hero">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">

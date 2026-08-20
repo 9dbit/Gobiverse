@@ -1,6 +1,7 @@
 import Link from "next/link";
-import { GearCard, SectionHeading } from "@/components/cards";
-import { gearProducts } from "@/lib/data";
+import { SectionHeading } from "@/components/cards";
+import { GearCategoryFilter } from "@/components/gear-category-filter";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
 export const metadata = createPageMetadata({
@@ -14,6 +15,12 @@ export const metadata = createPageMetadata({
 export default function GearPage() {
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Gear", path: "/gear" },
+        ]}
+      />
       <section className="page-hero gear-art">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">
@@ -37,11 +44,7 @@ export default function GearPage() {
           eyebrow="KURASI BERDASARKAN PENGGUNAAN"
           title="Contoh gear fiktif"
         />
-        <div className="card-grid">
-          {gearProducts.map((product) => (
-            <GearCard key={product.slug} product={product} />
-          ))}
-        </div>
+        <GearCategoryFilter />
       </section>
       <section className="section-tight page-shell">
         <div className="trust-strip">

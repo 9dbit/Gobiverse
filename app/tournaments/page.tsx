@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { TournamentFilters } from "@/components/tournament-filters";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
@@ -13,6 +14,12 @@ export const metadata = createPageMetadata({
 export default function TournamentsPage() {
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Turnamen", path: "/tournaments" },
+        ]}
+      />
       <section className="page-hero tournaments-art">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">

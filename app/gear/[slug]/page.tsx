@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BreadcrumbJsonLd } from "@/components/structured-data";
 import { formatVerified, gearProducts, getGearProduct } from "@/lib/data";
 import { createPageMetadata, demoRobots } from "@/lib/site";
 
@@ -33,6 +34,13 @@ export default async function GearDetailPage({
   if (!product) notFound();
   return (
     <>
+      <BreadcrumbJsonLd
+        items={[
+          { name: "Beranda", path: "/" },
+          { name: "Gear", path: "/gear" },
+          { name: product.name, path: `/gear/${product.slug}` },
+        ]}
+      />
       <section className="page-hero gear-art">
         <div className="page-shell">
           <nav className="breadcrumbs" aria-label="Breadcrumb">

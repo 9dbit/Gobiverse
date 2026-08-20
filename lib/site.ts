@@ -1,8 +1,10 @@
+import { publicEnvironment } from "./env";
+
 export const siteConfig = {
   name: "Gobiverse",
   description:
     "Gaming intelligence Indonesia untuk strategi, turnamen, dan gear yang lebih jelas.",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://gobiverse.com",
+  url: publicEnvironment.NEXT_PUBLIC_SITE_URL,
 };
 
 export function absoluteUrl(path = "/") {
