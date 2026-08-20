@@ -1,3 +1,7 @@
+import { performance } from "node:perf_hooks";
+import process from "node:process";
+import { setTimeout as delay } from "node:timers/promises";
+
 const baseUrl = process.env.PERFORMANCE_BASE_URL ?? "http://127.0.0.1:5000";
 const routes = ["/", "/tournaments", "/gear"];
 const maxResponseMilliseconds = 1_500;
@@ -8,13 +12,13 @@ async function waitForServer() {
 
   while (Date.now() < deadline) {
     try {
-      const response = await fetch(baseUrl, { redirect: "manual" });
+      const response = await globalThis.fetch(baseUrl, { redirect: "manual" });
       if (response.ok) return;
     } catch {
       // The CI workflow starts the production server in the background.
     }
 
-    await new Promise((resolve) => setTimeout(resolve, 1_000));
+    await delay(1_000);
   }
 
   throw new Error(`Performance server did not become ready at ${baseUrl}.`);
@@ -25,11 +29,11 @@ await waitForServer();
 let failed = false;
 for (const route of routes) {
   const startedAt = performance.now();
-  const response = await fetch(`${baseUrl}${route}`);
+  const response = await globalThis.fetch(`${baseUrl}${route}`);
   const body = await response.arrayBuffer();
   const duration = performance.now() - startedAt;
 
-  console.log(
+  globalThis.console.log(
     `${route}: ${response.status}, ${body.byteLength} bytes, ${duration.toFixed(1)} ms`,
   );
 
