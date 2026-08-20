@@ -43,9 +43,35 @@ async function waitForServer() {
 }
 
 async function captureFullPage(page: Page, screenshotPath: string) {
-  await page.evaluate(() => {
+  await page.evaluate(async () => {
     document.documentElement.dataset.screenshotFullPage = "true";
+
+    const pause = (milliseconds: number) =>
+      new Promise((resolve) => window.setTimeout(resolve, milliseconds));
+    const scrollStep = Math.max(320, Math.floor(window.innerHeight * 0.8));
+    const pageHeight = document.documentElement.scrollHeight;
+
+    for (let y = 0; y < pageHeight; y += scrollStep) {
+      window.scrollTo(0, y);
+      await pause(80);
+    }
+
     window.scrollTo(0, 0);
+    await Promise.race([
+      Promise.all(
+        Array.from(document.images).map(async (image) => {
+          if (!image.complete) {
+            await new Promise<void>((resolve) => {
+              image.addEventListener("load", () => resolve(), { once: true });
+              image.addEventListener("error", () => resolve(), { once: true });
+            });
+          }
+          await image.decode().catch(() => undefined);
+        }),
+      ),
+      pause(5_000),
+    ]);
+    await pause(100);
   });
   await page.screenshot({ path: screenshotPath, fullPage: true });
 }

@@ -37,11 +37,23 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
-args = "Start application"
+args = "Start review server"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "pnpm screenshots"
+
+[[workflows.workflow]]
+name = "Start review server"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "pnpm build && pnpm start"
+waitForPort = 5000
+
+[workflows.workflow.metadata]
+outputType = "webview"
 
 [[ports]]
 localPort = 5000
