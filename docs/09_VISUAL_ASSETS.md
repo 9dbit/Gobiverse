@@ -23,9 +23,12 @@ Gobiverse uses an original **cosmic gaming intelligence** visual system: deep na
 :root {
   --gobiverse-navy-950: #050b1c;
   --gobiverse-navy-900: #09142e;
+  --gobiverse-surface-850: #111827;
+  --gobiverse-surface-800: #182235;
   --gobiverse-cyan-400: #20d9ff;
   --gobiverse-blue-500: #327bff;
   --gobiverse-violet-500: #8b3dff;
+  --gobiverse-orange-500: #ff6b35;
   --gobiverse-white: #f2f7ff;
 }
 ```
@@ -39,6 +42,7 @@ Gobiverse uses an original **cosmic gaming intelligence** visual system: deep na
 - Preserve aspect ratios and focal points; use `object-fit: cover` instead of stretching.
 - Do not imply that the original silhouettes belong to Mobile Legends or another publisher.
 - Do not add casino, betting, jackpot, gambling, or black-and-gold luxury motifs.
+- Reserve orange for high-attention actions, deadlines, verified prices, and compact status badges. Cyan remains the primary Gobiverse brand/focus color.
 - Treat the emblem as an early raster concept. Do not present it as a trademarked final logo.
 
 Suggested desktop hero treatment:
