@@ -19,6 +19,7 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 - Demo routes are deliberately excluded from indexing. The sitemap contains only the foundation trust pages.
 - No managed PostgreSQL connection was provided during this milestone. The schema and migration are committed, while `pnpm db:seed` requires `DATABASE_URL` through Replit Secrets and fails explicitly until it is configured.
 - The approved visual assets are used without alteration. Hero visuals are CSS-generated abstract placeholders rather than game art.
+- Vite is pinned to `8.2.1`. The locally enforced supply-chain freshness check rejected `8.2.2`, which had been published the same day; the policy was not relaxed.
 - Account access, editorial administration, tournament submission, payments, affiliate links, checkout, inventory, and user-generated content remain out of scope.
 
 ## Route inventory
@@ -51,9 +52,10 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 | `pnpm test` | Passed: 5 unit/config tests |
 | `pnpm build` | Passed: 20 static/SSG pages generated |
 | Production HTTP smoke | Passed: representative public routes returned 200 and an unknown route returned 404 |
-| `pnpm perf:check` | Passed locally: representative HTML responses were 20–45 KB and 8–14 ms after server warm-up; hosted Core Web Vitals remain deferred |
-| `pnpm test:e2e` | 44 desktop/mobile tests configured; final GitHub-hosted Chromium run pending for this hardening commit |
-| `pnpm screenshots` | 36 desktop/mobile captures configured; exact-commit CI regeneration pending for this hardening commit |
+| `pnpm perf:check` | Passed locally and in CI: `/` 44,832 bytes / 9.0 ms, `/tournaments` 20,917 bytes / 7.0 ms, and `/gear` 21,319 bytes / 7.8 ms after server warm-up; hosted Core Web Vitals remain deferred |
+| `pnpm test:e2e` | Passed: 44 desktop/mobile tests in 33.1 seconds |
+| `pnpm screenshots` | Passed: 36 production-server captures; visual audit found no development badge, unloaded image, document overflow, or pointer-hover artifact |
+| GitHub Actions | Passed: [Foundation validation run 32382067479](https://github.com/9dbit/Gobiverse/actions/runs/32382067479) for UI commit `01d696248e54e5820b35a78f4d038bbf229c4278` |
 
 ### Original foundation validation
 
@@ -78,14 +80,14 @@ This milestone implements the Gobiverse foundation vertical slice from `docs/02_
 - Reusable interface components: `components/**`
 - Demo data, site helpers, schema, and unit test: `lib/**`
 - Database configuration and generated migrations: `drizzle.config.ts`, `drizzle/**`
-- Runtime/configuration: `.replit`, `.env.example`, `.gitignore`, `.prettierignore`, `package.json`, `pnpm-lock.yaml`, `next.config.ts`, `next-env.d.ts`, `tsconfig.json`, `postcss.config.mjs`, `prettier.config.mjs`, `eslint.config.mjs`, `vitest.config.ts`, `playwright.config.ts`
-- Automation: `scripts/seed.ts`, `scripts/capture-screenshots.ts`, `tests/foundation.spec.ts`
+- Runtime/configuration: `.github/workflows/ci.yml`, `.replit`, `.env.example`, `.gitignore`, `.prettierignore`, `package.json`, `pnpm-lock.yaml`, `next.config.ts`, `next-env.d.ts`, `tsconfig.json`, `postcss.config.mjs`, `prettier.config.mjs`, `eslint.config.mjs`, `vitest.config.ts`, `playwright.config.ts`
+- Automation: `scripts/seed.ts`, `scripts/check-performance.mjs`, `scripts/capture-screenshots.ts`, `tests/foundation.spec.ts`
 - Review evidence: `screenshots/foundation-slice/**`, `docs/reports/foundation-slice.md`
 - Replit operating instructions and durable environment note: `replit.md`, `.agents/memory/**`
 
 ## Screenshot index
 
-The paths below are the original foundation captures. They must be regenerated from the exact hardening commit before review; the CI workflow publishes the replacement set as a short-lived artifact, after which the approved files replace these paths.
+The 36 paths below were regenerated from UI commit `01d696248e54e5820b35a78f4d038bbf229c4278`, visually audited, and added unchanged by the following evidence commit. The source artifact contained 15,621,110 compressed bytes with digest `sha256:eac4bf00ac4bf702e2c47805299ca2056612d0d884acc8a953e8cea52d88525e`.
 
 Desktop 1440×900:
 
@@ -104,6 +106,9 @@ Desktop 1440×900:
 - `screenshots/foundation-slice/desktop/about.png`
 - `screenshots/foundation-slice/desktop/editorial-policy.png`
 - `screenshots/foundation-slice/desktop/home-search-open.png`
+- `screenshots/foundation-slice/desktop/home-search-filtered.png`
+- `screenshots/foundation-slice/desktop/tournaments-empty.png`
+- `screenshots/foundation-slice/desktop/not-found.png`
 
 Mobile 390×844:
 
@@ -122,6 +127,9 @@ Mobile 390×844:
 - `screenshots/foundation-slice/mobile/about.png`
 - `screenshots/foundation-slice/mobile/editorial-policy.png`
 - `screenshots/foundation-slice/mobile/home-search-open.png`
+- `screenshots/foundation-slice/mobile/home-search-filtered.png`
+- `screenshots/foundation-slice/mobile/tournaments-empty.png`
+- `screenshots/foundation-slice/mobile/not-found.png`
 
 ## Security, privacy, copyright, and SEO checks
 
@@ -138,7 +146,7 @@ Mobile 390×844:
 - Data is intentionally limited to three fictional heroes, three tournament examples, and three gear examples.
 - Analytics remains disabled; no analytics identifier or external tracking script has been configured.
 - The visual system is a foundation implementation; production editorial content still needs verified sources, authorship, and moderation.
-- Browser tests and replacement screenshots for the hardening diff require the GitHub-hosted Chromium run; local browser installation was blocked by the execution environment, while lint, type-check, unit tests, build, HTTP smoke, and response budgets passed locally.
+- Loading and error boundaries are implemented, but this static foundation has no deterministic public route that triggers them. The committed visual set covers the applicable empty, DEMO, interaction, and 404 states.
 
 ## Rollback
 
@@ -146,4 +154,4 @@ All work is isolated to `agent/foundation-slice`. Review and revert the mileston
 
 ## Proposed next step
 
-Complete the hardening CI run, replace the screenshot set with exact-commit captures, and review the draft pull request without merging or deploying. After explicit approval, provision the managed PostgreSQL connection through Replit, run `pnpm db:migrate` followed by `pnpm db:seed`, then replace demo content only with verified editorial records that satisfy the publishing and indexing contract.
+Review draft pull request #3 without merging or deploying. After explicit approval, provision the managed PostgreSQL connection through Replit, run `pnpm db:migrate` followed by `pnpm db:seed`, then replace demo content only with verified editorial records that satisfy the publishing and indexing contract.
