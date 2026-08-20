@@ -1,0 +1,16 @@
+.next/
+.cache/
+.config/
+.local/
+.upm/
+node_modules/
+coverage/
+playwright-report/
+test-results/
+screenshots/
+public/assets/
+package-lock.json
+pnpm-lock.yaml
+drizzle/meta/
+docs/
+.agents/memory/

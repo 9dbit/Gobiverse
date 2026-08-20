@@ -1,0 +1,2 @@
+- [Next and Playwright preview setup](next-playwright-preview.md) — Next dev origins and Chromium Nix libraries must be configured before browser interactions can be validated.
+- [Demo seed persistence](demo-seed-persistence.md) — demo UI data must be stored, related, and verified by the seed workflow rather than only represented in static fixtures.
