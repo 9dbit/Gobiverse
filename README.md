@@ -30,13 +30,15 @@ Repository sedang berada pada tahap **product foundation**. Implementasi aplikas
 - [GitHub–Replit workflow](docs/06_GITHUB_REPLIT_WORKFLOW.md)
 - [Validation gate](docs/07_VALIDATION_GATE.md)
 - [Roadmap](docs/08_ROADMAP.md)
+- [Visual assets](docs/09_VISUAL_ASSETS.md)
 
 ## Replit handoff
 
 1. Import repository ini dari GitHub ke Replit.
 2. Pastikan Agent membaca `replit.md` dan seluruh dokumen di folder `docs/`.
 3. Tempel isi `docs/05_REPLIT_MASTER_PROMPT.md` sebagai prompt pertama.
-4. Kerjakan satu milestone pada feature branch.
-5. Jalankan validation gate dan simpan screenshot sebelum meminta approval.
+4. Gunakan aset siap-web di `public/assets/gobiverse/` sesuai manifest dan panduan visual.
+5. Kerjakan satu milestone pada feature branch.
+6. Jalankan validation gate dan simpan screenshot sebelum meminta approval.
 
 Jangan menyimpan secret, token, API key, atau kredensial di repository.

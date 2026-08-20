@@ -23,6 +23,7 @@ Read every file in `docs/` completely. Treat them as the source of truth in this
 5. `docs/06_GITHUB_REPLIT_WORKFLOW.md`
 6. `docs/07_VALIDATION_GATE.md`
 7. `docs/08_ROADMAP.md`
+8. `docs/09_VISUAL_ASSETS.md`
 
 If instructions conflict, stop, name the conflict, and request a decision. Do not silently choose a different product direction.
 
@@ -45,6 +46,7 @@ If instructions conflict, stop, name the conflict, and request a decision. Do no
 
 - Mobile-first and accessible; keyboard navigation and visible focus states are required.
 - Visual direction: cosmic gaming, deep navy, electric cyan, and violet accents.
+- Use the approved original assets under `public/assets/gobiverse/` according to `docs/09_VISUAL_ASSETS.md`; do not regenerate or replace them without approval.
 - Avoid casino styling such as black-gold luxury, chips, roulette, jackpot effects, or flashing win animations.
 - Minimum body text should remain comfortably readable on mobile.
 - Every page needs loading, empty, error, and not-found behavior where applicable.

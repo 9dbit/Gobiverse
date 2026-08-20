@@ -1,0 +1,69 @@
+{
+  "brand": "Gobiverse",
+  "version": "1.0.0-draft",
+  "canonicalDomain": "https://gobiverse.com",
+  "assets": [
+    {
+      "id": "home-hero-desktop",
+      "file": "web/gobiverse-home-hero-desktop.webp",
+      "width": 1600,
+      "height": 900,
+      "role": "decorative-homepage-hero",
+      "objectPosition": "center right",
+      "alt": ""
+    },
+    {
+      "id": "home-hero-mobile",
+      "file": "web/gobiverse-home-hero-mobile.webp",
+      "width": 900,
+      "height": 1599,
+      "role": "decorative-homepage-hero-mobile",
+      "objectPosition": "center bottom",
+      "alt": ""
+    },
+    {
+      "id": "strategy-banner",
+      "file": "web/gobiverse-strategy-banner-desktop.webp",
+      "width": 1600,
+      "height": 900,
+      "role": "decorative-strategy-feature",
+      "objectPosition": "center right",
+      "alt": ""
+    },
+    {
+      "id": "tournament-banner",
+      "file": "web/gobiverse-tournament-banner-desktop.webp",
+      "width": 1600,
+      "height": 900,
+      "role": "decorative-tournament-feature",
+      "objectPosition": "center right",
+      "alt": ""
+    },
+    {
+      "id": "gear-banner",
+      "file": "web/gobiverse-gear-banner-desktop.webp",
+      "width": 1600,
+      "height": 900,
+      "role": "decorative-gear-feature",
+      "objectPosition": "center right",
+      "alt": ""
+    },
+    {
+      "id": "editorial-fallback-square",
+      "file": "web/gobiverse-editorial-fallback-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "role": "editorial-fallback",
+      "objectPosition": "center",
+      "alt": "Portal kosmik dengan papan strategi dan simbol komunitas gaming"
+    },
+    {
+      "id": "emblem-512",
+      "file": "icons/gobiverse-emblem-512.png",
+      "width": 512,
+      "height": 512,
+      "role": "draft-brand-emblem",
+      "alt": "Gobiverse"
+    }
+  ]
+}

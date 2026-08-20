@@ -6,7 +6,7 @@ Copy the prompt below into Replit Agent after importing the GitHub repository.
 
 You are implementing the Gobiverse foundation milestone in `9dbit/Gobiverse`.
 
-First, read `README.md`, `replit.md`, and every document in `docs/` completely. Treat them as the implementation contract. Summarize the contract and list only materially blocking questions. If nothing is blocking, record reasonable assumptions and proceed without waiting.
+First, read `README.md`, `replit.md`, and every document in `docs/` completely. Also inspect `public/assets/gobiverse/manifest.json`. Treat them as the implementation contract. Summarize the contract and list only materially blocking questions. If nothing is blocking, record reasonable assumptions and proceed without waiting.
 
 ## Goal
 
@@ -19,15 +19,16 @@ Implement only the foundation milestone. Do not start later roadmap phases.
 1. Create and work on a feature branch named `agent/foundation-slice` (or a collision-free equivalent). Never commit directly to `main`.
 2. Scaffold the approved stack in `docs/04_TECHNICAL_ARCHITECTURE.md`.
 3. Implement every foundation public route and state listed in `docs/02_MVP_SCOPE.md`.
-4. Use fictional, visibly labelled demo data and original abstract placeholders. Do not copy game art or invent live facts.
-5. Make the counter picker a real deterministic interaction backed by seeded data, not a static mockup.
-6. Implement the SEO, canonical, sitemap, robots, metadata, crawl, and structured-data requirements in `docs/03_INFORMATION_ARCHITECTURE_AND_SEO.md`.
-7. Keep all demo routes/data `noindex` until verified production content exists.
-8. Add unit/integration tests and Playwright smoke tests for the critical routes and interaction.
-9. Add `.env.example`; store actual secrets only in Replit Secrets.
-10. Run the complete validation gate in `docs/07_VALIDATION_GATE.md`.
-11. Capture desktop (1440×900) and mobile (390×844) screenshots for every public foundation route. Save them in `screenshots/foundation-slice/desktop/` and `screenshots/foundation-slice/mobile/`.
-12. Write `docs/reports/foundation-slice.md` containing scope, assumptions, architecture decisions, validation results, known limitations, screenshot index, and proposed next step.
+4. Use the approved original visual pack in `public/assets/gobiverse/` according to `docs/09_VISUAL_ASSETS.md`. Do not regenerate, replace, recolor, stretch, or bake interface text into these assets.
+5. Use fictional, visibly labelled demo data and original abstract placeholders. Do not copy game art or invent live facts.
+6. Make the counter picker a real deterministic interaction backed by seeded data, not a static mockup.
+7. Implement the SEO, canonical, sitemap, robots, metadata, crawl, and structured-data requirements in `docs/03_INFORMATION_ARCHITECTURE_AND_SEO.md`.
+8. Keep all demo routes/data `noindex` until verified production content exists.
+9. Add unit/integration tests and Playwright smoke tests for the critical routes and interaction.
+10. Add `.env.example`; store actual secrets only in Replit Secrets.
+11. Run the complete validation gate in `docs/07_VALIDATION_GATE.md`.
+12. Capture desktop (1440×900) and mobile (390×844) screenshots for every public foundation route. Save them in `screenshots/foundation-slice/desktop/` and `screenshots/foundation-slice/mobile/`.
+13. Write `docs/reports/foundation-slice.md` containing scope, assumptions, architecture decisions, validation results, known limitations, screenshot index, and proposed next step.
 
 ## Design direction
 
