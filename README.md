@@ -31,6 +31,7 @@ Repository sedang berada pada tahap **product foundation**. Implementasi aplikas
 - [Validation gate](docs/07_VALIDATION_GATE.md)
 - [Roadmap](docs/08_ROADMAP.md)
 - [Visual assets](docs/09_VISUAL_ASSETS.md)
+- [UI design system](docs/10_UI_DESIGN_SYSTEM.md)
 
 ## Replit handoff
 
