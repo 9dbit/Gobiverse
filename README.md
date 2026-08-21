@@ -18,7 +18,7 @@ Fokus awal bukan portal berita umum dan bukan ecommerce generik. Gobiverse dimul
 
 ## Status
 
-Repository sedang berada pada tahap **product foundation**. Implementasi aplikasi akan dilakukan dengan Replit Agent setelah dokumen scope dan aturan pengerjaan direview.
+Repository sedang berada pada tahap **foundation hardening**. Vertical slice aplikasi sudah tersedia pada branch `agent/foundation-slice` dan mencakup route publik, interaksi Counter Picker, discovery turnamen, gear demo, schema/migration, automated test, serta screenshot review. Semua konten operasional masih berstatus DEMO dan belum disetujui untuk merge atau production deployment.
 
 ## Source of truth
 

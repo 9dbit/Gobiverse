@@ -70,3 +70,12 @@ If instructions conflict, stop, name the conflict, and request a decision. Do no
 - Save desktop and mobile screenshots under `screenshots/<milestone>/`.
 - Add a milestone report under `docs/reports/`.
 - Stop after each milestone and request approval before starting the next milestone.
+
+## Running the foundation slice on Replit
+
+- Main workflow: `Start application`
+- Development command: `pnpm dev`
+- Preview port: `5000`
+- Validation commands: `pnpm format:check`, `pnpm lint`, `pnpm typecheck`, `pnpm test`, `pnpm test:e2e`, and `pnpm build`
+- Screenshot archive command: `pnpm screenshots`
+- Database workflow: run `pnpm db:generate` after schema edits, then `pnpm db:migrate` followed by `pnpm db:seed`. Both database commands require `DATABASE_URL` from Replit Secrets; seeding intentionally fails clearly when it is absent or a real-content slug conflicts with DEMO data.

@@ -57,6 +57,13 @@ screenshots/<milestone>/mobile/<route-name>.png
 
 Screenshots must reflect the exact commit under review. If the UI changes, replace the milestone screenshots or create a new milestone folder; never present stale screenshots as current.
 
+To keep Git history reviewable:
+
+- replace screenshots inside the same unapproved milestone instead of appending dated duplicates;
+- use full-page captures for route inventory and viewport captures for overlays, drawers, and interaction states;
+- strip unnecessary image metadata and review the total milestone size before commit;
+- retain the final approved set in Git; use short-lived CI artifacts for intermediate failures and diagnostics.
+
 ## Replit checkpoints
 
 Replit checkpoints are useful recovery points but do not replace GitHub review. A milestone is not accepted until its branch, tests, screenshots, report, and diff have been reviewed.
